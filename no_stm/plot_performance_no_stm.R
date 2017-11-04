@@ -41,6 +41,22 @@ interactome_cumulated <- c()
 targetrna <- d_t2$targetrna2
 targetrna_cumulated <- c()
 
+# ooi_p-filtered
+ooi_p_filtered <- d$ooi_p_filtered
+ooi_p_filtered_cumulated <- c()
+
+# ooi_p-cons-fltered
+ooi_p_cons_fltered <- d$ooi_p_cons_fltered
+ooi_p_cons_fltered_cumulated <- c()
+
+# ooi_ooi_cons_p-filtered
+ooi_ooi_cons_p_filtered <- d$ooi_ooi_cons_p_filtered
+ooi_ooi_cons_p_filtered_cumulated <- c()
+
+# ooi_cons_p-filtered
+ooi_cons_p_filtered <- d$ooi_cons_p-filtered
+ooi_cons_p_filtered_cumulated <- c()
+
 for (i in 1:200) {
     # CopraRNA 1
     c1_cumulated <- c(c1_cumulated, length(which(c1<=i)))
@@ -62,6 +78,14 @@ for (i in 1:200) {
     interactome_cumulated <- c(interactome_cumulated, length(which(interactome<=i)))
     # TargetRNA2
     targetrna_cumulated <- c(targetrna_cumulated, length(which(targetrna<=i)))
+    # ooi_p-filtered
+    ooi_p_filtered_cumulated <- c(ooi_p_filtered_cumulated, length(which(ooi_p_filtered<=i)))
+    # ooi_p-cons-fltered
+    ooi_p_cons_fltered_cumulated <- c(ooi_p_cons_fltered_cumulated, length(which(ooi_p_cons_fltered<=i)))
+    # ooi_ooi_cons_p-filtered
+    ooi_ooi_cons_p_filtered_cumulated <- c(ooi_ooi_cons_p_filtered_cumulated, length(which(ooi_ooi_cons_p_filtered<=i)))
+    # ooi_cons_p-filtered
+    ooi_cons_p_filtered_cumulated <- c(ooi_cons_p_filtered_cumulated, length(which(ooi_cons_p_filtered<=i)))
 }
 
 pdf("CopraRNA2_benchmark_no_stm.pdf")
@@ -85,8 +109,16 @@ pdf("CopraRNA2_benchmark_no_stm.pdf")
     lines(interactome_cumulated, col="#cab2d6", lwd=2)
     # TargetRNA 2
     lines(targetrna_cumulated, col="#6a3d9a", lwd=2)
-
-    legend(105, 30, c("CopraRNA 1", "IntaRNA", "CopraRNA 2 ooi", "CopraRNA 2 ooi cons", "CopraRNA 2 ooi ooicons", "CopraRNA 2 balanced", "CopraRNA 2 balanced cons", "CopraRNA 2 evo", "Interactome", "TargetRNA 2"), col=c("#a6cee3","black","#b2df8a","#33a02c","#fb9a99","#e31a1c","#fdbf6f","#ff7f00","#cab2d6","#6a3d9a"), lwd=2, bty="n")
+    # ooi_p-filtered
+    lines(ooi_p_filtered_cumulated, col="#b2df8a", lwd=2, lty=2)
+    # ooi_p-cons-fltered
+    lines(ooi_p_cons_fltered_cumulated, col="#b2df8a", lwd=2, lty=3)
+    # ooi_ooi_cons_p-filtered
+    lines(ooi_ooi_cons_p_filtered_cumulated, col="#fb9a99", lwd=2, lty=2)
+    # ooi_cons_p-filtered
+    lines(ooi_cons_p_filtered_cumulated, col="#33a02c", lwd=2, lty=2)
+     
+    legend(105, 30, c("CopraRNA 1", "IntaRNA", "CopraRNA 2 ooi", "CopraRNA 2 ooi cons", "CopraRNA 2 ooi ooicons", "CopraRNA 2 balanced", "CopraRNA 2 balanced cons", "CopraRNA 2 evo", "Interactome", "TargetRNA 2", "ooi_p-filtered", "ooi_p-cons-filtered","ooi_ooi_cons_p-filtered","ooi_cons_p-filtered"), col=c("#a6cee3","black","#b2df8a","#33a02c","#fb9a99","#e31a1c","#fdbf6f","#ff7f00","#cab2d6","#6a3d9a","#b2df8a","#b2df8a","#fb9a99","#33a02c"), lty=c(rep(1,10),2,3,2,2)lwd=2, bty="n")
 dev.off()
 
 pdf("CopraRNA2_benchmark_no_stm_trunc.pdf")
