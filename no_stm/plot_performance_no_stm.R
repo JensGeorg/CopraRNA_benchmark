@@ -118,7 +118,7 @@ pdf("CopraRNA2_benchmark_no_stm.pdf")
     # ooi_cons_p-filtered
     lines(ooi_cons_p_filtered_cumulated, col="#33a02c", lwd=2, lty=2)
      
-    legend(105, 30, c("CopraRNA 1", "IntaRNA", "CopraRNA 2 ooi", "CopraRNA 2 ooi cons", "CopraRNA 2 ooi ooicons", "CopraRNA 2 balanced", "CopraRNA 2 balanced cons", "CopraRNA 2 evo", "Interactome", "TargetRNA 2", "ooi_p-filtered", "ooi_p-cons-filtered","ooi_ooi_cons_p-filtered","ooi_cons_p-filtered"), col=c("#a6cee3","black","#b2df8a","#33a02c","#fb9a99","#e31a1c","#fdbf6f","#ff7f00","#cab2d6","#6a3d9a","#b2df8a","#b2df8a","#fb9a99","#33a02c"), lty=c(rep(1,10),2,3,2,2),lwd=2, bty="n")
+    legend("bottomright", c("CopraRNA 1", "IntaRNA", "CopraRNA 2 ooi", "CopraRNA 2 ooi cons", "CopraRNA 2 ooi ooicons", "CopraRNA 2 balanced", "CopraRNA 2 balanced cons", "CopraRNA 2 evo", "Interactome", "TargetRNA 2", "ooi_p-filtered", "ooi_p-cons-filtered","ooi_ooi_cons_p-filtered","ooi_cons_p-filtered"), col=c("#a6cee3","black","#b2df8a","#33a02c","#fb9a99","#e31a1c","#fdbf6f","#ff7f00","#cab2d6","#6a3d9a","#b2df8a","#b2df8a","#fb9a99","#33a02c"), lty=c(rep(1,10),2,3,2,2),lwd=2, bty="n", cex=0.6)
 dev.off()
 
 pdf("CopraRNA2_benchmark_no_stm_trunc.pdf")
