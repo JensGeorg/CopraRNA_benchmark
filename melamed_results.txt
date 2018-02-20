@@ -1,0 +1,2818 @@
+					Normalized Odds Ratio	Libraries (out of 6)	Normalized Odds Ratio	Libraries (out of 3)	Normalized Odds Ratio	Libraries (out of 3)
+ariR.ymgC.IGT	rprA	IGT	sRNA	-18.56	29760.3	6	637.9	3	15718.0	2
+hcaR	hcaT	CDS	CDS	-12.88	19104.6	U	839.0	U	10965.8	1
+yfjX.yfjW.IGR	sgrS	IGR	sRNA	-11.5			5360.1	1		
+allE.EST3UTR	yeaD.EST3UTR	3UTR	3UTR	-14.03	316.4	U	1428.1	U	75.3	U
+osmB.EST3UTR	rprA	3UTR	sRNA	-12.67	1409.3	U				
+yjtD	yjtD.thrL.IGR	CDS	IGR	-10.7	27.5	2	1180.7	U	47.4	1
+dinI	sulA.ompA.IGR	CDS	IGR	-13.39	278.7	1	1044.3	2	939.0	3
+osmB	rprA	CDS	sRNA	-12.75			65.1	1	997.2	1
+hycB.hycA.IGT	cpxP.3UTR	IGT	3UTR	-11.15	554.6	4	142.2	1	891.3	1
+nmpC	G0-10697	CDS	other-ncRNA	-5.84	770.6	4	358.4	3	296.0	1
+glmS.glmU.IGT	glmZ.hemY.IGR	IGT	IGR	-11.43	386.6	6	325.3	3	757.5	2
+yncL	sieB.kilR.IGR	CDS	IGR	-10.98	575.0	U	683.2	3	526.0	U
+ybcM	ymfH	CDS	CDS	-6.72	264.5	U	362.4	1	654.1	2
+lacA.lacY.IGT_AS	arcZ	AS	sRNA	-2.43			607.7	2		
+dmsA	ryhB	CDS	sRNA	-16.13	585.4	6	562.5	3	15.8	3
+essD	ykgH.EST3UTR	CDS	3UTR	-4.26	101.7	U	524.4	U	202.9	1
+tsx	yjfY.EST3UTR	CDS	3UTR	-3.74	268.3	U			512.2	2
+csgD	rprA	CDS	sRNA	-18.82	470.4	U	11.5	3	73.3	1
+bglX.osmF.IGR	arcZ	IGR	sRNA	-9	11.1	U	374.3	3	43.5	2
+uhpT	insD-2.ynbG.IGR	CDS	IGR	-14.92					360.3	U
+aceF	afuC.EST3UTR	CDS	3UTR	-4.97	347.1	U				
+nadE	nadE.cho.IGR	CDS	IGR	-7.96	331.5	U				
+insH-4	G0-10697	CDS	other-ncRNA	-0.43			307.0	1		
+pgpB.AS	arcZ	AS	sRNA	-7.45	88.8	U	36.2	2	286.4	3
+yagE	arcZ	CDS	sRNA	-5.2	7.8	3	264.0	3	49.2	3
+G0-10698	ybiJ.ybiC.IGR	other-ncRNA	IGR	-5.36			255.0	1	126.1	1
+rpoS	dsrA	CDS	sRNA	-10.18	79.1	6	113.3	3	254.2	3
+bacA	malG.3UTR	CDS	3UTR	-4.52			247.2	2		
+yeiH	cyaR	CDS	sRNA	-12.09	98.5	6	52.9	3	239.4	3
+flgH	asnW.yeeN.IGR	CDS	IGR	-9.48	167.8	2			236.8	1
+glpF	oxyS	CDS	sRNA	-11.41	30.6	6	187.3	3	23.4	3
+csgD	mcaS	CDS	sRNA	-16.1	92.5	2	31.0	3	184.7	3
+ptsG	sgrS	CDS	sRNA	-16.67	147.6	6	183.4	2	143.5	3
+hybO	minE.ycgI.IGR	CDS	IGR	-3.3	21.5	U	179.0	1		
+gcd	cpxP.3UTR	CDS	3UTR	-11.66	41.9	U	177.7	3	123.8	1
+yghJ.EST3UTR	arcZ	3UTR	sRNA	-3.87			168.3	2		
+sbmA	yhcN.EST3UTR	CDS	3UTR	-5.6	164.9	2			92.4	1
+aspC.ycbL.IGR	arcZ	IGR	sRNA	-9.92	2.0	1	163.3	3	10.6	2
+ylcI.ybcW.IGR	arcZ	IGR	sRNA	-9.74	56.6	1	158.9	2	58.6	1
+yncL	rprA	CDS	sRNA	-10.88	128.2	3	99.4	3	158.8	3
+yigL	sgrS	CDS	sRNA	-14.51	131.3	2			158.7	2
+gadC.AS	arcZ	AS	sRNA	-9.1			157.8	2	43.9	U
+arrS	ymgE	cis_AS_with_trans_t	CDS	-7.52			156.4	3		
+alaA.lrhA.IGR	rprA	IGR	sRNA	-7.12	80.9	2	67.3	3	153.6	3
+smpB	leuZ.yecA.IGR	CDS	IGR	-10.7	8.5	U	147.5	1	9.2	1
+ycaM	cpxP.3UTR	CDS	3UTR	-10.26	61.8	1	31.1	U	147.0	1
+G0-10698	yjfY.EST3UTR	other-ncRNA	3UTR	-7.03			142.7	U		
+ytfQ.ytfR.IGT	arcZ	IGT	sRNA	-16.81	32.8	5	141.8	3	51.8	3
+eptB	mgrR	CDS	sRNA	-10.93	138.9	6	63.6	3	123.6	3
+dmlR	leuE	CDS	CDS	-15.65					129.3	U
+yghJ	uhpT.EST3UTR	CDS	3UTR	-10	126.2	6				
+C0343.fnrS.IGR	arcZ	IGR	sRNA	-12.07			124.9	U		
+acrR.AS	arcZ	AS	sRNA	-2.98	36.7	1	123.7	3	23.9	2
+cfa	ybiJ.ybiC.IGR	CDS	IGR	-10.19	76.9	1			122.3	2
+glcA.yghJ.IGR	uhpT.EST3UTR	IGR	3UTR	-5.73					121.2	1
+gcvT.ubiI.IGR	uhpT.EST3UTR	IGR	3UTR	-1.44					120.2	U
+mdtK	oxyS	CDS	sRNA	-10.63	87.5	U			116.7	1
+focA	rprA	CDS	sRNA	-11.34	115.2	1	39.6	3	64.2	2
+ilvX	cpxP.3UTR	CDS	3UTR	-3.82	21.6	1	113.1	2		
+iraP.ddlA.IGR	uhpT.EST3UTR	IGR	3UTR	-5.97					112.9	U
+yshB	fadA.fre.IGR	CDS	IGR	-8.76					112.4	1
+gmr	xylB.xylA.IGT	CDS	IGT	-4.75			111.9	U		
+yqeC	arcZ	CDS	sRNA	-12.65	8.8	6	110.6	2	45.8	2
+arrS	nlpD	cis_AS_with_trans_t	CDS	-8.56			27.0	3	110.6	U
+folM.EST3UTR	arcZ	3UTR	sRNA	-15.27	107.3	2	69.6	2	52.2	3
+hisM.AS	arcZ	AS	sRNA	-5.37			106.4	U		
+yncD	mgrR	CDS	sRNA	-10.45			105.1	U		
+rihC	omrB	CDS	sRNA	-7.12	97.4	4	94.4	U	104.5	3
+yiaV.AS	arcZ	AS	sRNA	-9.98	38.1	U	103.5	2	52.8	1
+ybiJ.ybiC.IGR	yfdK.yfdI.IGR	IGR	IGR	-8.06			102.1	U	14.0	U
+csiR	gabP	CDS	CDS	-7.31			101.7	U		
+ariR.ymgC.IGT	sieB.kilR.IGR	IGT	IGR	-2.65			100.3	U		
+minD	ykgH.EST3UTR	CDS	3UTR	-12.1	27.7	6	98.8	2	49.6	3
+insH-1	G0-10697	CDS	other-ncRNA	-5.37	32.7	5	97.6	3	61.2	3
+yihG	cpxP.3UTR	CDS	3UTR	-5.43	95.8	U	5.4	U	46.2	U
+dmsA	xylB.xylA.IGT	CDS	IGT	-8.26	33.8	1	95.7	2		
+ydaM	rprA	CDS	sRNA	-7.47			94.4	2		
+yifK	gcvB	CDS	sRNA	-6.6	8.1	6	92.8	3	16.0	3
+yciX	rprA	CDS	sRNA	-5.9			90.9	2		
+ybiJ.ybiC.IGR	pncB.EST3UTR	IGR	3UTR	-3.67			68.7	U	89.9	2
+mepS	ymfH	CDS	CDS	-9.01	55.1	3			88.8	2
+ydfK	ykgH.EST3UTR	CDS	3UTR	-4.54	37.2	5	88.0	2	40.5	1
+cspF.ydfT.IGR	uhpT.EST3UTR	IGR	3UTR	-13	2.2	1	87.4	U	7.3	2
+hypE.3UTR	oxyS	3UTR	sRNA	-4.86	83.2	5				
+gntP	omrB	CDS	sRNA	-12.53	42.0	U	78.0	U	40.6	2
+ariR.ymgC.IGT	ftsA.ftsZ.IGT	IGT	IGT	-9.78			77.9	3		
+rlmI	arcZ	CDS	sRNA	-13.17	13.1	2	77.0	3	13.6	3
+kgtP	yihO	CDS	CDS	-3.15			76.3	U		
+ydaN.AS	arcZ	AS	sRNA	-7.05	75.7	4			57.8	3
+hsdR	rprA	CDS	sRNA	-8.08	75.5	U	10.4	U		
+yghJ	micA	CDS	sRNA	-8.91	12.9	2	22.5	1	74.3	2
+gntU	cyaR	CDS	sRNA	-10.66	33.5	6	47.4	3	74.1	3
+nrdE	arcZ	CDS	sRNA	-13.37			74.0	U	9.3	3
+yfcA.AS	mgrR	AS	sRNA	-7.3					73.9	U
+frsA	nhaR.insAB-1.IGR	CDS	IGR	-11.47					72.0	1
+rpoS	rprA	CDS	sRNA	-9.25	71.1	4	45.9	3	51.6	3
+mutS	arcZ	CDS	sRNA	-5.71			70.1	2	27.3	3
+rcnB	arcZ	CDS	sRNA	-5.55	10.2	U	70.0	2	29.0	3
+yjcH	omrB	CDS	sRNA	-7.19			69.6	3		
+ycbZ	mgrR	CDS	sRNA	-9.5	24.5	6	65.6	2	69.1	3
+yciZ	rprA	CDS	sRNA	-10.5	69.1	U	33.2	1	25.9	1
+raiA	ygdI	CDS	CDS	-4.67			67.4	3		
+uhpT	yghJ	CDS	CDS	-7.97					67.2	U
+ycgB	sdsR	CDS	sRNA	-6.43			66.9	2		
+ybcY	mgrR	CDS	sRNA	-14.91	66.7	U			48.6	U
+yhaI.EST3UTR	arcZ	3UTR	sRNA	-3.03	66.3	U				
+ydjX.AS	uhpT.EST3UTR	AS	3UTR	-8.32	36.3	U			65.7	2
+yicL	cyaR	CDS	sRNA	-13.32	13.5	3	9.1	2	65.1	3
+sieB.kilR.IGR	uspF.ynaE.IGR	IGR	IGR	-15.25			65.0	U		
+loiP	speB.AS	CDS	AS	-7.18					64.9	1
+yfaY	uhpT.EST3UTR	CDS	3UTR	-6.35	53.2	3			64.9	3
+tdcG.yhaO.IGR	fnrS	IGR	sRNA	-9.68	2.3	6	64.7	1	9.6	2
+insH-10	G0-10697	CDS	other-ncRNA	-1.5			64.7	1		
+mcrA	cpxP.3UTR	CDS	3UTR	-2.76			62.8	1		
+uspB	ykgH.EST3UTR	CDS	3UTR	-1.58			62.7	1		
+yjdM	sucD.EST3UTR	CDS	3UTR	-6.1	18.4	3	10.5	3	62.4	2
+marR	fnrS	CDS	sRNA	-11.81	3.0	1	61.2	U	4.9	1
+ytfK	minE.ycgI.IGR	CDS	IGR	-5.31			60.9	2		
+malP.malT.IGR	mgrR	IGR	sRNA	-10.7			60.8	2	15.8	1
+crl	nhaR.insAB-1.IGR	CDS	IGR	-14.99	55.5	U	56.0	1	60.3	1
+opgD	arcZ	CDS	sRNA	-8.62	5.0	U	60.0	2	38.9	3
+ubiX.argT.IGR	gcvB	IGR	sRNA	-25.09	33.6	6	24.2	3	57.2	3
+ptsP	fadA.fre.IGR	CDS	IGR	-7.69			56.6	U		
+insI-2.ydbC.IGR	arcZ	IGR	sRNA	-8	20.7	3	33.3	3	56.2	2
+insH-1	insL-1.AS	CDS	AS	-2.09	56.0	U				
+gadE.mdtE.IGT (gadF)	rffC	IGT	CDS	-10.66			55.9	U		
+crl	insB-1.AS	CDS	AS	-13.44			55.2	1		
+uhpT	glcA.yghJ.IGR	CDS	IGR	-10.2	54.9	1				
+uspF.ynaE.IGR	ykgH.EST3UTR	IGR	3UTR	-6.37	15.1	6	54.4	3	23.6	1
+fbp.EST3UTR	arcZ	3UTR	sRNA	-7.39			53.2	1	20.0	1
+yidI	cyaR	CDS	sRNA	-15.16	35.0	6	52.4	3	47.4	3
+G0-10697	insH-2.ybcQ.IGR	other-ncRNA	IGR	-4.47	6.5	1	52.0	2	20.4	1
+fhuA.fhuC.IGT	malG.3UTR	IGT	3UTR	-5.14	51.3	U			10.0	2
+waaU	rprA	CDS	sRNA	-6.27			51.0	2		
+insH-1	insH-1.ykfC.IGR	CDS	IGR	-6.4	45.7	U	51.0	U		
+sbmA	rprA	CDS	sRNA	-11.45			18.9	U	50.7	U
+purT	cyaR	CDS	sRNA	-10.84			21.1	1	49.9	U
+yjiT.mcrC.IGR	rprA	IGR	sRNA	-7.02			49.6	U		
+hisQ	ubiX.argT.IGR	CDS	IGR	-7.01			49.3	1		
+yobA	fnrS	CDS	sRNA	-15.67	7.9	6	49.2	3	15.8	3
+flhD	secF.EST3UTR	CDS	3UTR	-7.81	48.6	U			32.6	1
+fdhD.fdoG.IGR	rprA	IGR	sRNA	-11.6	16.7	U	16.2	3	48.6	2
+cstA	minE.ycgI.IGR	CDS	IGR	-0.93			48.5	1		
+ydcD	cpxP.3UTR	CDS	3UTR	-12.83			48.0	1		
+mgtL.mgtA.IGT	ykgH.EST3UTR	IGT	3UTR	-8.91	28.9	6	18.4	U	47.1	3
+hsdS	arcZ	CDS	sRNA	-12.39			47.1	1	13.2	1
+shiA	ryhB	CDS	sRNA	-9.44					46.8	3
+maeA	yodB.serU.IGR	CDS	IGR	-10.42			46.8	U	16.8	U
+ybfL	micA	CDS	sRNA	-3.21					46.5	1
+atpI	oxyS	CDS	sRNA	-10.56	14.4	U			46.3	1
+dsbA	micL	CDS	sRNA	-4.91			46.3	1		
+malG	arcZ	CDS	sRNA	-7.98	9.1	5	46.2	3	12.5	3
+xylB.xylA.IGT	yieP	IGT	CDS	-12.03			46.2	U		
+araJ	cpxP.3UTR	CDS	3UTR	-12.16	46.0	U	33.2	3	38.5	1
+osmB	ymfH	CDS	CDS	-1.4			45.8	1		
+lptD	malG.3UTR	CDS	3UTR	-8.44			45.7	1		
+rutG	cyaR	CDS	sRNA	-16.25	14.6	U	21.2	1	45.5	2
+ydbJ	glpX.3UTR	CDS	3UTR	-10.46	23.2	U	45.5	1		
+G0-10698	sdsR	other-ncRNA	sRNA	-7.45			45.1	3		
+yncE	ryhB	CDS	sRNA	-15.93	44.5	U			3.7	3
+waaL.AS	waaU	AS	CDS	-9.87					44.5	U
+ptsG	ybjD	CDS	CDS	-5.62					43.9	U
+ompC	ybiJ.ybiC.IGR	CDS	IGR	-13.35	8.4	3	43.6	3	9.2	3
+dinI.EST3UTR	fnrS	3UTR	sRNA	-5.74	4.4	5	43.5	3	10.4	U
+amn	mgrR	CDS	sRNA	-12.43	16.2	3	18.2	2	43.0	3
+ygdQ	mgrR	CDS	sRNA	-10.35	42.9	6	31.9	3	33.1	3
+fhuA.fhuC.IGT	oxyS	IGT	sRNA	-6.32					42.9	2
+zupT.ribB.IGR	arcZ	IGR	sRNA	-3.8			42.3	U		
+pheT	ves	CDS	CDS	-13.74	41.9	U				
+mutY.AS	mgrR	AS	sRNA	-3.07			41.8	1		
+insG	omrB	CDS	sRNA	-5.27					41.7	1
+yahO	minE.ycgI.IGR	CDS	IGR	-4.08			41.1	U		
+fepD	insL-1.AS	CDS	AS	-10.48					40.7	U
+brnQ.phoR.IGR	arcZ	IGR	sRNA	-2.9	40.4	U				
+polB.AS	cyaR	AS	sRNA	-5.6	40.1	4	16.2	2	6.4	1
+gcvP.gcvH.IGT	greA	IGT	CDS	-7.25	7.0	U	40.1	1		
+aegA	arcZ	CDS	sRNA	-11.23	17.5	6	39.9	2	35.0	2
+yfdY	cyaR	CDS	sRNA	-10.83	30.5	6	23.7	3	39.9	3
+aceF	lacA.3UTR	CDS	3UTR	-5.03	39.9	U				
+ybfL	arcZ	CDS	sRNA	-3.83			39.5	U	21.8	U
+ilvL.ilvX.IGT	cpxP.3UTR	IGT	3UTR	-3.82					38.8	U
+aqpZ	cyaR	CDS	sRNA	-10.41					38.8	U
+yfgM	narP.ccmH.IGR	CDS	IGR	-9.91	5.1	U	38.4	2	10.5	U
+ligA	arcZ	CDS	sRNA	-4.94	6.9	1	38.3	3	17.9	3
+ampE	cyaR	CDS	sRNA	-10.58	21.7	6	37.8	3	13.7	3
+yebZ	mgrR	CDS	sRNA	-13.36	14.9	6	37.0	3	24.8	2
+ompW	malG.3UTR	CDS	3UTR	-18.73			36.8	2		
+yadD	cpxP.3UTR	CDS	3UTR	-21.15	8.4	U	36.6	3	23.3	1
+tehA	cpxP.3UTR	CDS	3UTR	-19.06	35.9	U	19.9	3	25.1	1
+gadE.mdtE.IGT (gadF)	kptA	IGT	CDS	-1.63			35.8	1		
+nemA	uhpT	CDS	CDS	-4.92					35.8	U
+gnsB	uhpT.EST3UTR	CDS	3UTR	-9.39	12.7	6	35.6	2	16.0	3
+yjjU	cyaR	CDS	sRNA	-8.08	32.4	1	35.4	3	27.2	2
+eutB.AS	malG.3UTR	AS	3UTR	-8.94	21.9	U	35.2	2	7.9	1
+ariR.ymgC.IGT	ymfH	IGT	CDS	-14.18			34.8	U		
+araJ	cyaR	CDS	sRNA	-10.23	34.8	6	17.7	3	31.6	3
+ychH	rdlA.ldrB.IGR	CDS	IGR	-9.46	34.3	U				
+yqjH	rprA	CDS	sRNA	-5.44					34.2	U
+smrA.mcaS.IGR	glnA.3UTR	IGR	3UTR	-4.71					33.8	3
+allR	ftsA.ftsZ.IGT	CDS	IGT	-15.02	33.8	U	10.6	3	5.8	U
+mdtK	nlpD	CDS	CDS	-11.61			33.6	2	23.9	1
+waaL.AS	arcZ	AS	sRNA	-11.43	10.4	2	33.5	2	26.5	2
+zapC	sdsR	CDS	sRNA	-11.11			33.1	2		
+yafU.yafV.IGR	cpxP.3UTR	IGR	3UTR	-3.74			33.1	U		
+glmS.glmU.IGT	glmZ	IGT	sRNA	-9.59	13.2	6	16.3	3	32.9	3
+pspG.qor.IGR (PspH)	spf	IGR	sRNA	-6.36	11.8	6	32.7	2	9.0	3
+crl	insAB-1	CDS	CDS	-11.06			32.6	1		
+cof	G0-10700.bcr.IGR	CDS	IGR	-14.57			32.6	U		
+ydiJ	sucD.EST3UTR	CDS	3UTR	-7.06	3.9	U	32.3	3	7.4	2
+ybiT	uhpT.EST3UTR	CDS	3UTR	-2.68					32.2	U
+cydD	micA	CDS	sRNA	-11.62			32.1	2	10.8	1
+proV	sgrS	CDS	sRNA	-11.81					32.1	1
+yebO	cyaR	CDS	sRNA	-10.48	22.0	6	18.4	3	32.0	3
+yghJ	arcZ	CDS	sRNA	-16.99	12.1	1			32.0	2
+ykgH.EST3UTR	etk.EST3UTR	3UTR	3UTR	-3.57			32.0	U		
+ylaC.maa.IGR	arcZ	IGR	sRNA	-3.92			31.8	U		
+zitB	cpxP.3UTR	CDS	3UTR	-7.22			31.7	1		
+cfa	cpxP.3UTR	CDS	3UTR	-10.98	11.0	5	16.4	3	31.7	3
+ydaN	cyaR	CDS	sRNA	-14.13	7.1	U	10.6	U	31.3	2
+insA-7	mgrR	CDS	sRNA	-14.8	31.3	6	19.3	1	5.6	3
+truA	cpxP.3UTR	CDS	3UTR	-9.62	23.4	5	14.4	3	31.2	3
+melA.melR.IGR	mcaS	IGR	sRNA	-9.12	12.8	U			31.2	1
+ymfH	yncL	CDS	CDS	-3.08			31.1	2		
+potE	arcZ	CDS	sRNA	-6.99			31.0	1	9.2	1
+lldP	fnrS	CDS	sRNA	-8.58			31.0	U	3.8	1
+sdhC	ryhB	CDS	sRNA	-13.71			30.7	U	21.1	3
+nfrA	arcZ	CDS	sRNA	-7.79			30.6	2	26.0	U
+insH-3.lnt.IGR	sdsR	IGR	sRNA	-2.42			30.6	1		
+araH.AS	glnA.3UTR	AS	3UTR	-4.71			29.9	U	29.6	1
+nlpD	ybiJ.ybiC.IGR	CDS	IGR	-11.09	16.7	U	29.7	3	21.1	3
+lpxM	mgrR	CDS	sRNA	-9.65	26.4	1	13.1	U	29.5	3
+rbsD	arcZ	CDS	sRNA	-18.18	29.4	6	24.3	3	13.1	3
+paaX	cpxP.3UTR	CDS	3UTR	-13.34	16.8	U	29.3	3	22.3	U
+napF	arcZ	CDS	sRNA	-15.91	18.4	6	29.2	3	8.5	3
+ycdT	omrB	CDS	sRNA	-5.82	28.2	U			28.8	U
+cof	nagE	CDS	CDS	-15.43	7.9	5	28.7	1	16.9	3
+aphA	sdsR	CDS	sRNA	-9.09			28.6	2		
+ytfK	bhsA.EST3UTR	CDS	3UTR	-2.6			28.6	2		
+mepS	oxyS	CDS	sRNA	-13.37	11.4	U			28.5	2
+yejO	cyaR	CDS	sRNA	-11.97	12.5	5	28.4	2	14.5	3
+entS	cpxP.3UTR	CDS	3UTR	-6.7					28.4	1
+alaA.lrhA.IGR	glpX.3UTR	IGR	3UTR	-6.66	7.3	U	28.3	2	17.4	1
+leuZ.yecA.IGR	ryhB	IGR	sRNA	-13.64	28.2	1			0.0	3
+ydbK	oxyS	CDS	sRNA	-14.28	28.1	U				
+entD	arcZ	CDS	sRNA	-13.52			27.9	U	1.5	U
+ydcF	mcaS	CDS	sRNA	-9.74	27.5	1	18.6	3	27.6	2
+thrL	yjtD	CDS	CDS	2.47					27.6	2
+pck	micA	CDS	sRNA	-10.04	1.4	6	27.4	3	4.4	3
+emrA	cpxP.3UTR	CDS	3UTR	-14.16	14.4	2	11.9	3	26.7	1
+rcnB	omrB	CDS	sRNA	-10.32	13.7	U	26.6	3	13.0	1
+csgD	omrB	CDS	sRNA	-14.3			18.9	3	26.6	1
+gadE.mdtE.IGT (gadF)	rssA	IGT	CDS	-2.23			26.5	1		
+ymbA	arcZ	CDS	sRNA	-5.75	5.2	U	26.4	2	3.5	1
+yifK	cpxP.3UTR	CDS	3UTR	-12.76			15.0	U	26.4	U
+borD	omrB	CDS	sRNA	-10.39			26.2	U	6.8	3
+ibpB	mcaS	CDS	sRNA	-5.82	26.0	3	12.6	2	13.7	3
+bax	rprA	CDS	sRNA	-10.31	26.0	U	6.7	3		
+ybcM	rprA	CDS	sRNA	-7.88			25.8	2		
+narK.narG.IGR	yafP.pepD.IGR	IGR	IGR	-4.09					25.8	U
+yqeB	cpxP.3UTR	CDS	3UTR	-16.51	3.8	U	25.8	3	14.0	U
+fadL	rybB	CDS	sRNA	-12.64	4.0	1	25.0	1	25.7	1
+ybfL	cpxP.3UTR	CDS	3UTR	-3.73			25.5	U		
+bacA	mcaS	CDS	sRNA	-6.32	8.6	U			25.5	2
+fumC	sdsR	CDS	sRNA	-8.92			25.4	3		
+yphC	arcZ	CDS	sRNA	-7.21			25.4	2		
+ccmF	micA	CDS	sRNA	-1.31			25.4	U		
+artI	sdsR	CDS	sRNA	-7.28			25.1	3		
+dctA	fadA.fre.IGR	CDS	IGR	-4.38			25.1	1		
+G0-10697	insH-4.ynaJ.IGR	other-ncRNA	IGR	-3.35	24.9	U				
+fepA	rnk	CDS	CDS	-5.37					24.8	U
+gadY	yjbB	cis_AS_with_trans_t	CDS	-10.65			24.8	U		
+wbbH	cyaR	CDS	sRNA	-7.53	2.7	1	24.4	3	9.1	3
+ychE	uhpT.EST3UTR	CDS	3UTR	-6.03					24.4	U
+rcsB	rprA	CDS	sRNA	-6.29	23.9	U	8.6	3		
+lysR	arcZ	CDS	sRNA	-5.8	21.9	1	23.8	2	8.5	1
+aceK	gatR_1	CDS	CDS	-15.24			23.7	2		
+yfaZ	mgrR	CDS	sRNA	-14.87	16.5	U			23.7	2
+tamA	sdsR	CDS	sRNA	-9.31			23.6	1		
+ompF	micF	CDS	sRNA	-13.82	7.8	6	15.7	3	23.5	3
+yncL	mcaS	CDS	sRNA	-6.64	8.7	6	11.8	3	23.4	3
+dtpB.uspA.IGR	cpxP.3UTR	IGR	3UTR	-4.57			23.4	U		
+uhpT	yejL	CDS	CDS	-13.03	23.3	U			10.6	2
+fecA	ibpB	CDS	CDS	-8.51					23.2	3
+hupB	nuoA.lrhA.IGR	CDS	IGR	-10.08					23.2	1
+crfC	rprA	CDS	sRNA	-10.48			23.2	2		
+htrL	sdsR	CDS	sRNA	-4.18			23.1	U		
+arrS	fdhD.fdoG.IGR	cis_AS_with_trans_t	IGR	-15.3			23.1	3		
+malS.bax.IGR	cyaR	IGR	sRNA	-3.25					23.1	1
+metN	arcZ	CDS	sRNA	-9.15			4.3	U	23.0	2
+wbbH	mgrR	CDS	sRNA	-2.69			23.0	U		
+hypE	arcZ	CDS	sRNA	-8.16	1.9	4	22.4	3	22.7	3
+tdcC	opgC.EST3UTR	CDS	3UTR	-2.19	22.6	1				
+miaA.hfq.IGT	ibpB.EST3UTR	IGT	3UTR	-12.2	18.0	1	22.6	1	16.4	1
+trmJ	fnrS	CDS	sRNA	-9.51	3.1	6	22.6	3	7.2	3
+emrD.tisB.IGR	arcZ	IGR	sRNA	-7.7	14.2	U	14.4	2	22.5	3
+mazF	micL	CDS	sRNA	-12.32	4.2	U	22.4	U	4.8	U
+insL-1.AS	yieE	AS	CDS	-2.98	22.3	U				
+iscR	fnrS	CDS	sRNA	-13.35	1.5	6	22.1	3	10.1	3
+ppsR.ppsA.IGR	arcZ	IGR	sRNA	-7.08			21.9	2		
+ahpF	fnrS	CDS	sRNA	-10.69	2.0	2	21.9	3	5.6	3
+ymgA	rprA	CDS	sRNA	-8.12			21.7	1		
+ytjA	cpxP.3UTR	CDS	3UTR	-5.58			21.7	3		
+fabZ	rprA	CDS	sRNA	-6.87			3.6	U	21.6	1
+tar	arcZ	CDS	sRNA	-17.59	1.6	6	21.5	3	2.9	3
+fadA.fre.IGR	uhpT.EST3UTR	IGR	3UTR	-0.91					21.3	U
+evgA	rprA	CDS	sRNA	-13.56			21.1	3		
+ompC	fadA.fre.IGR	CDS	IGR	-11.39	1.0	U	21.0	2	3.5	3
+ydbK	ryhB	CDS	sRNA	-8.28					20.7	2
+rhaD.rhaA.IGT_AS	arcZ	AS	sRNA	-4.56			20.7	1		
+aceK	yfjJ	CDS	CDS	-10.19			20.6	2		
+G0-10698	mcaS	other-ncRNA	sRNA	-9.91	20.6	U	10.3	3	12.1	2
+amtB	cyaR	CDS	sRNA	-7.17	20.1	U				
+allR	grcA	CDS	CDS	-10.55			20.1	3		
+yfjW	mgrR	CDS	sRNA	-13.77	20.1	U	10.7	U	10.3	U
+yncL.EST3UTR	rprA	3UTR	sRNA	-13.48			19.9	1		
+potA.pepT.IGR	mgrR	IGR	sRNA	-11.5			19.8	U		
+dcuC	cyaR	CDS	sRNA	-9.19	2.9	6	15.1	U	19.8	2
+ddlA	mgrR	CDS	sRNA	-9.9	13.5	2	19.0	1	19.7	3
+mqsA	arcZ	CDS	sRNA	-15.51	5.8	2			19.7	1
+yegT	arcZ	CDS	sRNA	-9.49	19.7	U	13.3	U	19.0	1
+insAB-1	cyaR	CDS	sRNA	-9.35	8.1	6	19.7	3	16.8	3
+leuT.proM.IGT_AS	micA	AS	sRNA	-2.68			19.6	1		
+yfiP	uhpT.EST3UTR	CDS	3UTR	-6.46	17.4	U			19.6	1
+ariR.ymgC.IGT	kgtP	IGT	CDS	-9.79			19.5	3		
+yqjA	uhpT.EST3UTR	CDS	3UTR	-7.96	5.7	U	19.5	U	13.7	2
+yjhI	cpxP.3UTR	CDS	3UTR	-7.54			19.5	1		
+pitA	mgrR	CDS	sRNA	-10.93	6.7	6	5.3	3	19.4	3
+cspF.ydfT.IGR	arcZ	IGR	sRNA	-5.23	0.6	U	19.4	2	2.4	2
+kgtP	allE.EST3UTR	CDS	3UTR	-8.57			19.2	2		
+ompT	fadA.fre.IGR	CDS	IGR	-7.95					19.2	U
+gadE.mdtE.IGT (gadF)	yohP	IGT	CDS	-3.84			19.2	U		
+ftsL	malG.3UTR	CDS	3UTR	-5.03			19.1	1	4.7	1
+mqsR	arcZ	CDS	sRNA	-12.94			18.9	2	10.1	2
+zitB	gcvB	CDS	sRNA	-13.08	8.6	1			18.9	2
+yhjE	gcvB	CDS	sRNA	-17	7.2	U	18.8	U	12.1	2
+fdnG	sucD.EST3UTR	CDS	3UTR	-4.06			18.8	1		
+nrfA	rprA	CDS	sRNA	-4.89	18.8	1				
+fepA	sdsR	CDS	sRNA	-10.71					18.8	3
+marA	fnrS	CDS	sRNA	-12.06	4.8	4			18.7	3
+kgtP.rrfG.IGR	sdsR	IGR	sRNA	-15.71			18.7	3		
+hdhA	rybB	CDS	sRNA	-11.25			18.7	1		
+ydjN	cpxP.3UTR	CDS	3UTR	-11.03			18.6	3	9.5	U
+paaJ	ryhB	CDS	sRNA	-6.74					18.6	3
+narW	cyaR	CDS	sRNA	-5.42			18.5	1		
+ompA	rseX	CDS	sRNA	-13.68					18.3	U
+tyrR	oxyS	CDS	sRNA	-13.53	18.2	U			15.4	1
+manX	sgrS	CDS	sRNA	-7.74	15.3	6			18.1	3
+gloB	mgrR	CDS	sRNA	-10.7	12.2	3	18.0	1	11.0	2
+bax.AS	micA	AS	sRNA	-1.64			17.9	U		
+sfsA	uhpT.EST3UTR	CDS	3UTR	-9.96			17.9	U	1.2	1
+waaO	omrB	CDS	sRNA	-5.85			17.9	U	5.3	1
+kgtP	xylE	CDS	CDS	-13.92			17.8	1		
+yciF.AS	arcZ	AS	sRNA	-7.89	15.6	U	17.8	U		
+ompF	ybiJ.ybiC.IGR	CDS	IGR	-12.49	3.9	6	17.7	1	10.6	3
+rpsF	xapB.xapA.IGT_AS	CDS	AS	-8.28					17.7	1
+alaA.lrhA.IGR	mcaS	IGR	sRNA	-6.25	14.2	6	8.3	3	17.7	3
+kgtP	cpxP.3UTR	CDS	3UTR	-10.6	16.8	5	17.7	3	10.8	3
+sdaC.ygdH.IGR	sdsR	IGR	sRNA	-5.25			17.6	U		
+flhD	rprA	CDS	sRNA	-12.26	11.9	U			17.4	1
+malK	xylB.xylA.IGT	CDS	IGT	-4.08			17.4	U		
+dnaJ	gadY	CDS	cis_AS_with_trans_t	-7.2			17.3	U		
+msrC	micA	CDS	sRNA	-5.32			17.3	2	12.1	2
+uup	arcZ	CDS	sRNA	-10.53	0.9	U	17.2	2	8.7	2
+kgtP	fadA.fre.IGR	CDS	IGR	-8.06			17.0	1		
+ompF	rprA	CDS	sRNA	-13.41	4.8	2	17.0	2	9.9	1
+arrS	yibF	cis_AS_with_trans_t	CDS	-4.59			16.9	U		
+ycbZ	dsrA	CDS	sRNA	-12.8					16.9	U
+ybcM	sdsR	CDS	sRNA	-4.93			16.9	U		
+insH-1	oppA	CDS	CDS	-7.66	5.6	U			16.7	2
+rfbA	cyaR	CDS	sRNA	-16.31	11.6	6	9.7	3	16.6	3
+pitB	cyaR	CDS	sRNA	-10.35			16.6	1		
+yhhH.yhhI.IGR	arcZ	IGR	sRNA	-4.48					16.6	U
+arfB	cpxP.3UTR	CDS	3UTR	-13.1	3.6	U	16.5	3	11.0	1
+yhcF	arcZ	CDS	sRNA	-5.49			16.5	U		
+nrfA	oxyS	CDS	sRNA	-7.23	16.5	3				
+gltP	arcZ	CDS	sRNA	-2.17	3.8	U	16.4	1	7.5	2
+yqjC	uhpT.EST3UTR	CDS	3UTR	-5.97	16.3	U	13.0	1	3.3	U
+ilvL.ilvX.IGT	ribE	IGT	CDS	-12.93	16.3	U			5.6	1
+yfaY	cpxP.3UTR	CDS	3UTR	-11.12	7.2	U	16.2	2	10.2	U
+arrS	yeeN	cis_AS_with_trans_t	CDS	-8.09			16.0	1		
+bioD.uvrB.IGR	cpxP.3UTR	IGR	3UTR	-9.57			16.0	U		
+yqeI	arcZ	CDS	sRNA	-6.15			16.0	U	9.9	1
+fimA.fimE.IGR	cyaR	IGR	sRNA	-16.71			16.0	U		
+yecE.AS	arcZ	AS	sRNA	-4.36			16.0	U		
+acrB	gadE.mdtE.IGT (gadF)	CDS	IGT	-3.69			15.9	1		
+ycfJ	spf	CDS	sRNA	-6.21	2.8	U	15.9	2	9.8	2
+clpS	fadA.fre.IGR	CDS	IGR	-6.79			15.8	1		
+cfa	rydC	CDS	sRNA	-5.29	3.1	U	10.4	1	15.8	3
+amiA	malG.3UTR	CDS	3UTR	-4.43			15.7	U	5.9	1
+ydeE	gcvB	CDS	sRNA	-4.71	3.3	1	15.1	1	15.6	2
+aphA	cpxP.3UTR	CDS	3UTR	-6.39			15.5	2		
+sucA	fadA.fre.IGR	CDS	IGR	-10.41			15.5	1		
+maeA	fnrS	CDS	sRNA	-9.62	10.5	6	15.4	3	10.0	2
+ampH	cpxP.3UTR	CDS	3UTR	-16.66			15.3	3	8.7	1
+dedA	omrB	CDS	sRNA	-8.81			15.2	1	9.4	1
+tolC	yqiB	CDS	CDS	-7.35					15.1	U
+hchA	arcZ	CDS	sRNA	-14.09			15.1	3		
+glnA.3UTR	fre.EST3UTR	3UTR	3UTR	-13.46			15.0	U		
+yhcO	sdsR	CDS	sRNA	-7.59			15.0	2		
+upp	micL	CDS	sRNA	-8			14.9	U	9.2	1
+yjeM	cyaR	CDS	sRNA	-5.84			14.8	U		
+ytfK	cspI.ydfP.IGR	CDS	IGR	-11.26			14.7	2		
+hybO	ryhB	CDS	sRNA	-7.71	3.3	U			14.7	2
+hdeD	cpxP.3UTR	CDS	3UTR	-9			14.7	1		
+arrS	waaP	cis_AS_with_trans_t	CDS	-3.04			14.7	U		
+ucpA	oxyS	CDS	sRNA	-8.82	14.7	5			9.9	3
+pgi	arcZ	CDS	sRNA	-13.9	1.4	1	14.6	3	10.6	3
+leuT.AS	micA	AS	sRNA	-6.15					14.6	2
+ydhL	arcZ	CDS	sRNA	-5.74			14.5	2	5.3	U
+asnW.yeeN.IGR	omrB	IGR	sRNA	-12.79					14.5	1
+ung	sdsR	CDS	sRNA	-5.58			14.5	U		
+flhD	ymfH	CDS	CDS	-5.29	14.5	U			11.6	U
+ibpA	arcZ	CDS	sRNA	-6.74	6.9	U	14.4	2	12.4	1
+yqjA	arcZ	CDS	sRNA	-11.03	4.9	3	11.2	3	14.3	3
+nanA	cpxP.3UTR	CDS	3UTR	-12.17	5.1	3			14.3	3
+mqsR	uhpT.EST3UTR	CDS	3UTR	-6.3					14.3	U
+ytfK	fnrS	CDS	sRNA	-16.43	5.4	6	14.2	3	6.5	2
+ompT	mgrR	CDS	sRNA	-10.58	1.0	1	14.2	U	1.4	2
+ygfZ.AS	arcZ	AS	sRNA	-4.76			14.1	U	4.5	1
+metK.galP.IGR	fnrS	IGR	sRNA	-9.68	14.1	4				
+tsx	rybB	CDS	sRNA	-11.32	0.6	U	14.0	U	5.1	2
+rpoE	micL	CDS	sRNA	-6.67	7.7	1	11.9	3	14.0	3
+ymbA	cpxP.3UTR	CDS	3UTR	-0.42			13.9	2		
+yjgA	micA	CDS	sRNA	-6.32			13.9	2		
+gltB	rprA	CDS	sRNA	-8.43					13.8	U
+insH-1	malG.3UTR	CDS	3UTR	-7.16			13.8	U		
+hns	ydfW.flxA.IGR	CDS	IGR	-8.31			13.8	1	4.0	1
+yehS	sucD.EST3UTR	CDS	3UTR	-13.78	1.9	U	13.8	3	8.5	2
+dpiB	cyaR	CDS	sRNA	-9.2			13.7	U	4.2	1
+dxr.EST3UTR	oxyS	3UTR	sRNA	-8.97					13.6	1
+nrfA	cpxP.3UTR	CDS	3UTR	-9.44	4.4	6	13.6	3	5.2	U
+yfgM	fliC.fliA.IGR	CDS	IGR	-5.42	1.2	1	13.6	2	2.1	2
+ycgB	micA	CDS	sRNA	-3.79			13.5	1		
+deoB.deoD.IGT	malG.3UTR	IGT	3UTR	-9.09	4.2	U			13.5	3
+lpp.pykF.IGR	sdsR	IGR	sRNA	-5.49			13.5	1		
+ylcI	gcvB	CDS	sRNA	-18.16	4.6	2			13.4	2
+mqo	arcZ	CDS	sRNA	-7.45	13.4	U			3.0	1
+dacC	mgrR	CDS	sRNA	-13.58	9.5	U	7.8	1	13.4	2
+focA	narK.narG.IGR	CDS	IGR	-20.4	13.3	U				
+mdtK	ompF	CDS	CDS	-9.57	13.3	1			10.7	2
+crcB	ryhB	CDS	sRNA	-14.95					13.2	1
+btuE.btuC.IGT	arcZ	IGT	sRNA	-6.46	3.2	U	13.2	3	10.9	3
+prlC	sdsR	CDS	sRNA	-5.73			13.2	U		
+nanT	uhpT.EST3UTR	CDS	3UTR	-11.58	7.5	4			13.2	3
+cysM.cysA.IGT	mgrR	IGT	sRNA	-15.71			13.2	2	10.9	2
+dtpB	cpxP.3UTR	CDS	3UTR	-9.48	10.8	1	13.2	3	5.3	1
+ybdK	arcZ	CDS	sRNA	-2.77			13.1	1		
+fdoG	sucD.EST3UTR	CDS	3UTR	-6.39	3.9	6	8.0	3	13.1	3
+brnQ	arcZ	CDS	sRNA	-4.93			13.1	1	6.1	1
+ompC	yhcN	CDS	CDS	-8.73	0.9	U	13.1	2	0.9	2
+secF.AS	flgL.EST3UTR	AS	3UTR	-5.57	13.1	U				
+araG.araF.IGT_AS	narG	AS	CDS	-6.13	13.1	U				
+nudI	spf	CDS	sRNA	-1.19					13.0	1
+ompW	rybB	CDS	sRNA	-4.94			13.0	3		
+yrdD	fnrS	CDS	sRNA	-12.28	5.7	6	13.0	1	5.2	3
+ybgE	cpxP.3UTR	CDS	3UTR	-10.4	4.0	1	12.9	3	1.8	1
+alsE	cyaR	CDS	sRNA	-8.31			7.1	2	12.9	3
+cof	fliY	CDS	CDS	-9.93			12.9	1		
+bhsA	rybB	CDS	sRNA	-11.71			12.9	U		
+yejE	mgrR	CDS	sRNA	-4					12.9	U
+tonB	omrB	CDS	sRNA	-4.44					12.9	2
+ybbY	cyaR	CDS	sRNA	-14.76	12.3	U	8.2	2	12.9	1
+sppA	arcZ	CDS	sRNA	-6.5			12.8	2	9.4	1
+sbmA	mcaS	CDS	sRNA	-10.35	6.3	2	12.8	3	12.7	3
+rfbX	mgrR	CDS	sRNA	-10.34			12.7	1		
+ychH	allE.EST3UTR	CDS	3UTR	-3.37			12.7	U		
+gadE.mdtE.IGT (gadF)	yoaC	IGT	CDS	-10.37			12.7	2		
+yhhT	sdsR	CDS	sRNA	-4.56			12.7	U		
+ysaA	uhpT.EST3UTR	CDS	3UTR	-12.83	12.7	4			12.7	1
+pyrL	spf	CDS	sRNA	-19.55	4.5	U			12.6	1
+yhjY.tag.IGR	arcZ	IGR	sRNA	-3.8	12.6	U	8.3	U	3.7	U
+gcvH	ycfJ.EST3UTR	CDS	3UTR	-9.32	1.3	U	12.6	3	4.8	U
+pspB	rprA	CDS	sRNA	-1.38			12.6	U		
+yhcO	cpxP.3UTR	CDS	3UTR	-10.03			12.6	3		
+argP	rprA	CDS	sRNA	-2.88			12.6	U		
+nlpD	malG.3UTR	CDS	3UTR	-8.54	3.5	U	12.5	3	9.5	3
+yijD.AS	arcZ	AS	sRNA	-18.52	1.4	U	12.4	2	0.9	U
+miaA.hfq.IGT	cyaR	IGT	sRNA	-10.89	5.5	6	7.6	3	12.4	3
+yidE	mgrR	CDS	sRNA	-8.35	7.4	2			12.4	1
+yaiA.aroM.IGT	uhpT.EST3UTR	IGT	3UTR	-3.92					12.4	U
+hns	dsrA	CDS	sRNA	-14.34	5.1	4	12.0	3	12.3	3
+yciT	arcZ	CDS	sRNA	-8.05			12.3	2	2.9	3
+lapB.pyrF.IGT	arcZ	IGT	sRNA	-10.67	5.5	U	12.3	2	11.0	2
+yagN.AS	mgrR	AS	sRNA	-5.37					12.3	1
+gltS	cyaR	CDS	sRNA	-14.83			12.2	1		
+rcnR	arcZ	CDS	sRNA	-3.24			12.2	1		
+marB	fnrS	CDS	sRNA	-4.71	12.1	3				
+ldtC	micA	CDS	sRNA	-7.07			12.1	2		
+yphB	arcZ	CDS	sRNA	-5.7			12.1	U		
+asr	rprA	CDS	sRNA	-4.1			12.0	1		
+ybhP	omrB	CDS	sRNA	-10.28			12.0	U		
+ytfR	omrA	CDS	sRNA	-6.03			11.9	U		
+dmsA	glpX.3UTR	CDS	3UTR	-5.08	3.3	3	11.9	U		
+cstA	arcZ	CDS	sRNA	-10.89	2.0	1	11.8	3	1.6	2
+der	yfgJ	CDS	CDS	-9.2	11.8	U				
+yfaY	arcZ	CDS	sRNA	-13.27			11.8	3	5.9	3
+ypfG	omrB	CDS	sRNA	-10.55			6.7	2	11.8	3
+nagE	opgC.EST3UTR	CDS	3UTR	-6.49					11.7	U
+yebE.yebF.IGR	cyaR	IGR	sRNA	-7.44			11.7	U		
+napH	mgrR	CDS	sRNA	-8.87	5.7	6			11.7	2
+dosC	sucD.EST3UTR	CDS	3UTR	-6.78			11.7	2		
+rfbC	cpxP.3UTR	CDS	3UTR	-7.44	3.0	U	11.6	3	7.1	U
+glnH	mgrR	CDS	sRNA	-8.68	11.6	5	4.0	3	5.4	3
+fes	yodB.serU.IGR	CDS	IGR	-4.45					11.6	1
+yfbV.ackA.IGR	sucD.EST3UTR	IGR	3UTR	-11.88	3.3	3	11.5	3	10.0	2
+ydaM	omrA	CDS	sRNA	-8.48			11.4	2		
+yjiH	rprA	CDS	sRNA	-11.6			11.4	2		
+yjfY	arcZ	CDS	sRNA	-8.57			11.4	2		
+htrL	omrB	CDS	sRNA	-11.13			11.4	U	6.9	U
+yfbT	yfbV.EST3UTR	CDS	3UTR	-3.9	11.3	U				
+ubiE	dicF	CDS	sRNA	-8.89	11.3	U			7.3	U
+fes	cpxP.3UTR	CDS	3UTR	-3.22					11.3	3
+ompA	narP.ccmH.IGR	CDS	IGR	-10.07	2.0	1	11.2	3	3.8	2
+yjjZ	fnrS	CDS	sRNA	-20.71	11.2	1			1.9	2
+yjbB	uhpT.EST3UTR	CDS	3UTR	-6.93					11.2	U
+slp.dctR.IGT	arcZ	IGT	sRNA	-5.41			11.2	3		
+gntU	cpxP.3UTR	CDS	3UTR	-11.51			11.1	1		
+nanC	spf	CDS	sRNA	-7.38	3.7	5			11.1	3
+yihX	omrB	CDS	sRNA	-11.94	6.3	U	11.1	U	6.8	3
+symR.hsdS.IGR	ryhB	IGR	sRNA	-3.48					11.1	3
+rsmH	sdsR	CDS	sRNA	-8.2			11.1	3		
+ftsA.ftsZ.IGT	malG.3UTR	IGT	3UTR	-9.26	6.2	1	11.0	2	4.0	3
+yhjY	arcZ	CDS	sRNA	-5.7			11.0	2		
+cspA.3UTR	ydfH.EST3UTR	3UTR	3UTR	-16.77	11.0	2			3.5	1
+yecH	cyaR	CDS	sRNA	-11.29	5.0	6	6.3	3	11.0	3
+livJ	gcvB	CDS	sRNA	-12.68	5.1	1	9.2	1	11.0	3
+shiA	cpxP.3UTR	CDS	3UTR	-9.91			10.9	3		
+yafT	gcvB	CDS	sRNA	-5.18					10.9	1
+fabR	cpxP.3UTR	CDS	3UTR	-10.45			3.9	2	10.9	2
+ysgA	gcvB	CDS	sRNA	-8.06	2.4	3	10.9	3	6.0	3
+cysB	cpxP.3UTR	CDS	3UTR	-9.23	4.0	1	10.9	3	7.1	2
+ycaQ	micA	CDS	sRNA	-3.52			10.8	1		
+ydgC.AS	gcvB	AS	sRNA	-11.56					10.8	U
+glf	rfbX	CDS	CDS	-10.35					10.8	U
+kgtP.rrfG.IGR	cpxP.3UTR	IGR	3UTR	-12.54			10.8	2		
+insAB-1	omrB	CDS	sRNA	-5.27					10.8	1
+yjcE	mgrR	CDS	sRNA	-10.99	5.7	U	7.1	U	10.7	U
+ybhP	gcvB	CDS	sRNA	-9.03			10.7	3		
+cspD.clpS.IGR	cpxP.3UTR	IGR	3UTR	-12.79			10.6	2		
+ydcZ.EST3UTR	mgrR	3UTR	sRNA	-3.81					10.6	U
+rbsC	micA	CDS	sRNA	-3.74	1.5	U	10.6	3	6.3	2
+dppA.proK.IGR	cpxP.3UTR	IGR	3UTR	-3.92			10.6	U		
+aroP	gcvB	CDS	sRNA	-15.2	5.1	5	6.1	U	10.5	3
+rsmH	yehA.EST3UTR	CDS	3UTR	-6.96			10.5	2		
+nuoG.nuoF.IGT	leuZ.yecA.IGR	IGT	IGR	-4.37					10.5	3
+wzzB	wzzB.EST3UTR	CDS	3UTR	-6.87					10.5	U
+crfC	mcaS	CDS	sRNA	-12.63	6.8	U	5.7	3	10.5	1
+aidB.yjfC.IGR	ryhB	IGR	sRNA	-6.7					10.5	U
+yqeF	micL	CDS	sRNA	-8.36			10.5	U		
+ghrA	fnrS	CDS	sRNA	-7.79	3.7	1			10.5	2
+waaU.waaZ.IGT	micA	IGT	sRNA	-3.26					10.5	1
+waaL	spf	CDS	sRNA	-7.98	10.4	U			7.7	1
+waaS	cpxP.3UTR	CDS	3UTR	-12.77			10.3	2	3.3	U
+ysgA	glpX.3UTR	CDS	3UTR	-10.3			10.3	2		
+rpiB	cpxP.3UTR	CDS	3UTR	-4.41			10.3	U		
+yrbL	rydC	CDS	sRNA	-8.39	3.0	U	7.6	3	10.3	1
+zapD	uhpT.EST3UTR	CDS	3UTR	-10.98	10.3	U				
+rpsJ	xylB.xylA.IGT	CDS	IGT	-8.1	3.7	U	1.6	1	10.2	1
+yegE.EST3UTR	arcZ	3UTR	sRNA	-8.3			10.2	U		
+yeiS	mgrR	CDS	sRNA	-6.58					10.1	U
+livK	gcvB	CDS	sRNA	-7.2	8.0	U			10.1	2
+arrS	uspB.EST3UTR	cis_AS_with_trans_t	3UTR	-4.84			10.1	1		
+abgB	gcvB	CDS	sRNA	-20.78					10.1	U
+fiu	oxyS	CDS	sRNA	-7.25					10.1	1
+arrS	putP	cis_AS_with_trans_t	CDS	-8.72			10.0	2		
+yncL.EST3UTR	mcaS	3UTR	sRNA	-7.07	3.8	U			10.0	1
+nlpD	uhpT.EST3UTR	CDS	3UTR	-11.69	6.7	U			10.0	1
+gadY	polA.spf.IGR	cis_AS_with_trans_t	IGR	-7.13			10.0	U		
+lpxM	ryhB	CDS	sRNA	-5.6					10.0	2
+ydhC	cyaR	CDS	sRNA	-9.18			10.0	1	1.4	1
+rssA	sdsR	CDS	sRNA	-8.97			10.0	3		
+cstA	gcvB	CDS	sRNA	-10.32	2.0	1	9.9	3	0.3	2
+gadY	nlpD	cis_AS_with_trans_t	CDS	-6.36			9.9	U		
+yfdI.yfdK.IGR	arcZ	IGR	sRNA	-4.78			9.9	U		
+tamB	cpxP.3UTR	CDS	3UTR	-6.06			9.9	1		
+yjiT	cpxP.3UTR	CDS	3UTR	-1.81	9.9	U				
+ydiJ	ryhB	CDS	sRNA	-8.13					9.9	3
+yrbL.npr.IGR	chiX	IGR	sRNA	-12.99			6.1	1	9.9	1
+grxC	sdsR	CDS	sRNA	-10.81			9.9	3		
+ecnB	ruvA	CDS	CDS	-1.23			9.9	U		
+ygfT	arcZ	CDS	sRNA	-3.12			9.8	U		
+hupB	micA	CDS	sRNA	-11.42	0.9	6	9.8	3	2.1	3
+ypfJ	cpxP.3UTR	CDS	3UTR	-10.72			9.8	3		
+bamE	arcZ	CDS	sRNA	-10.2	1.1	4	9.8	3	2.4	3
+dusC	cyaR	CDS	sRNA	-12.45			9.8	U		
+arrS	cfa	cis_AS_with_trans_t	CDS	-2.64			9.8	1		
+yjbB	fnrS	CDS	sRNA	-9.6	2.3	U	9.8	U	5.3	U
+yhaM.yhaL.IGR	omrB	IGR	sRNA	-4.34					9.8	U
+putP	fliC.fliA.IGR	CDS	IGR	-3.11			9.7	U		
+ftsN	dicF	CDS	sRNA	-11.28	1.8	U	9.7	U	8.7	1
+metH	ryhB	CDS	sRNA	-19.62					9.7	2
+gsk	arcZ	CDS	sRNA	-6.69			6.0	U	9.7	2
+isrC	arcZ	other-ncRNA	sRNA	-2.9			9.7	1		
+wbbI	omrB	CDS	sRNA	-4.23			9.7	U	7.4	2
+nmpC	malG.3UTR	CDS	3UTR	-11.07	2.9	1	9.7	2	3.8	2
+adrA	cyaR	CDS	sRNA	-6.29			9.7	U		
+ytfJ.ytfK.IGR	mgrR	IGR	sRNA	-8.16	2.3	1	9.6	1	3.6	2
+degQ	sdsR	CDS	sRNA	-5.68			9.6	1		
+focA	ybiJ.ybiC.IGR	CDS	IGR	-5.83					9.6	2
+ahpC	oxyS	CDS	sRNA	-9.07	4.4	3			9.6	3
+yffL.intZ.IGR	mgrR	IGR	sRNA	-6.66	9.6	5			2.0	1
+yahH.yahG.IGR	arcZ	IGR	sRNA	-5.99			9.6	U		
+ftnA	dicF	CDS	sRNA	-4	4.1	U			9.6	1
+yjeF	sdsR	CDS	sRNA	-10.85			9.5	1		
+yjjI	uhpT.EST3UTR	CDS	3UTR	-10.55	1.9	1			9.5	U
+gdhA	gcvB	CDS	sRNA	-10.96	7.3	6	9.5	3	9.4	3
+bglX	uhpT	CDS	CDS	-4.34					9.5	1
+uspD	uhpT.EST3UTR	CDS	3UTR	-6.66	9.5	U				
+fabZ	gadE.mdtE.IGT (gadF)	CDS	IGT	-2.97			9.5	1		
+deoD	malG.3UTR	CDS	3UTR	-2.44			9.4	U		
+sra	allE.EST3UTR	CDS	3UTR	-6.2			9.4	1		
+fadL.yfcZ.IGR	cyaR	IGR	sRNA	-3.03			9.4	U		
+paaJ	uhpT.EST3UTR	CDS	3UTR	-3.78					9.3	1
+yddB	arcZ	CDS	sRNA	-11.32					9.3	3
+putP	cpxP.3UTR	CDS	3UTR	-9.45			9.3	1		
+fiu	uhpT.EST3UTR	CDS	3UTR	-4.18					9.2	2
+dcuC	cpxP.3UTR	CDS	3UTR	-3.13			9.2	U		
+rpsO	xylB.xylA.IGT	CDS	IGT	-4.13			9.2	1	5.4	U
+ompA	micA	CDS	sRNA	-12.35	1.8	6	9.2	3	4.1	3
+rayT	sucD.EST3UTR	CDS	3UTR	-8.24					9.2	U
+mdlA	mgrR	CDS	sRNA	-15.35	6.5	U			9.2	1
+pspF.AS	cyaR	AS	sRNA	-9.44			9.2	U		
+G0-10697.oppA.IGR	micF	IGR	sRNA	-12.16			7.7	3	9.2	2
+waaU	ryhB	CDS	sRNA	-8.41					9.2	3
+xanQ	cpxP.3UTR	CDS	3UTR	-8.82			9.2	1		
+gcvT	mgrR	CDS	sRNA	-11.62	9.1	6	5.8	3	5.6	3
+ydcS	fnrS	CDS	sRNA	-9.63			9.1	1		
+nadE	cyaR	CDS	sRNA	-12.34	9.1	5	6.7	2	3.8	1
+nlpA	gcvB	CDS	sRNA	-6.05	6.5	3			9.1	3
+treC.treB.IGT	malG.3UTR	IGT	3UTR	-9.25	4.7	1			9.1	3
+modE	uhpT.EST3UTR	CDS	3UTR	-5.28					9.0	U
+cobS	arcZ	CDS	sRNA	-7.45	3.9	U	3.0	U	8.9	2
+rdlD	sraB	cis_AS_with_trans_t	other-ncRNA	-9.24					8.9	1
+clcA	cyaR	CDS	sRNA	-9.3	1.5	1	8.9	2	3.7	U
+osmY	glpX.3UTR	CDS	3UTR	-4.5			8.8	1		
+ytfJ	fnrS	CDS	sRNA	-10.38	2.4	U	8.8	2	2.4	1
+G0-10698	rprA	other-ncRNA	sRNA	-12.71			8.8	U		
+pqqL	mgrR	CDS	sRNA	-9.37					8.8	2
+arrS	folC	cis_AS_with_trans_t	CDS	-12.52			8.8	3		
+mepS	ybiJ.ybiC.IGR	CDS	IGR	-1.93					8.8	1
+dsdC	cyaR	CDS	sRNA	-10.07	3.4	U	6.0	U	8.7	1
+opgE	cyaR	CDS	sRNA	-15.1	8.2	1	2.6	1	8.7	1
+yejO	omrB	CDS	sRNA	-1.65					8.7	U
+marA.marB.IGT	fnrS	IGT	sRNA	-11.96					8.7	1
+arrS	cyaA	cis_AS_with_trans_t	CDS	-6.86			8.7	3		
+ascB	cyaR	CDS	sRNA	-8.64	4.6	U			8.7	U
+bhsA	ompC	CDS	CDS	-9.62	7.8	1	8.6	3	3.2	3
+dtpA	gcvB	CDS	sRNA	-5.03	4.4	1			8.6	1
+sodB	fadA.fre.IGR	CDS	IGR	-4.53			8.6	U		
+gltI	malG.3UTR	CDS	3UTR	-8.46			8.6	U		
+yqiB	smpB.EST3UTR	CDS	3UTR	-9.37					8.6	1
+nagE	ybiJ.ybiC.IGR	CDS	IGR	-6.59	8.6	U			3.0	U
+yjgR	sdsR	CDS	sRNA	-9.83			8.6	U		
+ves	mgrR	CDS	sRNA	-8.36	8.6	6			4.8	3
+ivy	cpxP.3UTR	CDS	3UTR	-7.45			8.5	3		
+ompC	malG.3UTR	CDS	3UTR	-9.49	0.9	1	8.5	2	3.7	3
+gadE.mdtE.IGT (gadF)	nagE	IGT	CDS	-2.15			8.5	1		
+ptsI	malG.3UTR	CDS	3UTR	-13.7	2.2	5	8.5	2	3.0	3
+folX	fnrS	CDS	sRNA	-9.33	3.7	1	4.6	U	8.5	2
+pheT	cpxP.3UTR	CDS	3UTR	-10.57	2.5	6	8.5	3	5.2	3
+waaL.AS	fnrS	AS	sRNA	-8.66	8.5	4			4.4	U
+ndh	cyaR	CDS	sRNA	-7.08			8.5	1	0.8	2
+nhaA	cyaR	CDS	sRNA	-12.36	3.3	1	8.5	3	7.7	3
+yebO.yobF.IGR	mgrR	IGR	sRNA	-9.73					8.5	U
+nanC	malG.3UTR	CDS	3UTR	-12.16	3.6	U			8.5	1
+uspE	uhpT.EST3UTR	CDS	3UTR	-2.47			8.4	U	2.9	2
+yeiG	gcvB	CDS	sRNA	-11.19			8.4	3	5.1	2
+hemA	malG.3UTR	CDS	3UTR	-6.04	5.1	U	8.4	1	3.8	U
+nlpD	mgrR	CDS	sRNA	-7.96	3.7	6	7.1	3	8.4	3
+sbmA	cyaR	CDS	sRNA	-9.05			8.4	2	5.6	3
+ftsX	micA	CDS	sRNA	-14.97			8.4	2	3.3	1
+ychF.pth.IGT	omrB	IGT	sRNA	-3.39					8.3	2
+ydfW.flxA.IGR	arcZ	IGR	sRNA	-7.44	8.3	4	0.5	2	7.2	2
+ydcI	arcZ	CDS	sRNA	-10.17			8.3	2	1.3	U
+pepA	sucD	CDS	CDS	-5.93			4.1	1	8.3	1
+rfbA	cpxP.3UTR	CDS	3UTR	-10.64			8.3	1	4.9	U
+rfbB	cpxP.3UTR	CDS	3UTR	-14.52	1.9	U	4.4	2	8.3	1
+yfdK.yfdI.IGR	cyaR	IGR	sRNA	-11.47	5.0	6	6.2	3	8.3	3
+ydjF	cpxP.3UTR	CDS	3UTR	-10.64			8.2	1		
+fruA.psuK.IGR	rprA	IGR	sRNA	-16.08			8.2	2		
+malZ	uhpT.EST3UTR	CDS	3UTR	-1.63					8.2	1
+putP.efeU_1.IGR	ykgH.EST3UTR	IGR	3UTR	-3.33			8.2	U		
+ychJ	cyaR	CDS	sRNA	-12.49			8.2	3	3.6	1
+ypfM	arcZ	CDS	sRNA	-6.99	2.0	6	8.2	3	4.4	3
+ynfC	arcZ	CDS	sRNA	-6.41			3.8	U	8.1	U
+mhpT	cpxP.3UTR	CDS	3UTR	-7.68			8.1	U		
+arrS	kgtP	cis_AS_with_trans_t	CDS	-2.87			8.1	3		
+rpsF	ygaM.EST3UTR	CDS	3UTR	-6.83					8.1	1
+ydcZ	mgrR	CDS	sRNA	-7.08	8.1	U				
+gadY	yqaE	cis_AS_with_trans_t	CDS	-7.6			8.1	U		
+csiD	spf	CDS	sRNA	-9.35			8.1	U		
+yfdY	cpxP.3UTR	CDS	3UTR	-12.53			8.0	3		
+panB	sstT	CDS	CDS	-8.97	8.0	U			4.8	U
+kefB	micF	CDS	sRNA	-13.33			8.0	U		
+ftnA.yecR.IGR	cyaR	IGR	sRNA	-8.15	8.0	U				
+sdaC	arcZ	CDS	sRNA	-6.97			8.0	2	1.2	2
+rhtA	cyaR	CDS	sRNA	-12.69	7.1	U	8.0	2	7.6	1
+chiP	chiX	CDS	sRNA	-16.5	1.7	6	2.9	3	8.0	3
+yhgE	cpxP.3UTR	CDS	3UTR	-13.56			8.0	1		
+ftnA	sucD.EST3UTR	CDS	3UTR	-8.41	4.8	5			7.9	3
+asd	mcaS	CDS	sRNA	-4.69	5.1	4	4.7	2	7.9	3
+trkG	cyaR	CDS	sRNA	-16.74	2.9	1	7.9	3	2.8	1
+gadE.mdtE.IGT (gadF)	trmJ	IGT	CDS	-5.41			7.9	3		
+flxA	arcZ	CDS	sRNA	-7.35	2.3	5	7.9	1	3.6	3
+ytfK	mgrR	CDS	sRNA	-4.78	7.9	6	1.6	3	4.9	3
+yfcD	cpxP.3UTR	CDS	3UTR	-7.99			7.9	2		
+chbB	ryhB	CDS	sRNA	-3.55					7.9	3
+gadE.mdtE.IGT (gadF)	ytfJ.ytfK.IGR	IGT	IGR	-9.57			7.9	U		
+rspA.AS	arcZ	AS	sRNA	-5.19			7.9	U		
+ilvM	gcvB	CDS	sRNA	-15.18	2.9	6	7.9	2	5.7	3
+nrdD	rybB	CDS	sRNA	-7.53			7.8	U		
+ycgV	arcZ	CDS	sRNA	-8.86			7.8	U		
+flxA	micL	CDS	sRNA	-10.38	3.1	U			7.8	1
+paaK	spf	CDS	sRNA	-8.38	6.0	U	2.6	U	7.8	3
+ycaC	arcZ	CDS	sRNA	-3.64			7.8	3		
+yafZ.ykfA.IGT_AS	cpxP.3UTR	AS	3UTR	-3.35			7.8	U		
+mscL	cpxP.3UTR	CDS	3UTR	-8.01			7.8	U		
+ampD	arrS	CDS	cis_AS_with_trans_t	-2.66			7.7	U		
+mdtK	cyaR	CDS	sRNA	-12.84	2.6	U	7.7	3	2.0	1
+uhpT	zapD	CDS	CDS	-11.18					7.7	1
+uspF.ynaE.IGR	rprA	IGR	sRNA	-6.9			7.7	3		
+ispU	oxyS	CDS	sRNA	-9.11	7.7	U				
+ptrB	arcZ	CDS	sRNA	0.13			7.7	1		
+yfiE	cyaR	CDS	sRNA	-3.08			7.6	U		
+rpsJ	yjgZ.insG.IGR	CDS	IGR	-12.7	4.5	1	3.4	U	7.6	3
+rpoS	dicF	CDS	sRNA	-9.66	3.9	U	7.6	3	4.0	2
+arrS	dksA.sfsA.IGT	cis_AS_with_trans_t	IGT	-8.61			7.6	3		
+yjjZ	micA	CDS	sRNA	-11.24			7.6	U		
+ypdA	mcaS	CDS	sRNA	-5.48					7.6	U
+insA-5.uspC.IGR	gcvB	IGR	sRNA	-17.36	7.5	U				
+waaZ.waaY.IGT	arcZ	IGT	sRNA	-2.72			7.5	2		
+arnD	cpxP.3UTR	CDS	3UTR	-1.68			7.5	U		
+IS128.AS	arcZ	AS	sRNA	-2.29					7.5	U
+nanC	cpxP.3UTR	CDS	3UTR	-3.78					7.5	U
+thyA	uhpT.EST3UTR	CDS	3UTR	-7.37					7.5	1
+hupB	cpxP.3UTR	CDS	3UTR	-10.65	3.7	6	6.0	3	7.5	3
+ptsG	cyaR	CDS	sRNA	-10.48	7.5	6	4.0	3	5.4	3
+acpP	micL	CDS	sRNA	-10.5	1.9	6	7.5	3	3.2	3
+tabA	arcZ	CDS	sRNA	-5.76			7.5	1	1.1	U
+ymfI.AS	cyaR	AS	sRNA	-11.9			7.5	1		
+ydiK	mgrR	CDS	sRNA	-12.51	5.4	U			7.5	1
+yjgA	arcZ	CDS	sRNA	-7.61			7.4	2	1.9	3
+yifK	sdsR	CDS	sRNA	-8.23			7.4	1		
+loiP	ryhB	CDS	sRNA	-6.86					7.4	3
+lhgO	omrA	CDS	sRNA	-7.89			7.4	2		
+fieF	mgrR	CDS	sRNA	-5.38	7.4	U			1.3	1
+zapE	gcvB	CDS	sRNA	-9.45	5.2	2			7.3	2
+clcA	arcZ	CDS	sRNA	-9.13	0.6	U	7.3	2	5.5	3
+ahpF	ytfK	CDS	CDS	-8.19	1.5	U	7.3	3	1.8	2
+iscS	omrB	CDS	sRNA	-11.6			0.9	U	7.3	1
+ispA	uhpT.EST3UTR	CDS	3UTR	-9.32					7.3	U
+plaP	cyaR	CDS	sRNA	-13.15	3.0	U			7.3	2
+rfbX	micA	CDS	sRNA	-8.51			7.3	U		
+gltX	cyaR	CDS	sRNA	-8.98	0.7	U	7.3	3	1.3	1
+yccU	sucD.EST3UTR	CDS	3UTR	-8.49			7.2	2		
+ydjM	mgrR	CDS	sRNA	-8.39	7.2	U			3.4	U
+napD	sgrS	CDS	sRNA	-13.13	7.2	3				
+ydhS	gcvB	CDS	sRNA	-4.18			7.2	U		
+waaS	arcZ	CDS	sRNA	-5.07			7.2	1	6.0	2
+bacA	sdsR	CDS	sRNA	-6.24			7.2	1		
+leuT.AS	fnrS	AS	sRNA	-2.95					7.1	2
+mglC	arcZ	CDS	sRNA	-2.36			7.1	1	2.8	U
+G0-10700	omrB	other-ncRNA	sRNA	-7.92	7.1	2				
+sstT	gcvB	CDS	sRNA	-12.68	2.9	6	7.1	3	4.9	3
+fadM	fnrS	CDS	sRNA	-15.23			7.1	U		
+cirA	ryhB	CDS	sRNA	-11.68					7.1	3
+rfbA.rfbD.IGT	micA	IGT	sRNA	-6.01			7.1	U		
+gltB	ryhB	CDS	sRNA	-7.09					7.1	1
+sfsA	arcZ	CDS	sRNA	-11.3	1.0	U	7.0	2	1.3	3
+yfdI	omrB	CDS	sRNA	-6.92					7.0	2
+waaO	sdsR	CDS	sRNA	-6.07			7.0	U		
+ydaM	omrB	CDS	sRNA	-12.49			7.0	U		
+amyA	cpxP.3UTR	CDS	3UTR	-11.97	4.8	U	7.0	U		
+htrL	mgrR	CDS	sRNA	-17.89	4.7	1	7.0	U	6.0	1
+ucpA	uhpT.EST3UTR	CDS	3UTR	-7.5	4.2	4			7.0	2
+dcuA	gadE.mdtE.IGT (gadF)	CDS	IGT	-9.11			6.9	1		
+G0-10697	micL	other-ncRNA	sRNA	-5.19			6.9	1		
+dgt	arcZ	CDS	sRNA	-4.99			6.9	U	6.9	U
+yheT	ryhB	CDS	sRNA	-10.71					6.9	1
+rbsD	ykgH.EST3UTR	CDS	3UTR	-9.22	2.2	U			6.8	3
+glcD	gcvB	CDS	sRNA	-12.68			6.8	3		
+csgD	omrA	CDS	sRNA	-8.4			6.8	2		
+yihX	sdsR	CDS	sRNA	-8.64			6.8	2		
+yqiB.AS	arcZ	AS	sRNA	-10.1					6.8	U
+alaE	gadY	CDS	cis_AS_with_trans_t	-5.5			6.8	1		
+ynaE	omrB	CDS	sRNA	-14.66	6.8	4	5.9	2	6.1	3
+yejG	omrB	CDS	sRNA	-13.06			3.3	2	6.8	1
+atpI	ybiJ.ybiC.IGR	CDS	IGR	-8.36					6.7	U
+cysA	arcZ	CDS	sRNA	-7.44			6.7	2		
+crcB	cyaR	CDS	sRNA	-10.98			6.7	3	2.5	1
+ynfK	cyaR	CDS	sRNA	-9.28	2.9	4	5.3	3	6.7	2
+cfa	oxyS	CDS	sRNA	-4.84					6.7	U
+lsrR	cpxP.3UTR	CDS	3UTR	-6.17			6.7	2		
+tnaC.tnaA.IGT	yfdK.yfdI.IGR	IGT	IGR	-11.13	2.1	1	6.7	U	3.1	3
+cysJ	ryhB	CDS	sRNA	-9.81					6.7	U
+arrS	rcsC.rcsB.IGR	cis_AS_with_trans_t	IGR	-2.21			6.7	1		
+htpX	cpxP.3UTR	CDS	3UTR	-9.8	1.9	U	6.7	3	3.4	1
+fumB.dcuB.IGT	ryhB	IGT	sRNA	-12.47					6.6	U
+ygiM	arcZ	CDS	sRNA	-17.61	1.6	U	6.6	3	5.7	2
+essD	hupB	CDS	CDS	-5.48					6.6	U
+fliC	fliC.fliA.IGR	CDS	IGR	-5.17	2.3	6	6.6	2	1.8	3
+ibpB	rne	CDS	CDS	-2.92	6.6	U				
+yliI	micL	CDS	sRNA	-8.99			6.5	U		
+serA	cpxP.3UTR	CDS	3UTR	-2.13			6.5	2		
+ycgI	cpxP.3UTR	CDS	3UTR	-10.92			6.5	U		
+ydeK	arcZ	CDS	sRNA	-5.25			6.5	U		
+fliC	motA	CDS	CDS	-9.38	0.7	6	6.5	1	0.5	3
+yidE.ibpB.IGR	fnrS	IGR	sRNA	-11.46					6.5	1
+dmlR	micA	CDS	sRNA	-7.45			6.5	1	2.8	1
+dinD	rprA	CDS	sRNA	-6.61			6.5	U		
+fecA	G0-10699	CDS	other-ncRNA	-2.26					6.4	1
+ygiQ	ryhB	CDS	sRNA	-12.3					6.4	3
+brnQ	gcvB	CDS	sRNA	-6.78					6.4	1
+uspA	cpxP.3UTR	CDS	3UTR	-10.06	2.5	5	6.4	3	5.5	3
+rtcA	cyaR	CDS	sRNA	-6.55	6.4	U	2.4	U	1.5	U
+recB	arcZ	CDS	sRNA	-6.9	6.3	U	6.4	1		
+guaA.guaB.IGT	arcZ	IGT	sRNA	-5.6			6.4	1	1.9	2
+feaB	cpxP.3UTR	CDS	3UTR	-13.98			6.4	U		
+lacZ	arcZ	CDS	sRNA	-2.14					6.4	1
+insL-1.AS	cpxP.3UTR	AS	3UTR	-10.94			6.3	1		
+cobB	cpxP.3UTR	CDS	3UTR	-10.6			6.3	1		
+rihA	gcvB	CDS	sRNA	-10.98	1.8	2	6.3	U	1.8	3
+lrhA	uhpT	CDS	CDS	-4.6	6.3	2			5.2	2
+rpoS	etk.appA.IGR	CDS	IGR	-8.47			6.3	U		
+dinD	malG.3UTR	CDS	3UTR	-8.76					6.3	1
+tolB	rprA	CDS	sRNA	-11.28			6.3	2		
+cfa	gcvB	CDS	sRNA	-5.92	3.4	5			6.3	2
+yfgM	rprA	CDS	sRNA	-12.19			6.3	1		
+cysU	sdsR	CDS	sRNA	-9.9			6.3	U		
+ompA	etk.appA.IGR	CDS	IGR	-8.83			6.3	3	1.9	U
+dtd	omrB	CDS	sRNA	-9.46	1.8	U	6.3	2	3.5	3
+ghrA	mgrR	CDS	sRNA	-2.58					6.2	U
+thrA.AS	chiX	AS	sRNA	-14.74					6.2	2
+yjiH	cpxP.3UTR	CDS	3UTR	-7.52			6.2	2		
+oppA	cpxP.3UTR	CDS	3UTR	-3.2			6.2	3	5.8	U
+ychJ	arcZ	CDS	sRNA	-4.58					6.2	1
+yoaJ	cpxP.3UTR	CDS	3UTR	-8.58			6.2	2		
+mepH.AS	cyaR	AS	sRNA	-3.48			6.2	U		
+flhD	mcaS	CDS	sRNA	-8.66	3.4	5	3.3	2	6.2	3
+ompX	cyaR	CDS	sRNA	-10.7	1.7	6	6.2	3	3.2	3
+waaJ	spf	CDS	sRNA	-6.34					6.2	1
+uhpT	uspD	CDS	CDS	-9.37					6.1	U
+kgtP	omrA	CDS	sRNA	-5.39			6.1	2		
+insH-1	insH-2.ybcQ.IGR	CDS	IGR	-7.61					6.1	U
+tnaB	omrB	CDS	sRNA	-9.41	3.3	4	6.1	1	2.6	2
+flhD	arcZ	CDS	sRNA	-13.88	2.2	3	5.6	3	6.1	3
+preT	arcZ	CDS	sRNA	-5.02			6.1	3		
+alaA.lrhA.IGR	arcZ	IGR	sRNA	-14.7	4.3	3	6.0	2	5.0	3
+cycA	gcvB	CDS	sRNA	-21.35	3.5	5	6.0	3	4.9	3
+truA	yjgZ.insG.IGR	CDS	IGR	-10.53			6.0	U		
+gltJ	arcZ	CDS	sRNA	-2.49			6.0	1		
+hinT	rybB	CDS	sRNA	-10.1			6.0	U		
+yjdC	sdsR	CDS	sRNA	-2.86			6.0	1		
+yhjY	rybB	CDS	sRNA	-9.39			6.0	U		
+gltI	gcvB	CDS	sRNA	-13.75	3.0	6	4.2	3	6.0	3
+ybhP	sroC	CDS	other-ncRNA	-2.95			6.0	3		
+yciT	uhpT.EST3UTR	CDS	3UTR	-3.78					6.0	1
+ysaB	micA	CDS	sRNA	-1.87			6.0	U		
+emrA	arcZ	CDS	sRNA	-7.8					6.0	1
+oppA	arcZ	CDS	sRNA	-8.29	1.4	U	3.6	3	5.9	3
+aceF	fliC.fliA.IGR	CDS	IGR	-7.24	1.4	2	5.9	U	1.0	2
+yfjU.yfjT.IGR	arcZ	IGR	sRNA	-1.7			5.9	1		
+glf	oxyS	CDS	sRNA	-8.54					5.9	U
+blr	arcZ	CDS	sRNA	-4.23	2.8	1	2.9	U	5.9	3
+yghZ	cyaR	CDS	sRNA	-10.04	1.1	2	5.9	3	1.3	2
+yaiZ	fliC.fliA.IGR	CDS	IGR	-5.93	5.8	2			3.0	2
+fecA	cpxP.3UTR	CDS	3UTR	-7.96	5.8	1			3.5	1
+malE	omrB	CDS	sRNA	-7.32	5.8	2	3.5	2	5.6	3
+nrfD	cyaR	CDS	sRNA	-17.73	0.5	4	5.8	1		
+arrS	rpoE	cis_AS_with_trans_t	CDS	-5.77			5.8	3		
+mutS	sdsR	CDS	sRNA	-4.69			5.8	1		
+msrA	arcZ	CDS	sRNA	-4.8	4.9	U	5.8	U	5.3	U
+patD	cyaR	CDS	sRNA	-6.83			5.8	3		
+dcuA	ryhB	CDS	sRNA	-10.31					5.8	3
+nirD.nirC.IGT	narK.narG.IGR	IGT	IGR	-14.83	5.8	4			3.0	2
+mcbR	arcZ	CDS	sRNA	-2.95			5.8	2		
+purU	gcvB	CDS	sRNA	-6.67	4.5	2			5.7	1
+fhuC	mcaS	CDS	sRNA	-11.14					5.7	3
+sugE	ryhB	CDS	sRNA	-7.88					5.7	3
+ygfZ	mgrR	CDS	sRNA	-10.96	5.7	2	1.9	3	4.9	3
+glgS	ybiJ.ybiC.IGR	CDS	IGR	-11.62			5.7	U		
+ydhC	cpxP.3UTR	CDS	3UTR	-2.88			5.7	U		
+rfbD	cpxP.3UTR	CDS	3UTR	-4.26			5.7	1		
+ilvC	gcvB	CDS	sRNA	-19.02					5.7	1
+argE.ppc.IGR	arcZ	IGR	sRNA	-2.95			5.6	1		
+rpiB	mgrR	CDS	sRNA	-13.89	3.4	U			5.6	1
+yjjJ.AS	chiX	AS	sRNA	-9.25			2.8	U	5.6	3
+fepA	ybiJ.ybiC.IGR	CDS	IGR	-9.26					5.6	U
+bamA.skp.IGT	cpxP.3UTR	IGT	3UTR	-9.59	1.8	5	5.6	3	5.6	3
+ycaO	fnrS	CDS	sRNA	-8.97	5.6	U				
+aroC.prmB.IGT	gcvB	IGT	sRNA	-13.99	5.6	6	5.4	3	4.4	3
+rsgA	arcZ	CDS	sRNA	-6.91	1.6	U	2.5	1	5.6	3
+arrS	cyoA	cis_AS_with_trans_t	CDS	-2.81			5.6	1		
+gpsA	arcZ	CDS	sRNA	-12.82	1.1	4	5.5	3	2.7	3
+mlaF	arcZ	CDS	sRNA	-10.83	1.6	U	5.5	2	5.0	2
+prlC	arcZ	CDS	sRNA	-8.71			5.5	3	1.5	1
+arcA	yehA.EST3UTR	CDS	3UTR	-8.06			5.5	U		
+tsx	micA	CDS	sRNA	-5.7	1.3	2	5.5	U	4.6	2
+rnlA	cpxP.3UTR	CDS	3UTR	-7.86			5.5	2		
+tcdA	cpxP.3UTR	CDS	3UTR	-3.36			5.5	1		
+actP	micA	CDS	sRNA	-7.93			5.5	2		
+gadY	pcm	cis_AS_with_trans_t	CDS	-9.54	3.1	U			5.5	U
+yadH	cyaR	CDS	sRNA	-10.6			5.5	1		
+dctA	omrB	CDS	sRNA	-3.24			5.5	1	4.5	U
+borD	rbsB.rbsK.IGT	CDS	IGT	-14.93	3.8	3			5.5	3
+mnmE	arcZ	CDS	sRNA	-7.14			5.5	2		
+kptA	arcZ	CDS	sRNA	-11.38			4.7	2	5.5	1
+yffS	cpxP.3UTR	CDS	3UTR	-4.27			5.4	U		
+hda	omrB	CDS	sRNA	-8.33			5.4	U		
+cas2	cpxP.3UTR	CDS	3UTR	-9.2			5.4	U		
+hflX	cpxP.3UTR	CDS	3UTR	-8.62			5.4	3		
+ybaQ	micA	CDS	sRNA	-3.82			5.4	U		
+rbsD	dsrA	CDS	sRNA	-14.67	3.3	4	3.1	2	5.4	3
+acpT	cpxP.3UTR	CDS	3UTR	-9.66			5.3	U		
+ylaB	arcZ	CDS	sRNA	-5.61			5.3	U		
+yfcA	mgrR	CDS	sRNA	-9.59					5.3	U
+ychJ	gcvB	CDS	sRNA	-13.51	2.0	3			5.3	2
+phoQ	arcZ	CDS	sRNA	-6.79			5.3	1		
+asd.yhgN.IGR	arcZ	IGR	sRNA	-4.27			5.3	U		
+dcyD	uhpT	CDS	CDS	-11.22	3.1	1			5.3	3
+helD	cyaR	CDS	sRNA	-8.07	1.3	1	2.1	2	5.3	2
+fliY	cpxP.3UTR	CDS	3UTR	-8.56			5.3	2		
+ymbA	omrB	CDS	sRNA	-8.15					5.3	U
+wbbK.insH-7.IGR	cpxP.3UTR	IGR	3UTR	-9.14			5.3	U		
+leuZ.yecA.IGR	dsrA	IGR	sRNA	-14.69	5.0	U			5.3	1
+yjiT	mgrR	CDS	sRNA	-11.15	5.3	U				
+waaL	omrB	CDS	sRNA	-6.2					5.2	1
+nanC	uhpT.EST3UTR	CDS	3UTR	-6.79	2.3	U			5.2	1
+rbsB.rbsK.IGT	rybB	IGT	sRNA	-22.07	0.6	4	5.2	3	1.9	3
+hisQ.hisJ.IGT	gcvB	IGT	sRNA	-14.67	0.7	U	5.2	2	2.9	3
+mtr	omrA	CDS	sRNA	-12.8			5.2	2		
+dppA	gcvB	CDS	sRNA	-14.82	5.2	6	3.6	3	3.6	3
+mglB	fliC.fliA.IGR	CDS	IGR	-7.58	1.4	4	5.2	U	0.9	U
+anmK	cpxP.3UTR	CDS	3UTR	-9.94			5.2	1		
+chaB	cpxP.3UTR	CDS	3UTR	-3.7			5.2	1		
+leuZ.yecA.IGR	rybB	IGR	sRNA	-6.45			5.2	U		
+insCD-1	cpxP.3UTR	CDS	3UTR	-8.74			5.2	U		
+wbbI	cpxP.3UTR	CDS	3UTR	-7.71			5.2	2		
+ybcW.AS	arcZ	AS	sRNA	-3.6			5.2	U		
+yahO	omrB	CDS	sRNA	-8.28			5.2	2		
+mlaF	uhpT	CDS	CDS	-3.55					5.2	1
+fiu	gcvB	CDS	sRNA	-5.51					5.1	1
+waaU	uhpT.EST3UTR	CDS	3UTR	-8.78					5.1	U
+hupB	glpX.3UTR	CDS	3UTR	-15.09	2.2	U	3.8	3	5.1	3
+mrp	ryhB	CDS	sRNA	-3.96					5.1	3
+insA-4	cyaR	CDS	sRNA	-9.17			5.1	1		
+ackA.yfbV.IGR	mgrR	IGR	sRNA	-8.33			5.1	2		
+preA	micA	CDS	sRNA	-2.36			5.1	1		
+gadY	sdhC	cis_AS_with_trans_t	CDS	-5.56			5.1	1		
+rcdA	cpxP.3UTR	CDS	3UTR	-8.03			5.1	U		
+uhpT	ygaH	CDS	CDS	-11.26					5.1	U
+rcsC	arcZ	CDS	sRNA	-4.2			5.1	U		
+yaaX	cpxP.3UTR	CDS	3UTR	-11.98			5.1	U		
+gdhA	cpxP.3UTR	CDS	3UTR	-10.45			5.1	U		
+yffS	cyaR	CDS	sRNA	-7.58			5.1	1		
+soxS	mgrR	CDS	sRNA	-9.19	1.6	1	5.1	3	2.3	3
+dmsD	rprA	CDS	sRNA	-8.5			5.1	U		
+yfhM	cpxP.3UTR	CDS	3UTR	-10.67			5.0	3		
+waaL	mgrR	CDS	sRNA	-7.81					5.0	U
+alaE	cpxP.3UTR	CDS	3UTR	-2.55			5.0	2		
+nrdD	cpxP.3UTR	CDS	3UTR	-4.5			5.0	3		
+yejG	arcZ	CDS	sRNA	-11.32	1.8	3			5.0	2
+atpB	gadE.mdtE.IGT (gadF)	CDS	IGT	-4.77			5.0	1		
+insH-1	nmpC	CDS	CDS	-8.04	1.6	3	5.0	2	2.7	3
+frdA	ryhB	CDS	sRNA	-12.48					5.0	3
+ribF	uhpT.EST3UTR	CDS	3UTR	-6.49	3.8	U			5.0	U
+lrhA	malG.3UTR	CDS	3UTR	-5.94			5.0	U		
+gmr	arcZ	CDS	sRNA	-6.55			5.0	3		
+fliY.fliZ.IGT	micF	IGT	sRNA	-11.51			5.0	U		
+slt	sdsR	CDS	sRNA	-4.72			5.0	2		
+yfdK.yfdI.IGR	ryhB	IGR	sRNA	-8.09					5.0	2
+waaB	cyaR	CDS	sRNA	-11.48			5.0	1		
+yeaE	arcZ	CDS	sRNA	-4.37			4.9	2		
+oppA	gcvB	CDS	sRNA	-8.91	3.7	6	4.9	3	4.4	3
+htrL	uhpT.EST3UTR	CDS	3UTR	-10.66	4.0	U			4.9	1
+ackA	sucD.EST3UTR	CDS	3UTR	-9.72			4.9	2	2.5	3
+rluF	cpxP.3UTR	CDS	3UTR	-3.16			4.9	U		
+ymbA	mgrR	CDS	sRNA	-10.87			4.9	1	2.7	1
+waaO	ryhB	CDS	sRNA	-5.61					4.9	3
+fliY	sdsR	CDS	sRNA	-9.01			4.9	2		
+hupB	fbaB.gatY.IGR	CDS	IGR	-8.15			4.9	1		
+iscR	oxyS	CDS	sRNA	-6.53					4.9	1
+ybiJ.EST3UTR	arcZ	3UTR	sRNA	-1.17			4.9	U		
+yhjA	mgrR	CDS	sRNA	-2.54	4.9	U				
+ghrA	sdsR	CDS	sRNA	-4.46			4.9	U		
+yahO	rprA	CDS	sRNA	-6.72			4.9	2		
+ydfT	fnrS	CDS	sRNA	-9.44	4.9	U				
+yqiB	ryhB	CDS	sRNA	-12.78					4.9	3
+ddlA	cpxP.3UTR	CDS	3UTR	-12.81	2.0	U	4.8	2		
+yfgJ.EST3UTR	cyaR	3UTR	sRNA	-5.95			4.8	2	1.9	U
+uspB	arcZ	CDS	sRNA	-2.15			4.8	3	2.1	U
+cstA	rprA	CDS	sRNA	-10.29			4.8	2		
+fumA	ryhB	CDS	sRNA	-6.12					4.8	2
+G0-10697.ychE.IGR	arcZ	IGR	sRNA	-11.17			4.8	1	1.7	U
+tmcA	arcZ	CDS	sRNA	-6.34			4.6	U	4.8	U
+betT	arcZ	CDS	sRNA	-8.29			4.8	2	4.1	U
+ompA	xdhD	CDS	CDS	-8.93			4.8	1		
+uhpT	waaA	CDS	CDS	-15.86	4.8	U				
+yiaJ	cpxP.3UTR	CDS	3UTR	-5.66			4.7	U		
+mqsR	rbsB.rbsK.IGT	CDS	IGT	-2.69			4.7	U		
+cfa	gadE.mdtE.IGT (gadF)	CDS	IGT	-5.66			4.7	U		
+cspD	yqiB	CDS	CDS	-4.89					4.7	1
+gnsB	arcZ	CDS	sRNA	-5.65			4.7	3	2.7	3
+cstA	omrA	CDS	sRNA	-9.66			4.7	2		
+arrS	ssb	cis_AS_with_trans_t	CDS	-3.95			4.7	1		
+gadB	xylB.xylA.IGT	CDS	IGT	-4.44			4.7	U		
+ytfJ.ytfK.IGR	uhpT.EST3UTR	IGR	3UTR	-4.71					4.7	2
+yifL.yzcX.IGR	chiX	IGR	sRNA	-4.85					4.7	3
+mazG	micF	CDS	sRNA	-8.5			4.7	2		
+lptF	arcZ	CDS	sRNA	-12.47	0.8	U	4.7	2	4.1	2
+ompF	arcZ	CDS	sRNA	-6.52	0.9	6	4.7	2	0.8	3
+msyB	omrB	CDS	sRNA	-10.17			4.7	2		
+hmp	fnrS	CDS	sRNA	-12.04	2.3	1			4.6	U
+serA	micL	CDS	sRNA	-8.1			4.6	U		
+fliZ	oxyS	CDS	sRNA	-8.76					4.6	U
+minD	mgrR	CDS	sRNA	-11.92	2.3	3	1.6	2	4.6	3
+fliF	micA	CDS	sRNA	-10.81			4.6	1	1.3	2
+fecA	tsx	CDS	CDS	-12.41					4.6	1
+uspB	sdsR	CDS	sRNA	-9.09			4.6	2		
+yjiH	omrA	CDS	sRNA	-6.98			4.6	2		
+ydbH	cpxP.3UTR	CDS	3UTR	-5.32			4.6	U		
+rnhA	spf	CDS	sRNA	-6.16	3.6	U			4.6	1
+kdgK	sucD.EST3UTR	CDS	3UTR	-8.18					4.6	2
+chbC	ryhB	CDS	sRNA	-4.08					4.6	1
+ydgD	cpxP.3UTR	CDS	3UTR	-13.28			4.6	U		
+yfbV	arcZ	CDS	sRNA	-6.91			4.6	2		
+yabQ.rluA.IGR	gcvB	IGR	sRNA	-15.37	3.4	U			4.6	1
+fliY.fliZ.IGT	gcvB	IGT	sRNA	-8.43	2.1	6	4.6	2	2.9	3
+yfeS	cpxP.3UTR	CDS	3UTR	-7.57			4.6	U		
+metU	metT.asnB.IGR	tRNA	IGR	-35.43	4.6	U	0.1	2	0.3	U
+smpB	yqiB	CDS	CDS	-12.22					4.5	U
+ompF	fadA.fre.IGR	CDS	IGR	-12.22	2.2	U			4.5	1
+yfeH	cyaR	CDS	sRNA	-11.48	3.5	U			4.5	2
+mscL	cyaR	CDS	sRNA	-8.43			4.5	2	4.3	U
+pepA	mgrR	CDS	sRNA	-11.19			4.5	2	2.9	1
+fliF	arcZ	CDS	sRNA	-8.78	0.7	1	4.5	2	2.3	3
+nagE	nanT.nanA.IGT	CDS	IGT	-4.83	0.4	U			4.5	2
+ryeA	bhsA.EST3UTR	other-ncRNA	3UTR	-5.12			4.5	U		
+glmU	glmZ.hemY.IGR	CDS	IGR	-7.8			2.7	1	4.5	U
+yjiH	gcvB	CDS	sRNA	-4.71			4.5	2		
+yadD	arcZ	CDS	sRNA	-9.21			3.6	U	4.5	1
+ompT	arcZ	CDS	sRNA	-10.77	0.3	U	4.5	2	0.6	3
+tolB	micA	CDS	sRNA	-6.59	3.1	6	4.4	3	4.4	3
+zapC	mgrR	CDS	sRNA	-6.04	4.4	U			1.4	U
+yhaV	cpxP.3UTR	CDS	3UTR	-11.24			4.4	3		
+helD	arcZ	CDS	sRNA	-13.97	1.5	U	4.4	2	2.3	U
+ynfK	arcZ	CDS	sRNA	-8.56			4.4	3	1.8	2
+rcnB	omrA	CDS	sRNA	-8.85			4.4	U	2.8	1
+cydA	cpxP.3UTR	CDS	3UTR	-10.76			4.4	3		
+mcaS	omrB	sRNA	sRNA	-4.5			4.4	3	2.0	1
+cas3	ryhB	CDS	sRNA	-9.66					4.4	U
+ynfF	mgrR	CDS	sRNA	-8.95			4.4	1		
+aphA	arcZ	CDS	sRNA	-4.48			4.4	2	0.9	1
+insH-1	motA	CDS	CDS	-17.35					4.4	U
+C0719.AS	arcZ	AS	sRNA	-1.44			4.4	U		
+yddB	uhpT.EST3UTR	CDS	3UTR	-8.15					4.4	1
+ypfM	rprA	CDS	sRNA	-5.14			4.3	U	3.2	1
+napF	ryhB	CDS	sRNA	-6.93					4.3	2
+murF	oxyS	CDS	sRNA	-10.83					4.3	U
+kdsC	arcZ	CDS	sRNA	-6.19	2.6	1	4.3	2	4.2	2
+proS	micA	CDS	sRNA	-2.89			4.3	1		
+erpA	ryhB	CDS	sRNA	-8.94					4.3	3
+motA	rpsJ	CDS	CDS	-12.13	4.3	5			2.3	3
+lamB	rprA	CDS	sRNA	-4.25					4.3	U
+fhuA	oxyS	CDS	sRNA	-4.78					4.3	U
+serA	gcvB	CDS	sRNA	-16.72	3.3	6	3.5	2	4.3	3
+yihY	uhpT.EST3UTR	CDS	3UTR	-6.23					4.3	1
+mscK	cyaR	CDS	sRNA	-4.98			2.0	U	4.3	U
+tcdA	cyaR	CDS	sRNA	-10.76	1.6	4	3.9	3	4.3	3
+ymfK	cpxP.3UTR	CDS	3UTR	-9.99			4.3	1		
+dcuA	sdsR	CDS	sRNA	-3.52			4.3	1		
+pheA	rydC	CDS	sRNA	-7.19			4.2	U		
+mcrB	gcvB	CDS	sRNA	-21.35	2.7	1			4.2	1
+ygdQ	cyaR	CDS	sRNA	-11.43	3.5	1	4.2	2	3.1	2
+aspA	ryhB	CDS	sRNA	-9.89	0.7	U	4.2	U	3.9	3
+oppA	uhpT.EST3UTR	CDS	3UTR	-5.48					4.2	1
+ydiZ	cpxP.3UTR	CDS	3UTR	-6.47			4.2	1		
+fepA	micF	CDS	sRNA	-8.7					4.2	2
+glf	mgrR	CDS	sRNA	-7.87	3.4	U			4.2	1
+zwf	cyaR	CDS	sRNA	-9.91			4.2	2	2.0	1
+lldP	gcvB	CDS	sRNA	-5.28					4.1	2
+hrpA	sdsR	CDS	sRNA	-11.54			4.1	U		
+flgN	uhpT.EST3UTR	CDS	3UTR	-3.06					4.1	2
+ybiV.ybiW.IGR	cyaR	IGR	sRNA	-3.09			4.1	1		
+cysJ	gcvB	CDS	sRNA	-10.06			4.1	U		
+yehA.EST3UTR	ryhB	3UTR	sRNA	-7.47					4.1	2
+mrr	cpxP.3UTR	CDS	3UTR	-8.37			4.1	U		
+ydcD	gcvB	CDS	sRNA	-3.97					4.1	U
+metI	mgrR	CDS	sRNA	-17.89			4.1	U	2.5	1
+ddlB	sdsR	CDS	sRNA	-8			4.1	U		
+ompA	ruvA	CDS	CDS	-2.42			4.1	1	3.0	1
+yehU	cyaR	CDS	sRNA	-8.38	1.1	U			4.1	1
+gyrA	omrB	CDS	sRNA	-14.58	2.0	U	4.1	U	3.5	2
+lrp	omrA	CDS	sRNA	-9			4.1	2		
+waaS	micA	CDS	sRNA	-4.23					4.1	1
+arrS	glpT	cis_AS_with_trans_t	CDS	-2.34			4.1	2		
+cobC.rsfS.IGR	cyaR	IGR	sRNA	-6.65	3.2	1	4.0	U	4.0	1
+secM	malG.3UTR	CDS	3UTR	0.32					4.0	U
+nanC	mgrR	CDS	sRNA	-8.41					4.0	2
+ppk	omrB	CDS	sRNA	-10.12					4.0	U
+kgtP	rprA	CDS	sRNA	-7.69			4.0	1		
+yaeP	arcZ	CDS	sRNA	-10.4	1.0	2	4.0	2	2.1	3
+ubiA	sdsR	CDS	sRNA	-4.31			4.0	U		
+gltP	gcvB	CDS	sRNA	-10.39	2.1	U			4.0	1
+lptA	ybiJ.ybiC.IGR	CDS	IGR	-11.3					4.0	U
+alr	cyaR	CDS	sRNA	-12.05	0.6	U	4.0	2	1.1	1
+yghD.yghF.IGR	sucD.EST3UTR	IGR	3UTR	-8.51	2.1	U			4.0	2
+uspB	rprA	CDS	sRNA	-6.67			4.0	1		
+rpoS.nlpD.IGT	sdsR	IGT	sRNA	-7			4.0	3		
+cysB	micA	CDS	sRNA	-8.29			3.1	3	4.0	2
+yqjA	mgrR	CDS	sRNA	-10.36	3.7	U	4.0	1	3.5	1
+fliZ	rprA	CDS	sRNA	-11.28	2.5	U			4.0	U
+tig	mgrR	CDS	sRNA	-9.47	3.7	5			3.9	3
+rfbX	uhpT.EST3UTR	CDS	3UTR	-4.64					3.9	U
+ygaM.EST3UTR	micA	3UTR	sRNA	-17			3.9	1		
+eptB	ypfM	CDS	CDS	-7.08					3.9	1
+hdeD	cyaR	CDS	sRNA	-10.39			3.9	3		
+lysC	cyaR	CDS	sRNA	-10.19	3.9	U			1.9	1
+dnaA	motA	CDS	CDS	-8.6	3.9	U				
+waaP	cpxP.3UTR	CDS	3UTR	-2.82			3.9	1		
+ydhQ	cpxP.3UTR	CDS	3UTR	-11.45			3.9	U		
+smpB	cyaR	CDS	sRNA	-11.04	0.6	2	2.3	3	3.9	2
+ynaE	cyaR	CDS	sRNA	-12.63			3.9	3	1.8	1
+ftsI	rybB	CDS	sRNA	-11.63	0.2	1	3.9	3	1.6	3
+phoP	micA	CDS	sRNA	-5.07			3.9	1	1.7	U
+motA	msrC	CDS	CDS	-5.73	3.3	U			3.9	1
+bamE	micA	CDS	sRNA	-12.29	0.9	U	3.9	2	1.8	1
+ahpF	iscR	CDS	CDS	-7.92			3.9	U		
+pitA	cyaR	CDS	sRNA	-10.83	1.8	1			3.9	3
+dapB	cpxP.3UTR	CDS	3UTR	-14.58			3.9	U		
+gatB	yodB.serU.IGR	CDS	IGR	-9.71			3.9	1	2.7	1
+ydcU	cpxP.3UTR	CDS	3UTR	-2.94			3.9	U		
+ompA	glk.3UTR	CDS	3UTR	-9.89	0.6	U	3.9	U	1.3	U
+sohB	dsrA	CDS	sRNA	-11.03					3.8	U
+sdhB.sucA.IGT	glnA.3UTR	IGT	3UTR	-11.72	3.8	6	2.8	3	3.6	3
+isrB	micA	other-ncRNA	sRNA	-9.95			3.8	3	3.3	1
+ynaE	arcZ	CDS	sRNA	-12.55			3.8	2	1.4	1
+yebZ	cpxP.3UTR	CDS	3UTR	-2.93			3.8	1		
+gadE.mdtE.IGT (gadF)	yebO	IGT	CDS	-14.54			3.8	U		
+arrS	dapA	cis_AS_with_trans_t	CDS	-3.54			3.8	U		
+otsB	cpxP.3UTR	CDS	3UTR	-5.43			3.8	2		
+rcsF	sucD.EST3UTR	CDS	3UTR	-9.68	0.9	U	3.8	2	2.7	2
+cycA	mgrR	CDS	sRNA	-8.14			3.8	1		
+mglB	uhpT	CDS	CDS	-6.01	3.0	2			3.8	1
+insA-2	cyaR	CDS	sRNA	-8.82	3.5	2	3.8	2	2.6	2
+xylE	cpxP.3UTR	CDS	3UTR	-7.29			3.8	U		
+argR.mdh.IGR	cpxP.3UTR	IGR	3UTR	-7.24			3.8	U		
+malK	uhpT.EST3UTR	CDS	3UTR	-6.31	3.4	5			3.8	2
+uhpT	ygiA	CDS	CDS	-10.06	3.8	1			0.8	1
+ribF	rydC	CDS	sRNA	-7.25					3.8	1
+yieP	cpxP.3UTR	CDS	3UTR	-12.39	1.8	U	3.7	2	2.3	1
+fdoG	ryhB	CDS	sRNA	-11.34					3.7	2
+dadA	ryhB	CDS	sRNA	-10.45					3.7	2
+mglB	omrB	CDS	sRNA	-8.25			3.7	U	0.9	1
+chbC.chbB.IGT	chiX	IGT	sRNA	-20.14			3.7	3	2.7	3
+dacC	ryhB	CDS	sRNA	-5.47					3.7	1
+asd	gcvB	CDS	sRNA	-11.34	2.0	U			3.7	3
+yqeG	cyaR	CDS	sRNA	-16					3.7	U
+hupB	yodB.serU.IGR	CDS	IGR	-5.55					3.7	1
+tdcC	ryhB	CDS	sRNA	-6.09					3.7	2
+fabZ	micA	CDS	sRNA	-3.43			3.7	2	2.2	1
+hofM	gcvB	CDS	sRNA	-8.97					3.7	1
+rsmI	arcZ	CDS	sRNA	-2.22			3.7	U		
+msbA	cpxP.3UTR	CDS	3UTR	-3.26			3.7	1		
+sucD	arcZ	CDS	sRNA	-8.01	0.9	U	3.5	3	3.7	3
+dcrB	fnrS	CDS	sRNA	-11.23	1.0	2	3.7	U	2.0	2
+cstA	cyaR	CDS	sRNA	-11.22	1.0	4	0.8	3	3.7	3
+tyrS	ryhB	CDS	sRNA	-6.88					3.7	3
+acnB	sdsR	CDS	sRNA	-8.18			3.7	3		
+yhjJ.dctA.IGR	cpxP.3UTR	IGR	3UTR	-2.7			3.7	U		
+acrA	arrS	CDS	cis_AS_with_trans_t	-8.23			3.6	1		
+tnaB	spf	CDS	sRNA	-8.31	1.3	6	3.6	3	2.7	3
+fiu	fnrS	CDS	sRNA	-3.22					3.6	3
+ompF	micA	CDS	sRNA	-11.36	1.8	6	3.6	3	2.6	2
+ydcH	sdsR	CDS	sRNA	-7			3.6	3		
+garP	flgL.EST3UTR	CDS	3UTR	-8.69					3.6	1
+nuoF	ryhB	CDS	sRNA	-12.02					3.6	2
+dksA.sfsA.IGT	micA	IGT	sRNA	-9.92	0.7	1	3.6	2	2.2	3
+kgtP	malG.3UTR	CDS	3UTR	-12.62			3.6	U		
+hypE.3UTR	ryhB	3UTR	sRNA	-6.99					3.6	2
+yhbU	fnrS	CDS	sRNA	-4.84	3.6	4				
+ykgF	ryhB	CDS	sRNA	-6.35					3.6	1
+cusC.cusF.IGT_AS	narK.narG.IGR	AS	IGR	-16.72					3.6	1
+rcsA	omrB	CDS	sRNA	-5.55					3.6	U
+ispA	omrB	CDS	sRNA	-7.93			2.5	U	3.6	U
+insI-1	gcvB	CDS	sRNA	-2.1	3.6	U				
+yohD	cyaR	CDS	sRNA	-10.99	1.4	1	3.6	2	0.8	U
+srlA	cpxP.3UTR	CDS	3UTR	-9.76	1.1	U			3.6	3
+kdgR	sdsR	CDS	sRNA	-7.49			3.6	U		
+focA	gadE.mdtE.IGT (gadF)	CDS	IGT	-3.6			3.6	U		
+yjcE	cpxP.3UTR	CDS	3UTR	-3.07			3.6	1		
+znuC	micL	CDS	sRNA	-11.14			3.6	U		
+dcuA	micF	CDS	sRNA	-14.65			3.3	1	3.6	1
+thrS.yniD.IGR	mcaS	IGR	sRNA	-8.43					3.5	U
+sucA	micA	CDS	sRNA	-5.92			3.5	3	1.1	1
+insL-1.AS	cyaR	AS	sRNA	-9.63					3.5	U
+allR	ftsZ	CDS	CDS	-8.49			3.5	1		
+yicH	arcZ	CDS	sRNA	-6.42			3.5	U	1.1	U
+yniA	mgrR	CDS	sRNA	-4.05			3.5	1		
+dsbA	cpxP.3UTR	CDS	3UTR	-13.99			3.5	1	3.0	1
+mazG	cpxP.3UTR	CDS	3UTR	-16.45			3.5	U		
+rppH	cyaR	CDS	sRNA	-14.49	0.5	U	3.5	3	1.5	2
+trpC	gcvB	CDS	sRNA	-13.8					3.5	1
+rpsF	dicF	CDS	sRNA	-5.03					3.5	2
+tmcA	chiX	CDS	sRNA	-16.9			2.4	2	3.5	2
+bfr	glpX.3UTR	CDS	3UTR	-5.44			3.5	2		
+talA.maeB.IGR	cpxP.3UTR	IGR	3UTR	-6.61			3.5	1		
+nuoC	ryhB	CDS	sRNA	-8.45					3.5	3
+ydiJ	gcvB	CDS	sRNA	-14.09	3.0	U	2.8	U	3.5	1
+tsaC	fnrS	CDS	sRNA	-10.09	2.2	3	1.4	U	3.4	1
+gadY	hybO	cis_AS_with_trans_t	CDS	-5.4			3.4	U		
+kptA	cpxP.3UTR	CDS	3UTR	-11.74			3.4	1		
+wzzB	cpxP.3UTR	CDS	3UTR	-8.71			3.4	2		
+uhpT	ytfK	CDS	CDS	-2.5			3.4	U		
+ispA	ryhB	CDS	sRNA	-13.34					3.4	3
+ftsA.ftsZ.IGT	rprA	IGT	sRNA	-10.43			3.4	1		
+crfC	gcvB	CDS	sRNA	-3.4	2.4	U			3.4	1
+glpE	mgrR	CDS	sRNA	-10.62					3.4	U
+insAB-1	mcaS	CDS	sRNA	-8.19					3.4	1
+rimL	mgrR	CDS	sRNA	-6.44			0.8	U	3.4	U
+sugE	arcZ	CDS	sRNA	-1.21			3.4	U		
+nirB	ryhB	CDS	sRNA	-9.81					3.4	2
+ligB	ryhB	CDS	sRNA	-7.88					3.4	3
+ompX	ykgH.EST3UTR	CDS	3UTR	-1.65					3.4	U
+mioC	cpxP.3UTR	CDS	3UTR	-7.44	1.8	U	3.4	2	2.3	1
+phoA	cpxP.3UTR	CDS	3UTR	-3.74			3.4	U		
+flgE	rprA	CDS	sRNA	-4.74	2.4	U			3.3	U
+fliC.fliA.IGR	ydcP.EST3UTR	IGR	3UTR	-9.25	3.3	U				
+ybeL	rprA	CDS	sRNA	-10.17			3.3	1		
+fliP	uhpT.EST3UTR	CDS	3UTR	-6.95	3.3	U				
+ldtD.ycbK.IGR	sdsR	IGR	sRNA	-7.83			3.3	3		
+yhdW	gcvB	CDS	sRNA	-14.07			3.3	U		
+ypjA	arcZ	CDS	sRNA	-9.96			3.3	U		
+ymgE	cyaR	CDS	sRNA	-9.48			3.3	2		
+ygfF	arcZ	CDS	sRNA	-11.9			3.3	U		
+loiP	micA	CDS	sRNA	-7.18			3.3	2		
+ampG	rpmI.infC.IGT	CDS	IGT	-7.98					3.3	U
+ompF	ynfK.mlc.IGT	CDS	IGT	-5.97	3.3	U				
+ilvB	cyaR	CDS	sRNA	-13.81			1.4	1	3.3	U
+arrS	dnaJ	cis_AS_with_trans_t	CDS	-7.6			3.3	1		
+ucpA.cysP.IGR	ykgH.EST3UTR	IGR	3UTR	-4.65					3.3	U
+cdsA	mgrR	CDS	sRNA	-8.64	1.9	U			3.3	2
+gltI	sstT	CDS	CDS	-6.01			3.3	U		
+argP	gcvB	CDS	sRNA	-14.52	3.3	1			3.2	1
+ispU	ompT	CDS	CDS	-5.08					3.3	U
+yedQ	cyaR	CDS	sRNA	-10.98			0.9	2	3.3	1
+fliC	mgrR	CDS	sRNA	-6.72	1.8	4	3.3	2	0.8	3
+yfcE	ryhB	CDS	sRNA	-7.56					3.3	3
+rfbA	arcZ	CDS	sRNA	-7.68	2.4	1	3.3	U		
+yacL	cpxP.3UTR	CDS	3UTR	-2.15			3.3	1		
+fliC	G0-10699	CDS	other-ncRNA	-7.7					3.3	1
+lrp	micA	CDS	sRNA	-11.38			3.3	3		
+yhgN	micF	CDS	sRNA	-14.01			3.2	U		
+galU	uhpT.EST3UTR	CDS	3UTR	-5.21					3.2	1
+ygaH	mcaS	CDS	sRNA	-10.44					3.2	U
+purA	ybiJ.ybiC.IGR	CDS	IGR	-9.62					3.2	1
+uhpT	yaiL	CDS	CDS	-8.03	1.7	U			3.2	U
+nagE	uhpT.EST3UTR	CDS	3UTR	-9.31	3.2	1			2.1	3
+fabF	micL	CDS	sRNA	-14	1.0	U	3.2	1	3.2	U
+G0-10697	fnrS	other-ncRNA	sRNA	-4.32					3.2	U
+ryeA	narP.ccmH.IGR	other-ncRNA	IGR	-8.7			3.2	2		
+icd	tnaC	CDS	CDS	-6.76			3.2	U		
+glnP.glnH.IGT	rprA	IGT	sRNA	-7.87			3.2	U		
+ubiC	uhpT.EST3UTR	CDS	3UTR	-4.09	3.2	U				
+yjiA	spf	CDS	sRNA	-6.72	3.2	U			2.7	1
+isrC	gcvB	other-ncRNA	sRNA	-6.71					3.2	1
+rpoS	mgrR	CDS	sRNA	-9.53	1.0	1	3.2	2	1.9	1
+parC	mgrR	CDS	sRNA	-11.16					3.2	1
+ynaE	cpxP.3UTR	CDS	3UTR	-2.48			3.2	2		
+mlaA	omrB	CDS	sRNA	-6.98					3.2	1
+mlaA	cpxP.3UTR	CDS	3UTR	-8			3.2	2		
+glpF	rbsB.rbsK.IGT	CDS	IGT	-8.89	3.2	U	1.7	1	0.3	1
+ytfJ.ytfK.IGR	ykgH.EST3UTR	IGR	3UTR	-8.94					3.1	U
+arrS	hdhA	cis_AS_with_trans_t	CDS	-3.4			3.1	U		
+entE	oxyS	CDS	sRNA	-7.28					3.1	1
+secM	cpxP.3UTR	CDS	3UTR	-13.08	0.9	1	3.1	3	1.5	U
+lhgO	cpxP.3UTR	CDS	3UTR	-7.5			3.1	U		
+galU	uhpT	CDS	CDS	-7.59	3.1	1				
+waaP	gcvB	CDS	sRNA	-8.45	2.9	U			3.1	1
+fhuE	gcvB	CDS	sRNA	-7.59					3.1	1
+waaY	arcZ	CDS	sRNA	-5.55					3.1	1
+yfhM	gcvB	CDS	sRNA	-8.94	1.4	U			3.1	1
+nsrR	uhpT.EST3UTR	CDS	3UTR	-7.25	0.9	U			3.1	1
+rssB	sdsR	CDS	sRNA	-11.68			3.1	U		
+yniC	mgrR	CDS	sRNA	-7.32					3.1	2
+gsiB	arcZ	CDS	sRNA	-4.55			3.1	1	1.6	U
+yfdK.yfdI.IGR	arcZ	IGR	sRNA	-4.42			3.1	1	1.7	U
+motB	mgrR	CDS	sRNA	-9.88	3.1	5			1.7	1
+fimA	sucD.EST3UTR	CDS	3UTR	-5.16			3.1	U		
+btuB	cspA.3UTR	CDS	3UTR	-4.62	3.1	U				
+ubiC	cyaR	CDS	sRNA	-8.98	1.6	1	2.7	3	3.1	3
+dnaT	arcZ	CDS	sRNA	-8.9			3.1	1		
+msrB	ryhB	CDS	sRNA	-12.34					3.1	2
+grxD	fnrS	CDS	sRNA	-16.52	1.2	2	3.0	1	1.5	1
+nuoA.lrhA.IGR	gcvB	IGR	sRNA	-5.56					3.0	1
+ytfQ	omrB	CDS	sRNA	-12.53			3.0	U		
+lrp	omrB	CDS	sRNA	-10.48			3.0	1		
+ompA	pncB	CDS	CDS	-9.62			3.0	U		
+ackA	sucD	CDS	CDS	-9.24			0.9	U	3.0	3
+htrL	cyaR	CDS	sRNA	-4.67			3.0	U	1.4	1
+talB	uhpT	CDS	CDS	-7.22	3.0	U			2.5	2
+arcZ.elbB.IGR	arcZ	IGR	sRNA	-18.3			3.0	U		
+leuP.leuQ.IGT_AS	cyaR	AS	sRNA	-11.64					3.0	3
+nikB	cyaR	CDS	sRNA	-4.43	3.0	1				
+gabT.gabP.IGT	cpxP.3UTR	IGT	3UTR	-9.96			3.0	1		
+cirA	yeiG.AS	CDS	AS	-10.47					3.0	U
+tktA	omrB	CDS	sRNA	-6.75			3.0	U		
+yeeE	cyaR	CDS	sRNA	-9.15			3.0	2		
+yqjA	cpxP.3UTR	CDS	3UTR	-3.87			3.0	1		
+dppA	rdlA	CDS	cis_AS_with_trans_t	-5.93			3.0	U		
+csiE	micA	CDS	sRNA	-6.02			3.0	1		
+glpF	rprA	CDS	sRNA	-8.9			3.0	1		
+tus	cyaR	CDS	sRNA	-13.67			3.0	U		
+malI	fnrS	CDS	sRNA	-6.57	0.7	1			3.0	U
+argP	arcZ	CDS	sRNA	-5.42			3.0	1		
+mntH	cyaR	CDS	sRNA	-5.18			3.0	1	1.6	1
+G0-10700	arcZ	other-ncRNA	sRNA	-11.35			3.0	2		
+chiP	ryhB	CDS	sRNA	-6.21					3.0	3
+bglX	uhpT.EST3UTR	CDS	3UTR	-7.71	3.0	U				
+ubiE	uhpT.EST3UTR	CDS	3UTR	-5.76					2.9	U
+ompA	sroD	CDS	other-ncRNA	-6.81			2.9	U	1.7	U
+aldA.EST3UTR	micA	3UTR	sRNA	-1.79			2.9	U		
+sdaC	malM.EST3UTR	CDS	3UTR	-7.11			2.9	U		
+yhjG	yhjH	CDS	CDS	-11.32	0.9	U			2.9	1
+yebW	cyaR	CDS	sRNA	-11.05			1.3	1	2.9	U
+flhC	mcaS	CDS	sRNA	-8.53	1.2	3			2.9	3
+ydiJ	arcZ	CDS	sRNA	-3.14			2.9	1	2.6	1
+glgA	uhpT.EST3UTR	CDS	3UTR	-7.11					2.9	U
+tdcA	oxyS	CDS	sRNA	-17.08	2.9	U				
+rbsC	cyaR	CDS	sRNA	-14.45	1.3	6	2.9	3	1.9	3
+zapC	cyaR	CDS	sRNA	-9.5			2.9	U		
+aceK	ycaK.EST3UTR	CDS	3UTR	-15.78			2.9	1		
+gatC	flgL.EST3UTR	CDS	3UTR	-6.85			2.9	2	0.5	1
+pstS.glmS.IGR	gcvB	IGR	sRNA	-7.6	2.9	U				
+sbcB	ryhB	CDS	sRNA	-8.39					2.9	U
+thrL	gcvB	CDS	sRNA	-11.61	1.0	U	2.9	3	2.2	3
+rstB	ryhB	CDS	sRNA	-13.3					2.9	2
+nudF	arcZ	CDS	sRNA	-8.45			2.9	1	1.9	U
+yoaC	arcZ	CDS	sRNA	-14.56			2.9	U		
+emrD	cyaR	CDS	sRNA	-4.11			2.8	1		
+glpT	oxyS	CDS	sRNA	-8.5	2.8	1				
+tas	arcZ	CDS	sRNA	-2			2.8	U		
+ucpA	arcZ	CDS	sRNA	-2.46			2.8	2	0.6	1
+oppD	cyaR	CDS	sRNA	-7.25			1.4	2	2.8	1
+yddB	ryhB	CDS	sRNA	-5.79					2.8	U
+insA-7	cyaR	CDS	sRNA	-4.45			2.8	1		
+wcaM.galF.IGR	gcvB	IGR	sRNA	-12.44					2.8	1
+tolB	cpxP.3UTR	CDS	3UTR	-8.34			2.8	2		
+sodB	ryhB	CDS	sRNA	-4.13					2.8	3
+wbbK.insH-7.IGR	insH-7.gnd.IGR	IGR	IGR	-9.73	2.8	U				
+tdcB.tdcA.IGT	oxyS	IGT	sRNA	-2.5					2.8	U
+ygaZ	cyaR	CDS	sRNA	-8.11	1.0	U			2.8	1
+yqjA	sdsR	CDS	sRNA	-10.83			2.8	U		
+yibF	cspA.3UTR	CDS	3UTR	-12.98	2.8	U				
+yjdC	cyaR	CDS	sRNA	-8.36			2.8	3		
+rpsF	ygaM	CDS	CDS	-7.64			2.8	U		
+emrE	chiX	CDS	sRNA	-10.02					2.8	1
+rdoA	micA	CDS	sRNA	-5.69	0.6	U	2.8	2	1.0	1
+yoaC	cpxP.3UTR	CDS	3UTR	-10.05			2.8	2		
+aceK	malT	CDS	CDS	-14.04			2.7	2		
+gcvT.ubiI.IGR	fnrS	IGR	sRNA	-8.5					2.7	U
+fiu	mcaS	CDS	sRNA	-9.41					2.7	2
+hcaR	cpxP.3UTR	CDS	3UTR	-4.02			2.7	1		
+hemD	uhpT.EST3UTR	CDS	3UTR	-10.91	0.8	U			2.7	U
+tdcB	uhpT.EST3UTR	CDS	3UTR	-9.62	1.9	6			2.7	2
+trpB	arcZ	CDS	sRNA	-10.76			2.7	1		
+yggX.mltC.IGT	gcvB	IGT	sRNA	-16	2.7	6	1.0	U	2.5	3
+motA	nuoC.nuoB.IGT	CDS	IGT	-8.04	2.7	U			2.2	U
+ompT	omrB	CDS	sRNA	-12.56	1.5	U			2.7	2
+yfcD	cyaR	CDS	sRNA	-7.4			2.7	U		
+nanC	gcvB	CDS	sRNA	-12.02	1.2	2			2.7	2
+aceF	fliC.EST3UTR	CDS	3UTR	-6.6	2.7	1			1.7	U
+cycA.fklB.IGR	arcZ	IGR	sRNA	-7.19			2.7	1		
+hscB	ryhB	CDS	sRNA	-7.42					2.7	3
+rdlA.ldrB.IGR	arcZ	IGR	sRNA	-4.41					2.7	U
+rpsG	uhpT.EST3UTR	CDS	3UTR	-9.54	2.1	5	2.7	1	1.5	3
+yjhB	cyaR	CDS	sRNA	-3.41					2.7	1
+gltI	rprA	CDS	sRNA	-12.46			2.7	U		
+fabF	oxyS	CDS	sRNA	-8.91	0.9	U			2.7	1
+pgpB	cyaR	CDS	sRNA	-10.05	0.9	U	2.7	3	1.9	2
+rsmH	ybiJ.ybiC.IGR	CDS	IGR	-10.67					2.6	U
+pyrG	glmZ.hemY.IGR	CDS	IGR	-3.42					2.6	U
+hflX	omrB	CDS	sRNA	-9.35			2.6	1		
+ycjD	micA	CDS	sRNA	-5.75			2.6	U	2.1	2
+gltW	rrsH.AS	tRNA	AS	-8.21					2.6	1
+yciE.3UTR	sucD.EST3UTR	3UTR	3UTR	-7.32			2.6	U		
+ompA	malG.3UTR	CDS	3UTR	-9.81	1.6	2	2.3	2	2.6	3
+trmJ	trmJ.iscR.IGR	CDS	IGR	-9.66	2.6	U				
+murA.ibaG.IGT	mgrR	IGT	sRNA	-7.94					2.6	U
+pmrD	cpxP.3UTR	CDS	3UTR	-3.13			2.6	U		
+sstT	uhpT.EST3UTR	CDS	3UTR	-3.66					2.6	1
+yjhC	mgrR	CDS	sRNA	-5.68					2.6	1
+folA	arcZ	CDS	sRNA	-10.12			0.9	U	2.6	2
+ldtE	micA	CDS	sRNA	-4.77			2.6	1		
+glpT	cpxP.3UTR	CDS	3UTR	-9.9	0.7	U	2.6	3	0.9	1
+deoD	gcvH	CDS	CDS	-14.64					2.6	1
+ompF	yhcN.EST3UTR	CDS	3UTR	-8.15					2.6	1
+arrS	sdhE	cis_AS_with_trans_t	CDS	-7.81			2.6	U		
+yfdK.yfdI.IGR	rprA	IGR	sRNA	-8.64			2.6	1		
+artM	cpxP.3UTR	CDS	3UTR	-6.97			2.6	U		
+fabA	omrB	CDS	sRNA	-8.79			0.9	U	2.6	1
+amiA	uhpT.EST3UTR	CDS	3UTR	-4.87					2.6	1
+yciO.yciQ.IGT	cpxP.3UTR	IGT	3UTR	-14.38			2.6	U		
+speB.loiP.IGR	arcZ	IGR	sRNA	-4.16			1.1	1	2.6	2
+prfB	micF	CDS	sRNA	-14.67			2.6	1		
+ydcS	cpxP.3UTR	CDS	3UTR	-11.52			2.6	2		
+cobU	cyaR	CDS	sRNA	-6.22					2.6	1
+rpsJ	yhcN.EST3UTR	CDS	3UTR	-9.93					2.5	1
+nrdF	omrB	CDS	sRNA	-11.04					2.5	U
+fecA	uhpT.EST3UTR	CDS	3UTR	-5.26					2.5	2
+nirC	narK.narG.IGR	CDS	IGR	-3.13	2.5	U				
+paaX	ryhB	CDS	sRNA	-8.29					2.5	1
+tehB	ryhB	CDS	sRNA	-16.44					2.5	2
+xylF	arcZ	CDS	sRNA	-7.66			2.5	1		
+btuE	cpxP.3UTR	CDS	3UTR	-6.93			2.5	U		
+rdoA	arcZ	CDS	sRNA	-2.88			2.5	2		
+gcvH	ryhB	CDS	sRNA	-6.86					2.5	3
+ytfP	cpxP.3UTR	CDS	3UTR	-2.44			2.5	U		
+ycbJ	cpxP.3UTR	CDS	3UTR	-10.02			2.5	1		
+gabD	sdsR	CDS	sRNA	-3.79			2.5	1		
+focA	mcaS	CDS	sRNA	-11.57	2.5	2			2.5	2
+fabZ	ryhB	CDS	sRNA	-9.29					2.5	3
+ratB	mgrR	CDS	sRNA	-4.01			2.5	U	1.7	1
+smg	cpxP.3UTR	CDS	3UTR	-8.45			2.5	3	0.9	1
+rbsK	arcZ	CDS	sRNA	-7.43			2.5	1	2.5	2
+gadC	sdsR	CDS	sRNA	-10.79			2.5	2		
+yidD	arcZ	CDS	sRNA	-9.97					2.5	2
+flgL	ybiJ.ybiC.IGR	CDS	IGR	-6.54					2.5	U
+tamA	cyaR	CDS	sRNA	-13.05			1.3	U	2.5	U
+cspD	mgrR	CDS	sRNA	-10.43	2.5	6	0.6	3	2.1	3
+hisJ	micA	CDS	sRNA	-8.17			2.5	1		
+smtA	cyaR	CDS	sRNA	-16.31	2.0	U	2.5	2	1.1	1
+srlA	spf	CDS	sRNA	-9.16	1.1	5			2.5	3
+ydhC	arcZ	CDS	sRNA	-2.9					2.5	1
+gcvT	arcZ	CDS	sRNA	-7.1	1.4	1	2.5	3	1.6	3
+hdeD	sdsR	CDS	sRNA	-2.95			2.5	U		
+hflX	omrA	CDS	sRNA	-10.74			2.5	3		
+fbaB	fbaB.gatY.IGR	CDS	IGR	-8.67			2.5	U		
+cpxP.3UTR	yehA.EST3UTR	3UTR	3UTR	-2.86			2.5	U		
+queE	fnrS	CDS	sRNA	-5.42					2.5	2
+tnaC.tnaA.IGT	arcZ	IGT	sRNA	-10.56	0.4	6	2.5	3	1.1	2
+paaX	mgrR	CDS	sRNA	-9.29					2.5	1
+yejA	spf	CDS	sRNA	-6.64					2.5	1
+hemN	ryhB	CDS	sRNA	-12.96					2.5	3
+rplU	dicF	CDS	sRNA	-5.89					2.4	1
+yqeB.yqeA.IGR	arcZ	IGR	sRNA	-3.87			2.4	1		
+secD	arcZ	CDS	sRNA	-7.38	1.5	1	2.4	2	1.2	3
+crcB.tatE.IGR	cyaR	IGR	sRNA	-9.31	2.4	U	2.0	1		
+insL-1.AS	rpsJ	AS	CDS	-7.51	2.4	U				
+lpxD.fabZ.IGT	cpxP.3UTR	IGT	3UTR	-9.05	1.1	U			2.4	1
+ykgH.EST3UTR	cirA.EST3UTR	3UTR	3UTR	-1.27					2.4	1
+patD	sdsR	CDS	sRNA	-9.99			2.4	U		
+ves	omrB	CDS	sRNA	-8.46					2.4	1
+bhsA	ompF	CDS	CDS	-12.06	2.0	U			2.4	U
+motB	uhpT.EST3UTR	CDS	3UTR	-8.22	2.4	1				
+paaJ	cyaR	CDS	sRNA	-7.94			2.4	1		
+yhaO	ryhB	CDS	sRNA	-9.51					2.4	U
+ycbJ	omrA	CDS	sRNA	-8.41			2.4	1		
+mtfA	cyaR	CDS	sRNA	-8.46			2.4	2	1.0	1
+tnaB	oxyS	CDS	sRNA	-7.12					2.4	U
+glpT	arcZ	CDS	sRNA	-9.5	2.0	5	2.4	3	1.5	3
+ilvE.ilvD.IGT	gcvB	IGT	sRNA	-10.21					2.4	U
+proP	ryhB	CDS	sRNA	-7.48					2.4	3
+rppH	gcvB	CDS	sRNA	-11.66	1.3	2			2.4	1
+nrfG.gltP.IGR	gcvB	IGR	sRNA	-11.56	1.0	U			2.4	2
+ompF	yodB.serU.IGR	CDS	IGR	-9.53	0.6	U			2.4	1
+rseX.hchA.IGR	arcZ	IGR	sRNA	-4.15			2.4	1		
+fiu	rybB	CDS	sRNA	-8.34					2.4	1
+ypfM	uhpT.EST3UTR	CDS	3UTR	-10.74	2.4	2			1.0	2
+uspE	cyaR	CDS	sRNA	-11.79	0.8	6	2.4	3	2.2	3
+waaS	ryhB	CDS	sRNA	-6.52					2.4	U
+fadI	cpxP.3UTR	CDS	3UTR	-9.49			2.4	2		
+yfeH	chiX	CDS	sRNA	-7.6					2.4	3
+plsB	arcZ	CDS	sRNA	-10.37			2.4	1	0.7	U
+gadE.mdtE.IGT (gadF)	ygdI	IGT	CDS	-10.38			2.4	U		
+cytR	ftsN	CDS	CDS	-10.53					2.4	U
+sstT	arcZ	CDS	sRNA	-9.01			2.3	2		
+zwf	fnrS	CDS	sRNA	-6.01	1.8	1			2.3	1
+nudL	fnrS	CDS	sRNA	-6.06	2.0	1			2.3	U
+yehA.EST3UTR	ryjA	3UTR	sRNA	-6.1			2.3	U		
+der	ryhB	CDS	sRNA	-15.53					2.3	1
+dinD	ryhB	CDS	sRNA	-9.06					2.3	U
+rpsT	xylB.xylA.IGT	CDS	IGT	-4.61			2.3	U		
+nadE	chiX	CDS	sRNA	-9.27					2.3	1
+fliC	ybiJ.EST3UTR	CDS	3UTR	-7.39	2.3	U			0.9	1
+glnH	motA	CDS	CDS	-8.54			2.3	U	1.4	1
+hupB	sdsR	CDS	sRNA	-6.89			2.3	2		
+oppA	malG.3UTR	CDS	3UTR	-1.71			2.3	U		
+fliC.fliA.IGR	astE.spy.IGR	IGR	IGR	-8.08					2.3	U
+yfgO	cyaR	CDS	sRNA	-10.35			2.3	U		
+uhpT	uspE	CDS	CDS	-2.44	2.3	2				
+udp	oxyS	CDS	sRNA	-8.91	1.7	U			2.3	1
+ykfB	omrB	CDS	sRNA	-15.18					2.3	U
+metQ.metI.IGT	gcvB	IGT	sRNA	-6.32					2.3	1
+menI	cyaR	CDS	sRNA	-9.21			2.3	1	1.2	1
+yoaF	mgrR	CDS	sRNA	-8.14					2.3	1
+ompR	omrB	CDS	sRNA	-11.54					2.3	U
+yciC	cyaR	CDS	sRNA	-5.72					2.3	1
+flhD	cyaR	CDS	sRNA	-9.86			2.3	1		
+yddB	gcvB	CDS	sRNA	-14.98					2.2	1
+slyB	mgrR	CDS	sRNA	-15.72			2.2	U	0.6	1
+yjiA	arcZ	CDS	sRNA	-2.23					2.2	U
+ompC	rybB	CDS	sRNA	-10.99	0.2	2	2.2	3	0.7	3
+miaA.hfq.IGT	sdsR	IGT	sRNA	-8.33			2.2	1		
+leuV.leuP.IGT_AS	micA	AS	sRNA	-12.77					2.2	2
+nlpE	cpxP.3UTR	CDS	3UTR	-7.67			2.2	U		
+yfcE	cyaR	CDS	sRNA	-3.69					2.2	1
+rssA	arcZ	CDS	sRNA	-8.15			2.0	1	2.2	U
+arrS	cydA	cis_AS_with_trans_t	CDS	-6.41			2.2	3		
+nanK	arcZ	CDS	sRNA	-15.22					2.2	1
+elaB	gadE.mdtE.IGT (gadF)	CDS	IGT	-10.41			2.2	3		
+rdgC	cyaR	CDS	sRNA	-8.85			2.2	U		
+dctA	gadY	CDS	cis_AS_with_trans_t	-8.9			2.2	U		
+ompW	ygaU	CDS	CDS	-14.26			2.2	U		
+dcuA	cyaR	CDS	sRNA	-9.9	0.3	U	2.2	3	0.7	1
+smg	omrB	CDS	sRNA	-14.07			2.2	1	1.3	1
+panD	arcZ	CDS	sRNA	-9			2.2	2		
+lacY.lacZ.IGT	cpxP.3UTR	IGT	3UTR	-2.4	2.2	U				
+yajG	mcaS	CDS	sRNA	-8.61	2.2	1			0.9	1
+rpsB	leuZ.yecA.IGR	CDS	IGR	-2.17	2.2	1			0.6	1
+yacL	cyaR	CDS	sRNA	-12.34	0.4	3	2.2	3	1.0	3
+hisR.leuT.IGT_AS	fnrS	AS	sRNA	-3.91					2.2	U
+rpoS	arcZ	CDS	sRNA	-8.27			2.2	2	1.9	2
+gadC	omrB	CDS	sRNA	-3.67			2.2	U		
+rpsM	xylB.xylA.IGT	CDS	IGT	-9.2			2.2	1		
+motB	ryhB	CDS	sRNA	-9.83					2.2	3
+hflX	cyaR	CDS	sRNA	-11.97	0.8	5	2.2	3	1.9	3
+ycbZ	cyaR	CDS	sRNA	-7.65			2.2	1		
+artQ	sucD.EST3UTR	CDS	3UTR	-8.2			2.1	1		
+pheT	ybiJ.ybiC.IGR	CDS	IGR	-11.72			2.1	U		
+mepM	cyaR	CDS	sRNA	-5.5					2.1	1
+yebE	cpxP.3UTR	CDS	3UTR	-10.77			2.1	1		
+dhaK	spf	CDS	sRNA	-3.93	2.1	1				
+fliC	tdcG	CDS	CDS	-8.28	1.0	U			2.1	2
+leuT.AS	cyaR	AS	sRNA	-10.06					2.1	U
+rpoE	sdsR	CDS	sRNA	-8.83			2.1	U		
+katG	rprA	CDS	sRNA	-9.14			2.1	1		
+ompC	insH-2.ybcQ.IGR	CDS	IGR	-12.12			2.1	2	1.0	3
+rhsC	arcZ	CDS	sRNA	-5.86					2.1	U
+yieP	fnrS	CDS	sRNA	-8.56					2.1	1
+tdcE	arcZ	CDS	sRNA	-6.68	0.9	3			2.1	1
+malM	uhpT.EST3UTR	CDS	3UTR	0.04					2.1	U
+guaA	dsrA	CDS	sRNA	-6.6			2.1	U		
+arrS	wzzB	cis_AS_with_trans_t	CDS	-6.86			2.1	1		
+rpsT	cyaR	CDS	sRNA	-9.2	1.5	6	0.7	3	2.1	3
+atpI	cyaR	CDS	sRNA	-9.53	1.1	2	1.1	3	2.1	3
+rsmA	arcZ	CDS	sRNA	-4.96			2.1	1	1.2	1
+roxA	uhpT.EST3UTR	CDS	3UTR	-5.58					2.1	U
+glpR	gcvB	CDS	sRNA	-15.3					2.1	1
+cstA	omrB	CDS	sRNA	-10.52			2.1	1	0.5	2
+gcvH	rbsD	CDS	CDS	-8.92	0.7	2	2.1	1		
+tnaB	uhpT.EST3UTR	CDS	3UTR	-6.5					2.1	U
+yeaG	mgrR	CDS	sRNA	-2.21			2.1	U		
+ygaM	micA	CDS	sRNA	-18.26			2.1	1		
+fhuE	arcZ	CDS	sRNA	-1.92					2.1	U
+kgtP	sdsR	CDS	sRNA	-8.42			2.1	1		
+arsB	cyaR	CDS	sRNA	-9.29			2.1	1		
+ybiA	arcZ	CDS	sRNA	-5.82			2.1	U		
+flgN	dsrA	CDS	sRNA	-10.6	2.1	U			1.1	U
+paaJ	raiA	CDS	CDS	-5.69			2.0	U		
+yagU	gcvB	CDS	sRNA	-15.34	1.1	U			2.0	U
+yebW	cpxP.3UTR	CDS	3UTR	-3.36			2.0	U		
+yihY	gcvB	CDS	sRNA	-10.49					2.0	1
+fabR	spf	CDS	sRNA	-10.18	0.7	3	1.8	1	2.0	3
+setA	ryhB	CDS	sRNA	-8.51					2.0	U
+yieP	cyaR	CDS	sRNA	-8.57			2.0	1		
+lptB	arcZ	CDS	sRNA	-8.32	1.1	1	2.0	2	1.0	3
+putP	cyaR	CDS	sRNA	-4.87			2.0	1		
+glgB	sdsR	CDS	sRNA	-8.45			2.0	3		
+astC	arcZ	CDS	sRNA	-6.43			2.0	U		
+ftsY	cyaR	CDS	sRNA	-6.69	1.4	3	1.6	2	2.0	2
+crp	arcZ	CDS	sRNA	-5.5	0.7	4	2.0	3	1.2	3
+nmpC	micA	CDS	sRNA	-4.7	1.1	5	2.0	3	1.3	2
+glyQ	arcZ	CDS	sRNA	-11.36			2.0	2	0.6	1
+ydhF	uhpT.EST3UTR	CDS	3UTR	-10.21					2.0	U
+mtr	mgrR	CDS	sRNA	-8.73			2.0	3		
+yaiL	cyaR	CDS	sRNA	-9.15			2.0	U	1.1	U
+yncE	uhpT.EST3UTR	CDS	3UTR	-4.45					2.0	U
+ybaN	gcvB	CDS	sRNA	-10.82					2.0	1
+ompC	sdsR	CDS	sRNA	-9.73			2.0	3	0.8	U
+ompF	lgoD.EST3UTR	CDS	3UTR	-5.49					2.0	1
+arrS	sdhA	cis_AS_with_trans_t	CDS	-6.45			2.0	3		
+ftsP	uhpT	CDS	CDS	-5.44					2.0	U
+sstT	sroC	CDS	other-ncRNA	-8.88			2.0	2		
+glf	cyaR	CDS	sRNA	-10.3	1.1	3	2.0	3	1.6	3
+rplA.rplJ.IGT	yodB.serU.IGR	IGT	IGR	-2.72					2.0	1
+lpp	glpX.3UTR	CDS	3UTR	-9.44	0.5	5	2.0	3	0.8	3
+tatE	cpxP.3UTR	CDS	3UTR	-2.36			2.0	U		
+uspB	cyaR	CDS	sRNA	-7.47	1.2	U	2.0	1		
+dgt	ryhB	CDS	sRNA	-10.18					2.0	1
+miaA.hfq.IGT	cpxP.3UTR	IGT	3UTR	-10.45			2.0	U		
+glpK	cpxP.3UTR	CDS	3UTR	-15.04	0.9	5	1.3	3	2.0	3
+yjbJ	micF	CDS	sRNA	-8.1			2.0	3		
+fabA	mgrR	CDS	sRNA	-8.75			2.0	1	1.5	2
+tsx	malG.3UTR	CDS	3UTR	-10					2.0	U
+ackA.yfbV.IGR	arcZ	IGR	sRNA	-4.21			2.0	U		
+feoA	uhpT	CDS	CDS	-7.81					2.0	U
+ybiC	gcvB	CDS	sRNA	-3.8					1.9	U
+ubiD	ryhB	CDS	sRNA	-13.47					1.9	3
+yajR	cyaR	CDS	sRNA	-9.46			1.9	1	0.9	U
+lysP	cyaR	CDS	sRNA	-7.6			1.9	1	1.9	U
+ompF	cpxP.3UTR	CDS	3UTR	-5.44	0.9	3	1.9	1	0.8	2
+rcsD	cpxP.3UTR	CDS	3UTR	-12.34			1.9	U		
+cycA	cpxP.3UTR	CDS	3UTR	-10.78			1.9	1		
+cusC.cusF.IGT_AS	narK	AS	CDS	-23.06	1.9	U				
+pheS.pheM.IGT	micA	IGT	sRNA	-2.84			0.3	2	1.9	1
+lpxP	omrB	CDS	sRNA	-13.22					1.9	1
+pnp	dinI.EST3UTR	CDS	3UTR	-6.9	1.9	U				
+dctA	cyaR	CDS	sRNA	-8.52			1.1	1	1.9	1
+yoaC	cyaR	CDS	sRNA	-7.66			1.9	2		
+gltA	fnrS	CDS	sRNA	-13.13	0.7	1	1.3	1	1.9	U
+fhuA	uhpT	CDS	CDS	-10.27					1.9	1
+pykA	micA	CDS	sRNA	-4.63			1.9	2	0.4	1
+nrfA	ykgH.EST3UTR	CDS	3UTR	-3.58	1.9	U				
+ybfA	cyaR	CDS	sRNA	-8.32			1.9	2		
+yfdG	cyaR	CDS	sRNA	-0.34	0.6	U			1.9	U
+ldrA	micA	CDS	sRNA	-10.29			1.9	2		
+kgtP.rrfG.IGR	arcZ	IGR	sRNA	-6.96			1.9	1		
+ybbB	gcvB	CDS	sRNA	-16.48					1.9	U
+yfjW	cyaR	CDS	sRNA	-6.79			1.9	U		
+hupB	arcZ	CDS	sRNA	-10.85			1.9	2	1.5	2
+gshA	arcZ	CDS	sRNA	-1.81			1.9	U		
+narX	cyaR	CDS	sRNA	-7.31	1.9	U			1.1	U
+arrS	ppiA	cis_AS_with_trans_t	CDS	-4.55			1.9	U		
+gltA	sdsR	CDS	sRNA	-4.78			1.9	U		
+rimP	cyaR	CDS	sRNA	-7.79			1.9	1	0.3	1
+dctA	mgrR	CDS	sRNA	-10.74	1.6	U	1.8	2	1.9	1
+fabZ	cpxP.3UTR	CDS	3UTR	-9.2			1.9	2		
+tnaA	uhpT.EST3UTR	CDS	3UTR	-3.7	0.4	5	1.9	U	0.9	3
+arcZ	cyaR	sRNA	sRNA	-8.77			1.9	3		
+osmE	cpxP.3UTR	CDS	3UTR	-6.65			1.9	2		
+obgE	cpxP.3UTR	CDS	3UTR	-8.94			1.9	U		
+fecA	omrB	CDS	sRNA	-6.47					1.9	2
+ribF	ryhB	CDS	sRNA	-11.68					1.9	U
+guaA.guaB.IGT	dsrA	IGT	sRNA	-5.57					1.9	U
+ubiJ	ryhB	CDS	sRNA	-7.03					1.9	2
+yniC	cpxP.3UTR	CDS	3UTR	-9.18			1.8	U		
+gpsA	hupB	CDS	CDS	-6.64	0.7	U			1.8	2
+narP	micA	CDS	sRNA	-3.72			1.8	U		
+fieF	cyaR	CDS	sRNA	-9.75	1.2	2	1.8	3	1.5	3
+cspD	cpxP.3UTR	CDS	3UTR	-11.52			1.8	3	1.5	U
+cyoB	cyaR	CDS	sRNA	-8.63	1.4	U	1.2	2	1.8	3
+yffR	gcvB	CDS	sRNA	-13.28					1.8	1
+folP	cpxP.3UTR	CDS	3UTR	-9.82			1.8	U		
+brnQ.proY.IGT	mgrR	IGT	sRNA	-5.89					1.8	1
+dfp	gcvB	CDS	sRNA	-8.93					1.8	1
+glmU	cyaR	CDS	sRNA	-10.63			1.8	1	1.2	U
+ybiB	mgrR	CDS	sRNA	-5.91			1.8	1		
+yifK	arcZ	CDS	sRNA	-2.54			1.8	U		
+fiu	arcZ	CDS	sRNA	-7.65					1.8	3
+nlpD	cyaR	CDS	sRNA	-12.89	1.6	U	1.8	2	1.2	2
+greA	micA	CDS	sRNA	-8.42			1.8	2	1.7	2
+yceF	sdsR	CDS	sRNA	-5.51			1.8	U		
+cra	ryhB	CDS	sRNA	-8.36					1.8	2
+nusG	omrB	CDS	sRNA	-6.55			1.8	U	0.5	U
+wbbH	ryhB	CDS	sRNA	-7.45					1.8	3
+yodD	arcZ	CDS	sRNA	-14.24			1.8	2		
+sdhE	gcvB	CDS	sRNA	-10.93	1.4	1	1.8	U	1.6	2
+queE.ygcE.IGR	rprA	IGR	sRNA	-3.44			1.8	U		
+fliY	cyaR	CDS	sRNA	-14.01			1.8	2	1.2	U
+ryeA	oxyS	other-ncRNA	sRNA	-3.42					1.8	U
+nagZ	cpxP.3UTR	CDS	3UTR	-14.8			1.8	1		
+dadA	rprA	CDS	sRNA	-10.91			1.8	2		
+yjiH	micA	CDS	sRNA	-2.46			1.8	1		
+fecC	fliC.fliA.IGR	CDS	IGR	-9.07					1.8	1
+flxA	fnrS	CDS	sRNA	-12.37	1.4	3			1.8	U
+ybhQ	uhpT.EST3UTR	CDS	3UTR	-7.08					1.8	U
+tnaB	uhpT	CDS	CDS	-8.08	1.8	U				
+nuoM	arcZ	CDS	sRNA	-11.23	0.3	U	1.8	3	1.4	2
+yedI	cpxP.3UTR	CDS	3UTR	-7.95			1.8	U		
+nlpI	ykgH.EST3UTR	CDS	3UTR	-5.74			1.8	U	0.6	1
+yciG	gcvB	CDS	sRNA	-10.29			1.8	U		
+hslR	arcZ	CDS	sRNA	-6.14			1.8	1	0.7	U
+maeA	mgrR	CDS	sRNA	-8.76			1.8	U	1.7	1
+tdcA	chiX	CDS	sRNA	-9.06					1.8	2
+ompC	ydfC.dicF.IGR	CDS	IGR	-7.49	1.7	1	1.8	3	1.3	3
+uhpT	yeiP	CDS	CDS	-13.21					1.8	U
+sdaC	spf	CDS	sRNA	-4.86	0.6	U			1.8	1
+malK.lamB.IGT	micA	IGT	sRNA	-11.35			1.8	U		
+hflX.hflK.IGT	fnrS	IGT	sRNA	-14.79			1.7	2	0.6	1
+trpE	gcvB	CDS	sRNA	-11.5			1.7	2		
+talA.maeB.IGR	cyaR	IGR	sRNA	-14.2			1.7	2	0.8	U
+lamB	malG.3UTR	CDS	3UTR	-10.83					1.7	1
+insA-7.yjhU.IGR	mgrR	IGR	sRNA	-5.67					1.7	U
+dcuA	cpxP.3UTR	CDS	3UTR	0.19	1.7	1				
+insH-1	gcvB	CDS	sRNA	-9.34					1.7	1
+nuoA	ryhB	CDS	sRNA	-9.24					1.7	3
+mglC	ryhB	CDS	sRNA	-3.86					1.7	1
+tdcA	dicF	CDS	sRNA	-7.67	1.7	U				
+fliF	ryhB	CDS	sRNA	-4.94					1.7	3
+pepB	cpxP.3UTR	CDS	3UTR	-3.57			1.7	U		
+ompF.asnS.IGR	gcvB	IGR	sRNA	-3.28	1.7	2				
+pcm	cpxP.3UTR	CDS	3UTR	-8.3			1.7	U		
+pka	ykgH.EST3UTR	CDS	3UTR	-3.84					1.7	U
+nfrA	cyaR	CDS	sRNA	-2.85					1.7	U
+ribF	mgrR	CDS	sRNA	-8.09			1.7	U		
+ydbJ	cpxP.3UTR	CDS	3UTR	-13.87			1.7	1		
+fre	glnA.3UTR	CDS	3UTR	-10.37	0.7	U			1.7	2
+lpxA	sucD.EST3UTR	CDS	3UTR	-15.5	0.6	2	1.1	2	1.7	3
+ynfE	arcZ	CDS	sRNA	-5.96			1.7	U		
+tsx	cyaR	CDS	sRNA	-15.3	0.4	6	1.7	1	0.7	3
+allE.EST3UTR	sucD.EST3UTR	3UTR	3UTR	-4.32			1.7	1		
+gltK	micA	CDS	sRNA	-3.22			1.7	U		
+pnuC	cyaR	CDS	sRNA	-8.01			1.7	U		
+acrZ	omrB	CDS	sRNA	-6.93			1.7	U	1.1	2
+uspA	arcZ	CDS	sRNA	-7.55	0.4	1	1.7	2	1.2	3
+dctA	motA	CDS	CDS	-10.25	1.7	U				
+yjcH.acs.IGT	omrB	IGT	sRNA	-5.87			1.7	U		
+gutQ	mgrR	CDS	sRNA	-3.78					1.7	U
+arrS	gcvH	cis_AS_with_trans_t	CDS	-6.48			1.7	2		
+folX	ryhB	CDS	sRNA	-6.49					1.7	1
+ldcA	chiX	CDS	sRNA	-4.55					1.7	1
+mqsR	fliC.fliA.IGR	CDS	IGR	-9.14					1.7	U
+fhuD	fliC.fliA.IGR	CDS	IGR	0.85					1.7	U
+cysB	mgrR	CDS	sRNA	-2.37			1.7	1		
+maeA	arcZ	CDS	sRNA	-6.69			1.7	U		
+slyB	spf	CDS	sRNA	-6.98	0.7	U			1.7	1
+argT	gcvB	CDS	sRNA	-22.34			1.7	2	1.6	1
+glpT	sdsR	CDS	sRNA	-4.75			1.6	1		
+glgS	rprA	CDS	sRNA	-8.48			1.6	U		
+yqjA	cyaR	CDS	sRNA	-8.54	1.0	1	0.8	2	1.6	1
+entF	arcZ	CDS	sRNA	-6.5					1.6	2
+yihX	ryhB	CDS	sRNA	-18.24					1.6	U
+lysC	uhpT.EST3UTR	CDS	3UTR	-7.43					1.6	1
+fliC	uhpT.EST3UTR	CDS	3UTR	-5.02	1.6	6			1.6	3
+napA	sgrS	CDS	sRNA	-12.51	1.6	U				
+ybaM.mscK.IGR	arcZ	IGR	sRNA	-4.68			1.6	1		
+fliF	uhpT	CDS	CDS	-6.43	0.7	U			1.6	1
+yeaQ	cyaR	CDS	sRNA	-13.28			1.6	3		
+fhuA	malG.3UTR	CDS	3UTR	-13.86					1.6	1
+gatD	micL	CDS	sRNA	-7.55			1.6	U		
+aldA	mgrR	CDS	sRNA	-10.15			1.6	2	1.3	U
+chaA	fnrS	CDS	sRNA	-8.77	1.6	U				
+fecA	arcZ	CDS	sRNA	-5.38					1.6	3
+insN-1	gcvB	CDS	sRNA	-4.23					1.6	1
+gadC	arcZ	CDS	sRNA	-7.76			1.6	3		
+menF	cyaR	CDS	sRNA	-8.45	1.3	U			1.6	1
+yrbG	cyaR	CDS	sRNA	-12.25	1.6	1			1.5	U
+lgoR	arcZ	CDS	sRNA	-8.84					1.6	1
+ynaJ	fliC.fliA.IGR	CDS	IGR	-10.35	0.7	U	1.6	U	0.3	1
+rpoE	rprA	CDS	sRNA	-12.5			1.6	U		
+nadR	cpxP.3UTR	CDS	3UTR	-10.23			1.6	1		
+yfgM	dsrA	CDS	sRNA	-10.76					1.6	U
+ybdZ	malG.3UTR	CDS	3UTR	-7.44					1.6	1
+motA	rbsD	CDS	CDS	-12.95	1.6	1			1.6	2
+ydiZ	sdsR	CDS	sRNA	-5.59			1.6	U		
+putA.EST3UTR	omrA	3UTR	sRNA	-10.22			1.6	U	0.9	U
+mnmA	sucD.EST3UTR	CDS	3UTR	-3.54					1.6	U
+adhE	omrA	CDS	sRNA	-9.21					1.6	1
+trpD	gcvB	CDS	sRNA	-12.66	1.6	U				
+gcvH	micL	CDS	sRNA	-8.37			1.6	U		
+cspD	sdsR	CDS	sRNA	-7.18			1.6	3		
+secB	sucD.EST3UTR	CDS	3UTR	-7.62			1.6	1	0.8	1
+ompA	yggN	CDS	CDS	-7.64	0.4	U	1.6	1	0.5	1
+ompR	fliC.fliA.IGR	CDS	IGR	-5.04	1.4	2			1.6	1
+metI	gcvB	CDS	sRNA	-11.54					1.6	1
+trmJ	ytfK	CDS	CDS	-7.96	1.6	U	0.9	2	1.5	1
+betI	ryhB	CDS	sRNA	-10.71					1.6	1
+rimP.metY.IGT	cyaR	IGT	sRNA	-7.25	0.9	6			1.6	2
+yhcN	spf	CDS	sRNA	-10.83					1.6	1
+sodB	fnrS	CDS	sRNA	-7.1	0.8	6	1.6	2		
+nuoC.nuoB.IGT	uhpT.EST3UTR	IGT	3UTR	-3.87					1.6	U
+polA	arcZ	CDS	sRNA	-5.07	1.3	U	1.6	1		
+yieP	ryhB	CDS	sRNA	-9.66					1.6	1
+fruA	cyaR	CDS	sRNA	-9.02	1.3	U			1.6	U
+ydiH	omrA	CDS	sRNA	-7.7			1.6	1		
+secB	arcZ	CDS	sRNA	-7.08			1.6	2	0.8	2
+ansB	oxyS	CDS	sRNA	-8.51	1.6	5				
+dtpB	gcvB	CDS	sRNA	-6.66	1.6	2				
+garP	spf	CDS	sRNA	-2.42					1.6	U
+yfcA	mcaS	CDS	sRNA	-3.76			1.6	U		
+fiu	nuoH	CDS	CDS	-13.04					1.6	U
+yeaC	arcZ	CDS	sRNA	-7.96			1.6	3		
+yajO.dxs.IGT	narK.EST3UTR	IGT	3UTR	-6.64					1.6	U
+yciE.yciF.IGT	chiX	IGT	sRNA	-9.57			1.6	2		
+rapZ	uhpT.EST3UTR	CDS	3UTR	-4.25	1.6	U				
+iscR	sdsR	CDS	sRNA	-5.74			1.6	U		
+gpp	narK	CDS	CDS	-19.77	0.3	U			1.5	1
+mscS	mgrR	CDS	sRNA	-13.27			1.5	U		
+bolA	chiX	CDS	sRNA	-2.84					1.5	1
+arrS	atpE	cis_AS_with_trans_t	CDS	-9.16			1.5	1		
+rplN	narP.ccmH.IGR	CDS	IGR	-11.62			1.5	1		
+exbB	micL	CDS	sRNA	-5.14					1.5	2
+nuoG.nuoF.IGT	ryhB	IGT	sRNA	-9.34					1.5	1
+nagE	mcaS	CDS	sRNA	-5.97	0.4	U			1.5	2
+maeB	gcvB	CDS	sRNA	-17.17	0.2	U	1.5	1	0.6	2
+kefB	arcZ	CDS	sRNA	-13.23			1.5	1	1.1	1
+garP	ryhB	CDS	sRNA	-6.43					1.5	1
+hsdR	uhpT	CDS	CDS	-4.17					1.5	U
+oppA	sdsR	CDS	sRNA	-9.02			1.5	1		
+yebO	uhpT.EST3UTR	CDS	3UTR	-2.3					1.5	1
+gatB	cpxP.3UTR	CDS	3UTR	-8.87	0.7	2	1.4	3	1.5	3
+yqaB	sdsR	CDS	sRNA	-14.69			1.5	U		
+yajL	cpxP.3UTR	CDS	3UTR	-11.85			1.5	U		
+nanT.nanA.IGT	spf	IGT	sRNA	-8.1	0.4	6			1.5	3
+mpl	ryhB	CDS	sRNA	-6.24					1.5	1
+proP	cpxP.3UTR	CDS	3UTR	-12.39			1.5	3		
+glpT	mgrR	CDS	sRNA	-6.9			1.5	2		
+aroC	gcvB	CDS	sRNA	-9.23	1.5	U				
+hupB	fnrS	CDS	sRNA	-10.39					1.5	U
+glpT	ryhB	CDS	sRNA	-8.88					1.5	2
+soxS	narP.ccmH.IGR	CDS	IGR	-4.73			1.5	U		
+rbsD	omrB	CDS	sRNA	-9.18	1.4	U	1.5	1	1.3	3
+ispG	micA	CDS	sRNA	-5.14					1.5	1
+rpoS	micA	CDS	sRNA	-8.02			1.5	2		
+ybgC	uhpT.EST3UTR	CDS	3UTR	-5.4					1.5	U
+fadD	cyaR	CDS	sRNA	-5.9			1.5	1		
+ecnB	omrA	CDS	sRNA	-8.99			1.5	1		
+malE	arcZ	CDS	sRNA	-6.64			1.5	2	0.8	2
+wbbK	mgrR	CDS	sRNA	-13.76					1.5	1
+pspA.pspB.IGT	fnrS	IGT	sRNA	-5.7					1.5	1
+G0-10697.ychE.IGR	micA	IGR	sRNA	-11.42					1.5	U
+nanC	ryhB	CDS	sRNA	-7.49					1.5	1
+insI-1	ryhB	CDS	sRNA	-7.9					1.5	1
+acpH	cyaR	CDS	sRNA	-5.99			1.5	U		
+aceA	fnrS	CDS	sRNA	-4.65			1.5	2		
+nrfA	omrB	CDS	sRNA	-16.61	1.5	U				
+rbsD	uhpT.EST3UTR	CDS	3UTR	-6.09					1.5	1
+nanT	cyaR	CDS	sRNA	-11.99	0.5	4			1.5	3
+ratA	arcZ	CDS	sRNA	-2.54			1.5	U		
+nudB	dicF	CDS	sRNA	-7.11					1.5	U
+nanE.nanT.IGT	arcZ	IGT	sRNA	-7.13					1.5	1
+iscS.iscR.IGT	ryhB	IGT	sRNA	-8.17					1.5	2
+typA	ryhB	CDS	sRNA	-8.08					1.5	2
+pgpC	cyaR	CDS	sRNA	-4.55			1.5	1		
+hflK	fnrS	CDS	sRNA	-11.68			1.5	1		
+ycjG	arcZ	CDS	sRNA	-6.3			1.5	U		
+leuS	rprA	CDS	sRNA	-6.35			1.5	U		
+raiA	fadA.fre.IGR	CDS	IGR	-9.74			1.5	U		
+dnaA	arcZ	CDS	sRNA	-6.02			1.5	U		
+ytfB	mgrR	CDS	sRNA	-5.21	1.4	U			1.0	U
+kgtP	gcvB	CDS	sRNA	-7.16	0.8	U			1.4	3
+oppB	G0-10697.oppA.IGR	CDS	IGR	-11.44			1.4	1		
+rpsP	cpxP.3UTR	CDS	3UTR	-7.37			1.4	1		
+mepS	arcZ	CDS	sRNA	-5.96			1.4	U	0.9	1
+zupT	omrB	CDS	sRNA	-5.67					1.4	U
+ydcH	cyaR	CDS	sRNA	-10.99	0.6	U	1.2	3	1.4	2
+dadA	cyaR	CDS	sRNA	-5.93			1.4	2	1.3	U
+hpf.ptsN.IGT	omrB	IGT	sRNA	-2.43					1.4	1
+rpmI.infC.IGT	uhpT.EST3UTR	IGT	3UTR	-6.4	0.7	3	1.4	U	1.3	2
+dtpB	cyaR	CDS	sRNA	-15.11	0.5	1	1.4	2	0.5	1
+ftsB	micA	CDS	sRNA	-5.08			1.3	U	1.4	U
+clpP	cyaR	CDS	sRNA	-15	0.6	1	1.4	1	0.7	1
+pka	micA	CDS	sRNA	-4.82			1.4	U		
+yqcA	arcZ	CDS	sRNA	-10.25			1.4	U	0.7	1
+yjdC	cpxP.3UTR	CDS	3UTR	-11.53			1.4	U		
+flgA	ryhB	CDS	sRNA	-9.24					1.4	3
+yciI.EST3UTR	mcaS	3UTR	sRNA	-5.65					1.4	U
+tnaA	ykgH.EST3UTR	CDS	3UTR	-3.57			1.4	U	0.1	1
+dcyD	gcvB	CDS	sRNA	-12.2	0.9	3	1.4	1	1.2	3
+glf	fnrS	CDS	sRNA	-6.06	1.4	1				
+mglA	arcZ	CDS	sRNA	-3.02			1.4	1	0.8	1
+gadE.mdtE.IGT (gadF)	wrbA	IGT	CDS	-14.67			1.4	U		
+sroC	gcvB	other-ncRNA	sRNA	-11.98			1.4	3		
+ymdA	ryhB	CDS	sRNA	-9.73					1.4	3
+alaE	cyaR	CDS	sRNA	-8.26			1.4	2		
+cirA	cirA.EST3UTR	CDS	3UTR	-9.02					1.4	1
+arrS	uspE	cis_AS_with_trans_t	CDS	-4.11			1.4	2		
+hflX.hflK.IGT	omrB	IGT	sRNA	-8.74					1.4	1
+yobH	mgrR	CDS	sRNA	-10.17					1.4	U
+fliA	ryhB	CDS	sRNA	-9.13					1.4	3
+ychN	arcZ	CDS	sRNA	-7.89			1.4	1		
+thrB	ryhB	CDS	sRNA	-9.76					1.4	1
+dtpB	ryhB	CDS	sRNA	-8.14					1.4	U
+dmsA	fnrS	CDS	sRNA	-4.81	1.4	3				
+fur	rprA	CDS	sRNA	-8.74			1.4	U		
+flxA	ryhB	CDS	sRNA	-5.75					1.4	U
+ygeR	omrB	CDS	sRNA	-7.39					1.4	U
+yjgZ.insG.IGR	sdsR	IGR	sRNA	-10.78			1.4	U		
+ycbL.aspC.IGR	uhpT.EST3UTR	IGR	3UTR	-1.05					1.4	1
+fabH	omrB	CDS	sRNA	-11.01					1.4	U
+sdhC	micA	CDS	sRNA	-12.35			1.3	3		
+udp	uhpT	CDS	CDS	-10.62	1.3	U				
+ybjD	cyaR	CDS	sRNA	-6.1					1.3	1
+mltC	gcvB	CDS	sRNA	-6.5					1.3	U
+pspA	fnrS	CDS	sRNA	-10.32					1.3	U
+fumC	cpxP.3UTR	CDS	3UTR	-15.93			1.3	1		
+asnA	gcvB	CDS	sRNA	-9.63			1.3	U	1.1	1
+proQ	chiX	CDS	sRNA	-6.55			1.3	3	1.1	3
+rng	cpxP.3UTR	CDS	3UTR	-7.22			1.3	2		
+modA	fliC.fliA.IGR	CDS	IGR	-4.5	1.3	2				
+crp	cpxP.3UTR	CDS	3UTR	-11.72			1.3	3		
+lysS	omrA	CDS	sRNA	-9.98			1.3	U		
+gpmA	fnrS	CDS	sRNA	-9.67	1.3	5			1.3	2
+dcuA	fnrS	CDS	sRNA	-11.61			1.3	1		
+slyB	cyaR	CDS	sRNA	-14.02	0.9	6	1.3	3	0.6	3
+rlmE	rprA	CDS	sRNA	-8.18			1.3	1		
+sra.bdm.IGT	sdsR	IGT	sRNA	-4.36			1.3	2		
+yaiZ	cyaR	CDS	sRNA	-11.11			1.3	1	1.1	U
+bluR	arcZ	CDS	sRNA	-5.81					1.3	U
+gpp	narK.narG.IGR	CDS	IGR	-15.41					1.3	1
+smrB	arcZ	CDS	sRNA	-6.17			1.3	1		
+rsuA	mcaS	CDS	sRNA	-8.4	1.1	U	1.3	3	1.0	3
+rsmB	sucD.EST3UTR	CDS	3UTR	-4.99			1.3	U		
+glgB	cyaR	CDS	sRNA	-10.45	0.9	U	1.3	2		
+gatC	oxyS	CDS	sRNA	-4.88	1.1	U			1.3	U
+yadE	ryhB	CDS	sRNA	-11.19					1.3	U
+malE	sgrS	CDS	sRNA	-11.7					1.3	U
+ebgR	gcvB	CDS	sRNA	-12.73	1.3	U			1.2	1
+ygdH	mgrR	CDS	sRNA	-11.97	1.3	1			1.0	1
+yniA	cyaR	CDS	sRNA	-10.59			1.3	1		
+sodA	ryhB	CDS	sRNA	-8.44					1.3	3
+gyrA	arcZ	CDS	sRNA	-5.82			1.3	2		
+rplL.rpoB.IGT	dsrA	IGT	sRNA	-4.79					1.3	2
+yccJ	micF	CDS	sRNA	-11.69			1.3	3		
+lsrC	cyaR	CDS	sRNA	-12.73			1.3	U		
+yggX	spf	CDS	sRNA	-8.71	1.1	1			1.3	1
+motA	tsx	CDS	CDS	-8.44	1.3	U				
+ptsP	ryhB	CDS	sRNA	-6.18					1.3	1
+nuoL	cyaR	CDS	sRNA	-11.96	0.4	U	0.5	1	1.3	2
+moaA	micA	CDS	sRNA	-8.7	1.3	2	0.4	1	0.5	2
+clpS	cyaR	CDS	sRNA	-9.56	0.4	5	1.3	3	0.8	3
+queE	arcZ	CDS	sRNA	-7.14			1.2	1		
+yifE	omrA	CDS	sRNA	-3.64					1.2	U
+fumA	cpxP.3UTR	CDS	3UTR	-9.71			1.2	1		
+lpp	allE.EST3UTR	CDS	3UTR	-11.68	0.5	U	1.2	2	1.0	3
+gntP	cyaR	CDS	sRNA	-8.85	0.9	U			1.2	U
+maeB	arcZ	CDS	sRNA	-4.2			1.2	2		
+tag	cyaR	CDS	sRNA	-6.5					1.2	U
+yajC	cyaR	CDS	sRNA	-6.53			1.2	2		
+ftsK	cyaR	CDS	sRNA	-9.73	0.9	3	1.2	2	1.2	2
+rfe	arcZ	CDS	sRNA	-2.19	1.2	U				
+mepS	rpsJ	CDS	CDS	-10.42	1.2	U			0.4	U
+ftnA	uhpT.EST3UTR	CDS	3UTR	-5.27	1.2	U				
+cbpM	cyaR	CDS	sRNA	-7.54			1.2	2		
+ompW	pheT	CDS	CDS	-10.34			1.2	U		
+lpd	spf	CDS	sRNA	-7.81	0.5	1	0.2	U	1.2	1
+gshB	ryhB	CDS	sRNA	-8.18					1.2	2
+yqiB	cyaR	CDS	sRNA	-5.64			1.2	1		
+arrS	gadB	cis_AS_with_trans_t	CDS	-8.74			1.2	2		
+hybO	arcZ	CDS	sRNA	-3.52			1.2	1		
+fliA	uhpT.EST3UTR	CDS	3UTR	-9.72	0.4	U			1.2	3
+yqaE	cyaR	CDS	sRNA	-11.06			1.2	1		
+fliC	yqiB	CDS	CDS	-4.75					1.2	U
+aceK	yqeG	CDS	CDS	-8.16			1.2	1		
+rffM	gcvB	CDS	sRNA	-6.7					1.2	U
+rssA	cyaR	CDS	sRNA	-5.51			1.2	U		
+yjiA.yjiX.IGT	spf	IGT	sRNA	-3.79	1.2	U				
+insL-1	chiX	CDS	sRNA	-2.5					1.2	1
+yodB.serU.IGR	gcvB	IGR	sRNA	-5.36					1.2	1
+nagE	spf	CDS	sRNA	-6.46	1.2	1			0.5	3
+lepA	sdsR	CDS	sRNA	-7.31			1.2	U		
+ubiD	uhpT.EST3UTR	CDS	3UTR	-0.31					1.2	1
+maeB	spf	CDS	sRNA	-9.29	0.5	U			1.2	1
+mtgA	arcZ	CDS	sRNA	-2.93	1.2	U				
+panD	gcvB	CDS	sRNA	-14.87	0.4	U	0.6	U	1.2	1
+ftsE	cyaR	CDS	sRNA	-6.49			1.2	1		
+waaF	cyaR	CDS	sRNA	-10.16	0.2	U	1.2	U	0.4	U
+gdhA	sucD.EST3UTR	CDS	3UTR	-7.87			1.2	1		
+sufB	ryhB	CDS	sRNA	-13.43					1.2	2
+yqfA	cpxP.3UTR	CDS	3UTR	-12.48			1.2	2		
+ahpC	dicF	CDS	sRNA	-14.07	1.1	U	1.2	U	0.7	2
+glpK	uhpT	CDS	CDS	-10.04	0.2	4	1.2	2	0.4	3
+lepB	cpxP.3UTR	CDS	3UTR	-3.57			1.2	U		
+lrp	micF	CDS	sRNA	-15.12			1.2	2		
+rpsJ	sucD.EST3UTR	CDS	3UTR	-8.57			0.6	1	1.2	2
+sohB	cyaR	CDS	sRNA	-6.98			1.2	U		
+ycbJ	arcZ	CDS	sRNA	-11	0.3	U	1.2	1	1.1	1
+rodZ	glnA.3UTR	CDS	3UTR	-5.72					1.2	U
+aceB.aceA.IGT	fnrS	IGT	sRNA	-7.97	1.2	U				
+yciA	gcvB	CDS	sRNA	-2.08					1.2	1
+valS	arcZ	CDS	sRNA	-12.15	0.5	U	1.2	U	1.0	1
+clpS	arcZ	CDS	sRNA	-8.33	0.3	U	1.2	3	0.5	1
+arrS	glpQ	cis_AS_with_trans_t	CDS	-9.28			1.2	3		
+yjeI	cpxP.3UTR	CDS	3UTR	-9.75			1.2	2	0.9	1
+dnaB	arcZ	CDS	sRNA	-3.47					1.2	U
+malK	cyaR	CDS	sRNA	-11.77	0.7	6			1.2	2
+fliC	nlpE.EST3UTR	CDS	3UTR	-7.61	1.1	1			1.2	3
+bluR	ryhB	CDS	sRNA	-12.19					1.2	U
+mtr	cyaR	CDS	sRNA	-8.51			1.2	2		
+arrS	hemX	cis_AS_with_trans_t	CDS	-6.31			1.2	U		
+hrpA	arcZ	CDS	sRNA	-4.86			1.2	2		
+gshB	glnA.3UTR	CDS	3UTR	-9.62					1.1	U
+insH-1	mgrR	CDS	sRNA	-10.53			1.1	U		
+murG	cyaR	CDS	sRNA	-10.32	0.5	U	0.6	1	1.1	U
+asmA	cpxP.3UTR	CDS	3UTR	-11.21			1.1	U		
+otsB	arcZ	CDS	sRNA	-9.75			1.1	2		
+dtd	cyaR	CDS	sRNA	-10.04			1.1	2	1.0	1
+rseA	ryhB	CDS	sRNA	-5.72					1.1	2
+hupB	chiX	CDS	sRNA	-8.26					1.1	1
+fabD	chiX	CDS	sRNA	-3.98					1.1	3
+uspA	omrB	CDS	sRNA	-6.39					1.1	1
+tdcB.tdcA.IGT	spf	IGT	sRNA	-7.58	1.1	6			0.7	2
+exuT	cyaR	CDS	sRNA	-6	1.1	U				
+gcvH.gcvT.IGT	micL	IGT	sRNA	-8.45	1.1	1				
+fdx	ryhB	CDS	sRNA	-7.73					1.1	1
+yhiJ.yhiI.IGR	cpxP.3UTR	IGR	3UTR	-13.04			1.1	3		
+priB	arcZ	CDS	sRNA	-5.35			1.1	2		
+greB	spf	CDS	sRNA	-7.72					1.1	1
+mreC	chiX	CDS	sRNA	-12.48					1.1	2
+yhcB	sdsR	CDS	sRNA	-8.32			1.1	2		
+uvrB	arcZ	CDS	sRNA	-4.75			1.1	U		
+glpF	spf	CDS	sRNA	-12.71	0.9	3	1.1	2	0.8	3
+flhA	tap	CDS	CDS	-17.99					1.1	U
+amyA	cyaR	CDS	sRNA	-7.87	0.6	1	1.1	U	1.0	2
+acnB	ryhB	CDS	sRNA	-9.91					1.1	2
+exbB	cyaR	CDS	sRNA	-13.01	0.7	U			1.1	2
+modA	cyaR	CDS	sRNA	-12.82	0.6	2			1.1	1
+gadY	hdeA	cis_AS_with_trans_t	CDS	-9.43			1.1	1		
+tmk	ryhB	CDS	sRNA	-8.13					1.1	U
+mraY	cyaR	CDS	sRNA	-6.47	0.5	U			1.1	1
+putA	cpxP.3UTR	CDS	3UTR	-2.75			1.1	1		
+yeeZ	cpxP.3UTR	CDS	3UTR	-9.82			1.1	1		
+glpT	cyaR	CDS	sRNA	-9.19	0.3	U	1.1	2	0.6	3
+arrS	bax	cis_AS_with_trans_t	CDS	-4.45			1.1	1		
+tolB	cyaR	CDS	sRNA	-17.34	1.1	U	0.6	U	1.1	2
+murA	mgrR	CDS	sRNA	-5.21					1.1	1
+gadE.mdtE.IGT (gadF)	lpp	IGT	CDS	-4.13			1.1	3		
+yeeX	glnA.3UTR	CDS	3UTR	-3.63					1.1	2
+glpA	ompW	CDS	CDS	-8.08			1.1	U		
+insH-2.ybcQ.IGR	spf	IGR	sRNA	-10.16	0.7	2			1.1	1
+adhE	cyaR	CDS	sRNA	-13.66	0.1	U	1.1	2	0.2	1
+rraB	ryhB	CDS	sRNA	-13.83					1.1	2
+cysB	gcvB	CDS	sRNA	-11.2	0.7	U			1.1	2
+cysJ	mgrR	CDS	sRNA	-10.19			1.1	U		
+ftsX	cyaR	CDS	sRNA	-9.84	1.0	1	0.9	1	1.1	2
+hypB	ryhB	CDS	sRNA	-12.44					1.1	1
+nirC	cyaR	CDS	sRNA	-13.08					1.1	U
+ompC	glpX.3UTR	CDS	3UTR	-6.63			1.1	U		
+soxS	yqiB	CDS	CDS	-10.2					1.1	U
+acpP	ybiJ.ybiC.IGR	CDS	IGR	-8.35					1.1	1
+nmpC	insH-2.ybcQ.IGR	CDS	IGR	-13.8	0.2	U			1.1	U
+selD	arcZ	CDS	sRNA	-3.42			1.1	U		
+mlaA	cyaR	CDS	sRNA	-12.56			1.1	2	1.0	2
+cysE	ryhB	CDS	sRNA	-13.18					1.1	2
+gadE.mdtE.IGT (gadF)	gapA	IGT	CDS	-1.57			1.0	U		
+lspA.fkpB.IGT	spf	IGT	sRNA	-9.76	1.0	U			0.6	1
+yfdI	fnrS	CDS	sRNA	-3.05					1.0	U
+thrC	arcZ	CDS	sRNA	-8.48			1.0	U		
+rhlB	gcvB	CDS	sRNA	-5.46	0.4	U			1.0	2
+yhaJ	ryhB	CDS	sRNA	-12.8					1.0	U
+cysE	gpsA	CDS	CDS	-8.08					1.0	U
+yeeZ	mgrR	CDS	sRNA	-13.56			1.0	U		
+ybeD	arcZ	CDS	sRNA	-3.62			1.0	1		
+cydB	cyaR	CDS	sRNA	-13.55	0.6	6	0.6	3	1.0	2
+bamD	gcvB	CDS	sRNA	-6.57	1.0	1			1.0	U
+tdcA	omrB	CDS	sRNA	-4.79					1.0	2
+zapB	ryhB	CDS	sRNA	-5.55					1.0	3
+polA	cyaR	CDS	sRNA	-10.4			1.0	1		
+ansB	cyaR	CDS	sRNA	-13.76	0.4	5	1.0	3	0.6	U
+cirA	ryjB.sgcQ.IGR	CDS	IGR	-14.48					1.0	3
+glgB	yqiB	CDS	CDS	-7.56					1.0	U
+lpd	rprA	CDS	sRNA	-6.19			1.0	U		
+acnB	uhpT.EST3UTR	CDS	3UTR	-4.13					1.0	1
+def	uhpT	CDS	CDS	-4.47					1.0	U
+trxA	ryhB	CDS	sRNA	-5.01					1.0	3
+yfdH	ryhB	CDS	sRNA	-4.44					1.0	3
+znuA	micA	CDS	sRNA	-6.05			1.0	U		
+panB	gcvB	CDS	sRNA	-7.62	1.0	U			0.7	U
+wrbA	micL	CDS	sRNA	-9.32			1.0	U		
+fhuA	micA	CDS	sRNA	-10.1					1.0	1
+cysQ	cyaR	CDS	sRNA	-5.29			0.5	U	1.0	U
+rpoN	arcZ	CDS	sRNA	-11.9			1.0	2	0.4	U
+phoP	gcvB	CDS	sRNA	-9.98					1.0	1
+kefB	sucD.EST3UTR	CDS	3UTR	-5.47					1.0	1
+fumA	arcZ	CDS	sRNA	-8.59			1.0	1		
+exbB	uhpT.EST3UTR	CDS	3UTR	-5.5					1.0	U
+sucB.3UTR	fnrS	3UTR	sRNA	-9.91			1.0	2		
+hupB	lon	CDS	CDS	-13.41					1.0	U
+eptB	cyaR	CDS	sRNA	-7.59			1.0	1		
+zapB	cyaR	CDS	sRNA	-9.33	0.3	1	0.6	1	1.0	2
+fliD	uhpT.EST3UTR	CDS	3UTR	-6.47					1.0	1
+tolC	arcZ	CDS	sRNA	-7.39			1.0	U	0.9	U
+fabI	gcvB	CDS	sRNA	-7.01					1.0	1
+ucpA	cyaR	CDS	sRNA	-8.74			1.0	1		
+hslV	sucD.EST3UTR	CDS	3UTR	-10.57			1.0	U		
+cspE	mglB	CDS	CDS	-9.35			1.0	U		
+puuR	arcZ	CDS	sRNA	-7.72			1.0	U		
+nuoE	arcZ	CDS	sRNA	-6.57			1.0	2	0.4	1
+bamA	cpxP.3UTR	CDS	3UTR	-8.83			1.0	1		
+panD	cpxP.3UTR	CDS	3UTR	-9.73			1.0	U		
+tktB	arcZ	CDS	sRNA	-3.89			1.0	2		
+ycbZ	omrB	CDS	sRNA	-3.67					1.0	U
+yggN	cpxP.3UTR	CDS	3UTR	-11.42			1.0	1		
+cydA	ryhB	CDS	sRNA	-6.68					1.0	3
+fliK	gcvB	CDS	sRNA	-18.67					1.0	1
+gatA	hupB	CDS	CDS	-10.79	0.2	U	1.0	2		
+narK	cyaR	CDS	sRNA	-11.57					1.0	1
+yjdC	arcZ	CDS	sRNA	-11.8			1.0	U		
+bamB	cpxP.3UTR	CDS	3UTR	-11.31			1.0	1		
+focA	cpxP.3UTR	CDS	3UTR	-12.9			1.0	1		
+gcvH	motA	CDS	CDS	-4.22	1.0	U				
+diaA	arcZ	CDS	sRNA	-4.67			1.0	U	0.6	U
+pheV	chiX	tRNA	sRNA	-4.76			1.0	2		
+acs	arcZ	CDS	sRNA	-2.08			1.0	1		
+ilvL.ilvX.IGT	yjcZ	IGT	CDS	-9.41	1.0	U				
+ybaO	ryhB	CDS	sRNA	-8.53					1.0	U
+gadB	micA	CDS	sRNA	-5.4			1.0	2		
+tdcB.tdcA.IGT	uhpT.EST3UTR	IGT	3UTR	-6.74	1.0	2			0.8	1
+pyrG	uhpT.EST3UTR	CDS	3UTR	-6.47					1.0	U
+tsr	micA	CDS	sRNA	-6.9					0.9	1
+pepP	arcZ	CDS	sRNA	-6.95			0.9	U		
+rcsD	micA	CDS	sRNA	-11.87			0.9	2		
+fhuB	mgrR	CDS	sRNA	-6.63					0.9	1
+dut	mcaS	CDS	sRNA	-5.94					0.9	U
+acs	gcvB	CDS	sRNA	-12.66			0.9	U		
+glmS	glmZ.hemY.IGR	CDS	IGR	-7.14	0.6	1	0.9	U		
+tsx	uhpT.EST3UTR	CDS	3UTR	-9.34	0.3	U			0.9	2
+gpmA	arcZ	CDS	sRNA	-8.16			0.9	2	0.1	1
+narG	ryhB	CDS	sRNA	-12.86					0.9	2
+rlmD	micA	CDS	sRNA	-3.81			0.9	U		
+ompA	rybB	CDS	sRNA	-9.07			0.9	1		
+fsaA.EST3UTR	cyaR	3UTR	sRNA	-6.71	0.9	U				
+clpB	micA	CDS	sRNA	-5.48			0.9	1		
+dps	omrB	CDS	sRNA	-6.01			0.9	2		
+lpxC	arcZ	CDS	sRNA	-14.22			0.9	3	0.1	2
+rpsG.rpsL.IGT	uhpT	IGT	CDS	-6.19					0.9	1
+lrp	spf	CDS	sRNA	-10.4	0.4	U			0.9	1
+lpp	micL	CDS	sRNA	-7.04	0.4	6	0.9	3	0.4	3
+ivbL	gcvB	CDS	sRNA	-13.99			0.7	2	0.9	2
+srlA	uhpT.EST3UTR	CDS	3UTR	-6.8	0.9	U				
+bamA	sdsR	CDS	sRNA	-6.2			0.9	U		
+spoT	ryhB	CDS	sRNA	-8.15					0.9	1
+hfq	omrB	CDS	sRNA	-4.13					0.9	1
+ygeV	ryhB	CDS	sRNA	-7.49					0.9	2
+osmY	rprA	CDS	sRNA	-8.39			0.9	1		
+purH	spf	CDS	sRNA	-9.45	0.9	U				
+ychH	mcaS	CDS	sRNA	-10.91	0.9	1	0.6	1	0.7	1
+ybiO	cyaR	CDS	sRNA	-7.89			0.9	2		
+ilvB.ivbL.IGT	gcvB	IGT	sRNA	-10.63	0.7	U	0.9	1		
+raiA	ycaC	CDS	CDS	-12.83			0.9	1		
+dnaK	arcZ	CDS	sRNA	-4.04			0.9	2	0.4	1
+ftsW	cyaR	CDS	sRNA	-7.47	0.5	U	0.9	1	0.5	U
+nuoL	omrB	CDS	sRNA	-8.99					0.9	U
+ftsK	ryhB	CDS	sRNA	-8.27					0.9	2
+ygaC	uhpT.EST3UTR	CDS	3UTR	-9.13					0.9	U
+aceB	uhpT.EST3UTR	CDS	3UTR	-2.28			0.9	U		
+gcvT	fnrS	CDS	sRNA	-6.69	0.9	1			0.8	U
+rne	fliC.fliA.IGR	CDS	IGR	-7.44	0.9	2			0.7	2
+fabI	cpxP.3UTR	CDS	3UTR	-3.44			0.9	U		
+djlA	arcZ	CDS	sRNA	-3.91			0.9	1		
+lrhA	mcaS	CDS	sRNA	-10.45	0.9	U			0.8	1
+fliC	malG.3UTR	CDS	3UTR	-8.7					0.9	1
+alr	gcvB	CDS	sRNA	-8.3					0.9	1
+minC	chiX	CDS	sRNA	-8.52					0.9	2
+mdh	spf	CDS	sRNA	-8.37	0.3	U	0.4	1	0.9	1
+alaS	cpxP.3UTR	CDS	3UTR	-3.4	0.6	U	0.9	1		
+ompC	arcZ	CDS	sRNA	-10.07	0.2	1	0.8	3	0.5	3
+ribB	hokE.ybdK.IGR	CDS	IGR	-5	0.8	U				
+mglB	malG.3UTR	CDS	3UTR	-10.21					0.8	1
+malK	fnrS	CDS	sRNA	-8.13					0.8	1
+ychN	cyaR	CDS	sRNA	-6.88			0.8	1		
+gapA	cyaR	CDS	sRNA	-10.84	0.1	5	0.8	3	0.3	3
+mazF	ryhB	CDS	sRNA	-8.84					0.8	U
+yfgD	arcZ	CDS	sRNA	-8.98			0.8	1		
+bamA	micA	CDS	sRNA	-6.04			0.8	1		
+gcvH	arcZ	CDS	sRNA	-8.59	0.5	U	0.8	2		
+lpcA	spf	CDS	sRNA	-4.52					0.8	U
+entF	uhpT.EST3UTR	CDS	3UTR	-4.49					0.8	U
+pdxK	ryhB	CDS	sRNA	-13.51					0.8	U
+hupB	zapE.yhcB.IGR	CDS	IGR	-6.11					0.8	U
+fre	arcZ	CDS	sRNA	-6.07	0.5	U			0.8	1
+yshB	ryhB	CDS	sRNA	-6.5					0.8	1
+infB	ryhB	CDS	sRNA	-6.89					0.8	1
+osmY	cpxP.3UTR	CDS	3UTR	-4.73			0.8	1		
+tnaA	arcZ	CDS	sRNA	-6.94	0.2	3	0.8	3	0.5	3
+flgE	cpxP.3UTR	CDS	3UTR	-10.02	0.4	3			0.8	2
+sdhB	ryhB	CDS	sRNA	-6.18					0.8	1
+fhuA	uhpT.EST3UTR	CDS	3UTR	-6.24					0.8	U
+hflX.hflK.IGT	arcZ	IGT	sRNA	-5.23			0.8	1		
+cmk	cyaR	CDS	sRNA	-5.77					0.8	1
+mutL	arcZ	CDS	sRNA	-3.28			0.8	U		
+csrA	micF	CDS	sRNA	-11.78			0.5	U	0.8	U
+gatD	micA	CDS	sRNA	-5.39			0.8	2		
+gpmM	ryhB	CDS	sRNA	-9.88					0.8	1
+glgC	sdsR	CDS	sRNA	-6.67			0.8	U		
+fhuB	cyaR	CDS	sRNA	-2.55					0.8	U
+pheL.pheA.IGT	gcvB	IGT	sRNA	-6.39					0.8	1
+lysS	spf	CDS	sRNA	-7.92					0.8	1
+minC	cpxP.3UTR	CDS	3UTR	-3.15			0.8	1		
+flgG	cyaR	CDS	sRNA	-17.34	0.4	2			0.8	3
+yiiD	arcZ	CDS	sRNA	-4.8					0.8	U
+sthA	spf	CDS	sRNA	-8.66	0.3	U	0.8	U	0.8	1
+gatC	cpxP.3UTR	CDS	3UTR	-11			0.8	2		
+yegP	sdsR	CDS	sRNA	-6.72			0.8	1		
+ompA	yehA.EST3UTR	CDS	3UTR	-7.46			0.8	U		
+ariR.ymgC.IGT	bssR	IGT	CDS	-5.7			0.8	2		
+G0-10697.oppA.IGR	chiX	IGR	sRNA	-5.42			0.8	2		
+dxr	omrB	CDS	sRNA	-10.05					0.8	U
+ispA	spf	CDS	sRNA	-4.88	0.8	U				
+ydiU	cyaR	CDS	sRNA	-13.93					0.8	U
+atpC.atpD.IGT	cpxP.3UTR	IGT	3UTR	-9.75					0.8	1
+tar	uhpT.EST3UTR	CDS	3UTR	-2.57	0.8	U				
+hns	hupB	CDS	CDS	-10.46					0.8	3
+ompX	micA	CDS	sRNA	-6.89					0.8	1
+gadY	ryjA	cis_AS_with_trans_t	sRNA	-5.61			0.8	1		
+accA	ryhB	CDS	sRNA	-10.24					0.8	1
+glpK	arcZ	CDS	sRNA	-9.82	0.3	1	0.5	3	0.8	3
+accD	omrB	CDS	sRNA	-7.86					0.8	1
+rfbX	rmf	CDS	CDS	-11.94			0.8	3		
+damX	cyaR	CDS	sRNA	-4.59			0.8	1		
+cspD	glpX.3UTR	CDS	3UTR	-5.71			0.8	1		
+yidC	arcZ	CDS	sRNA	-6.26			0.8	U	0.4	U
+uspE	cpxP.3UTR	CDS	3UTR	-12.45			0.8	U		
+moaC	uhpT	CDS	CDS	-7.8	0.8	U				
+motA	nrfA	CDS	CDS	-7.92	0.8	U				
+yeaG	omrA	CDS	sRNA	-5.95			0.8	U		
+manX	malG.3UTR	CDS	3UTR	-9.3					0.8	1
+envC	gcvB	CDS	sRNA	-5.98					0.8	1
+ves	ryhB	CDS	sRNA	-6.48					0.8	U
+mrp	arcZ	CDS	sRNA	-10.21			0.8	2		
+deoD	flgL	CDS	CDS	-13.01					0.8	1
+rfbX	fnrS	CDS	sRNA	-7.29					0.8	U
+eda	cyaR	CDS	sRNA	-13.6			0.8	U		
+gatB	cyaR	CDS	sRNA	-8.89	0.2	1	0.8	1	0.3	1
+garP	cyaR	CDS	sRNA	-11.07					0.8	1
+fldA	ryhB	CDS	sRNA	-7.17					0.8	U
+polA	spf	CDS	sRNA	-5.41	0.5	U			0.8	U
+bssR	xylB.xylA.IGT	CDS	IGT	-2.81			0.8	U		
+ompF	uhpT.EST3UTR	CDS	3UTR	-10.23	0.3	2			0.8	2
+fabG	ykgH.EST3UTR	CDS	3UTR	-3.57					0.8	U
+tdcB	dsrA	CDS	sRNA	-6.89	0.7	U				
+ubiE	ryhB	CDS	sRNA	-7.44					0.7	1
+arcB	cyaR	CDS	sRNA	-4.67	0.7	U				
+ygaC	arcZ	CDS	sRNA	-5.17					0.7	3
+ymdA	fliC.fliA.IGR	CDS	IGR	-11.49	0.7	U			0.2	U
+pal	uhpT.EST3UTR	CDS	3UTR	-7.12					0.7	1
+bssS	ryhB	CDS	sRNA	-8.29					0.7	2
+ompA	tdcG	CDS	CDS	-6.14	0.6	U	0.4	2	0.7	U
+tig	micA	CDS	sRNA	-5.83					0.7	1
+rodZ	gcvB	CDS	sRNA	-8.15					0.7	U
+yggN	sdsR	CDS	sRNA	-6.51			0.7	U		
+aldA	sdsR	CDS	sRNA	-3.86			0.7	U		
+maeB	micA	CDS	sRNA	-7.56			0.7	U		
+pepD	sucD.EST3UTR	CDS	3UTR	-2.84					0.7	1
+mdh	cyaR	CDS	sRNA	-11.16	0.2	U	0.6	3	0.7	2
+tpx	uhpT.EST3UTR	CDS	3UTR	-8.01					0.7	1
+motA	rpsF	CDS	CDS	-9.63					0.7	1
+tonB	cyaR	CDS	sRNA	-5.93					0.7	2
+narK	yajO.dxs.IGT	CDS	IGT	-25.51	0.7	U			0.7	U
+rplT	malG.3UTR	CDS	3UTR	-2.76	0.7	U			0.7	U
+cspE	malG.3UTR	CDS	3UTR	-6.51			0.7	U		
+fliG	micA	CDS	sRNA	-4.08					0.7	1
+flhB	uhpT	CDS	CDS	-9.2					0.7	1
+eda.edd.IGT	ryhB	IGT	sRNA	-6.62					0.7	1
+hemX	arcZ	CDS	sRNA	-4.63			0.7	1	0.7	1
+ychN	cpxP.3UTR	CDS	3UTR	-13.01			0.7	U		
+htpX	micA	CDS	sRNA	-9.47			0.7	1		
+glpC	gcvB	CDS	sRNA	-10.42	0.7	5			0.6	U
+tonB	uhpT.EST3UTR	CDS	3UTR	-8.67					0.7	U
+fnr	fnrS	CDS	sRNA	-11.48	0.7	4				
+pka	ryhB	CDS	sRNA	-11.12					0.7	2
+ynaE	gcvB	CDS	sRNA	-10.75	0.7	U				
+sucD	yghD.yghF.IGR	CDS	IGR	-10.65			0.7	1		
+talB	spf	CDS	sRNA	-5.61					0.7	1
+damX	micF	CDS	sRNA	-9.57			0.7	U		
+clpS	cpxP.3UTR	CDS	3UTR	-9.71			0.7	1		
+yddB	micA	CDS	sRNA	-3.86					0.7	1
+fadJ	ryhB	CDS	sRNA	-10.31					0.7	U
+ybhQ	cyaR	CDS	sRNA	-7.48			0.7	2		
+osmC	cpxP.3UTR	CDS	3UTR	-11.48			0.7	2		
+der	cyaR	CDS	sRNA	-5.66			0.7	1		
+glpD	mgrR	CDS	sRNA	-9.79	0.6	2	0.7	3	0.5	2
+rodZ	micA	CDS	sRNA	-3.54			0.7	U		
+katG	sucD	CDS	CDS	-7.62			0.7	2		
+wrbA	rprA	CDS	sRNA	-7.84			0.7	U		
+epmB	ryhB	CDS	sRNA	-8.54					0.7	1
+dnaA	uhpT	CDS	CDS	-6.84	0.7	U				
+malE	uhpT.EST3UTR	CDS	3UTR	-8.56					0.7	1
+uspG	cyaR	CDS	sRNA	-12.16			0.7	1		
+fliE	raiA	CDS	CDS	-6.64	0.7	U				
+arrS	hdeA	cis_AS_with_trans_t	CDS	-5.66			0.7	1		
+arrS	cspD	cis_AS_with_trans_t	CDS	-8.37			0.7	1		
+fliI	uhpT	CDS	CDS	-12.87	0.7	U			0.7	1
+entB	omrB	CDS	sRNA	-5.48					0.7	1
+galM.3UTR	ryhB	3UTR	sRNA	-6.76					0.7	1
+gsk	ompA	CDS	CDS	-8.53					0.7	1
+gatD	mgrR	CDS	sRNA	-11.84	0.7	U				
+gcvH	cyaR	CDS	sRNA	-6.72	0.7	2	0.1	U		
+rsmH	spf	CDS	sRNA	-7.92	0.7	1			0.7	2
+kgtP	cyaR	CDS	sRNA	-7.89	0.2	U	0.7	3	0.3	2
+rplL	ryhB	CDS	sRNA	-5.76					0.7	2
+dppF	arcZ	CDS	sRNA	-9.02			0.7	2		
+apt	mcaS	CDS	sRNA	-6.48	0.7	U				
+motA	zapB	CDS	CDS	-9.29	0.7	1				
+lrp	cpxP.3UTR	CDS	3UTR	-17.38			0.7	U		
+yecA	cpxP.3UTR	CDS	3UTR	-7.99			0.7	1		
+bolA	cyaR	CDS	sRNA	-5.59			0.7	1		
+kgtP	yrbL.EST3UTR	CDS	3UTR	-3.16			0.7	U		
+napD	cpxP.3UTR	CDS	3UTR	-7.78	0.7	U				
+oxyR	cyaR	CDS	sRNA	-9.05			0.7	U		
+amyA	fliT	CDS	CDS	-10.98	0.7	U				
+tnaC.tnaA.IGT	spf	IGT	sRNA	-6.66	0.3	6	0.6	2	0.2	3
+aspS	mcaS	CDS	sRNA	-11.38					0.6	1
+grcA	arcZ	CDS	sRNA	-7.2			0.6	2	0.2	1
+hdeB	mgrR	CDS	sRNA	-7.43			0.6	2		
+rhlB	arcZ	CDS	sRNA	-16.77			0.6	1		
+fabG	cyaR	CDS	sRNA	-10.13	0.3	4	0.5	3	0.6	3
+cheA	mgrR	CDS	sRNA	-10.26	0.6	U			0.3	1
+rplK	chiX	CDS	sRNA	-8.52					0.6	3
+gpmA	ahpF.EST3UTR	CDS	3UTR	-13.1					0.6	1
+icd	gcvB	CDS	sRNA	-7.35	0.6	5	0.5	2	0.4	3
+lrp	gcvB	CDS	sRNA	-14.87					0.6	U
+ftsA	cyaR	CDS	sRNA	-5.32	0.6	U	0.6	1		
+ompA	cyaR	CDS	sRNA	-12.37	0.1	1	0.6	3	0.5	2
+feoB	arcZ	CDS	sRNA	-7.11					0.6	2
+rfbB	cyaR	CDS	sRNA	-5					0.6	U
+aceK	micA	CDS	sRNA	-0.67			0.6	U		
+sucC	fnrS	CDS	sRNA	-8.24			0.6	U		
+ves	cyaR	CDS	sRNA	-2.34					0.6	U
+rpsF	micA	CDS	sRNA	-7.49					0.6	2
+dmsA	motA	CDS	CDS	-11.1	0.6	U				
+glpD	cyaR	CDS	sRNA	-6.67	0.6	6	0.5	3	0.6	3
+glpT	uhpT.EST3UTR	CDS	3UTR	-6.94	0.6	4			0.6	1
+ryfD	minE.ycgI.IGR	other-ncRNA	IGR	-5.33			0.6	1		
+gadE.mdtE.IGT (gadF)	hdeB	IGT	CDS	-6.85			0.6	U		
+tdcA	cyaR	CDS	sRNA	-7.79					0.6	1
+hdeD	csrB	CDS	other-ncRNA	-3.64			0.6	3		
+ompT	ryhB	CDS	sRNA	-8.42					0.6	1
+htpX	cyaR	CDS	sRNA	-12.36			0.6	1		
+fbp	cpxP.3UTR	CDS	3UTR	-9.29			0.6	1		
+sdhC	spf	CDS	sRNA	-12.46	0.6	U				
+trg	cyaR	CDS	sRNA	-3.61					0.6	U
+rsmH	ryhB	CDS	sRNA	-14.19					0.6	1
+gpmA	cyaR	CDS	sRNA	-9.64			0.6	2	0.5	3
+hybO	micA	CDS	sRNA	-4.46	0.6	U				
+raiA	rho	CDS	CDS	-10.69			0.6	1		
+zapB	mgrR	CDS	sRNA	-11.14	0.4	U	0.6	U	0.3	1
+exbB	ryhB	CDS	sRNA	-12.7					0.6	3
+agp	cyaR	CDS	sRNA	-8.98			0.6	2	0.5	U
+bamA	motA	CDS	CDS	-8.85	0.6	U				
+ribB	ryhB	CDS	sRNA	-9.99					0.6	1
+tdcA	uhpT.EST3UTR	CDS	3UTR	-8.07	0.6	U				
+rpsB.tsf.IGT	oxyS	IGT	sRNA	-2.56					0.6	1
+tdcB	mgrR	CDS	sRNA	-5.33	0.5	2			0.6	2
+rpsS	fliC.fliA.IGR	CDS	IGR	-6.63	0.3	3	0.6	1	0.4	2
+fhuF.EST3UTR	gcvB	3UTR	sRNA	-8.03					0.6	3
+msyB	chiX	CDS	sRNA	-17.25					0.6	U
+uspA	fnrS	CDS	sRNA	-9.61	0.4	4			0.6	U
+gcvT	spf	CDS	sRNA	-8.62	0.6	U			0.5	1
+tdcB	micA	CDS	sRNA	-2.02					0.6	U
+sfsA	uhpT	CDS	CDS	-7.71	0.6	U				
+ompT	cyaR	CDS	sRNA	-15.82					0.6	U
+katG	ryhB	CDS	sRNA	-5.7					0.6	U
+deoB.deoD.IGT	uhpT.EST3UTR	IGT	3UTR	-5.02	0.6	U				
+hupA	cpxP.3UTR	CDS	3UTR	-11.71			0.6	1	0.4	U
+ydcL	gcvB	CDS	sRNA	-9.55					0.6	U
+cspD	arcZ	CDS	sRNA	-9.73	0.1	U	0.6	3	0.3	2
+oppA	cyaR	CDS	sRNA	-7.26			0.6	1		
+inaA	gcvB	CDS	sRNA	-7.97					0.6	1
+ompF	cyaR	CDS	sRNA	-6.07			0.6	1	0.2	2
+gadC.gadB.IGT	gadE.mdtE.IGT (gadF)	IGT	IGT	-7.49			0.6	1		
+cysB	arcZ	CDS	sRNA	-4.98			0.6	U		
+malT	arcZ	CDS	sRNA	-7.83					0.6	1
+yfeC	cpxP.3UTR	CDS	3UTR	-5.77			0.6	U		
+yqaB	cyaR	CDS	sRNA	-7.68	0.5	U			0.6	U
+envZ	gcvB	CDS	sRNA	-7.36					0.6	U
+maeA	ompC	CDS	CDS	-8.3					0.6	U
+frdA	purA	CDS	CDS	-6.83					0.6	U
+gatC	sdsR	CDS	sRNA	-7.34			0.6	1		
+gcvH	spf	CDS	sRNA	-8.14	0.5	1				
+dnaE	cyaR	CDS	sRNA	-6.37			0.5	U		
+lpp	cpxP.3UTR	CDS	3UTR	-10.37	0.5	2	0.3	3	0.2	2
+aldA	micA	CDS	sRNA	-2.57			0.4	2	0.5	U
+yigA	arcZ	CDS	sRNA	-9.44			0.5	1	0.3	U
+hns	ryhB	CDS	sRNA	-8.23					0.5	3
+ompF	insH-2.ybcQ.IGR	CDS	IGR	-3.48	0.5	U				
+cydX	micF	CDS	sRNA	-8.7			0.5	3		
+yieE	spf	CDS	sRNA	-8.56	0.5	U				
+pyrG	uhpT	CDS	CDS	-9.94	0.5	U				
+entD.fepA.IGT	micA	IGT	sRNA	-12.76					0.5	3
+yobF	cyaR	CDS	sRNA	-11.91			0.5	3		
+glpA	cpxP.3UTR	CDS	3UTR	-5.53			0.5	U		
+mgrR	gcvB	sRNA	sRNA	-5.37			0.5	1		
+evgA	cpxP.3UTR	CDS	3UTR	-1.18			0.5	U		
+rplL	sdsR	CDS	sRNA	-9.86			0.5	1		
+ydcV	cyaR	CDS	sRNA	-10.5			0.5	U		
+secM	ryhB	CDS	sRNA	-8.08					0.5	U
+gatZ	mgrR	CDS	sRNA	-8.85	0.2	U	0.5	2		
+glpK	rprA	CDS	sRNA	-11.39			0.5	1		
+treC.treB.IGT	mcaS	IGT	sRNA	-8.13	0.4	U			0.5	2
+tpx	arcZ	CDS	sRNA	-4.37			0.5	2	0.4	2
+recA	cyaR	CDS	sRNA	-14.5	0.3	U	0.5	1	0.4	1
+gatD	cyaR	CDS	sRNA	-10.63			0.5	2	0.3	1
+ahpF	slyB	CDS	CDS	-9.55					0.5	U
+sdhA	micA	CDS	sRNA	-4.58			0.5	U		
+sucB	fnrS	CDS	sRNA	-10.11	0.5	1				
+mepS	cyaR	CDS	sRNA	-8.2					0.5	U
+ftsZ	cyaR	CDS	sRNA	-14.17	0.4	U			0.5	1
+fliC	ybiJ.ybiC.IGR	CDS	IGR	-6.91					0.5	U
+nmpC	omrB	CDS	sRNA	-9.75	0.5	1			0.5	2
+dicA	gcvB	CDS	sRNA	-8.82					0.5	1
+cydA	rplA.rplJ.IGT	CDS	IGT	-10.21			0.5	U		
+ompA	dicF	CDS	sRNA	-6.1					0.5	U
+gatB	oxyS	CDS	sRNA	-8.38					0.5	U
+thrS	arcZ	CDS	sRNA	-5.21			0.5	2	0.2	1
+accD	ryhB	CDS	sRNA	-8.27					0.5	2
+gpsA	spf	CDS	sRNA	-9.32					0.5	1
+flgL	uhpT.EST3UTR	CDS	3UTR	-4.05					0.5	U
+nagB	omrB	CDS	sRNA	-5.44					0.5	1
+aspA	malG.3UTR	CDS	3UTR	-8.99					0.5	U
+talB	arcZ	CDS	sRNA	-5.04			0.5	U		
+fecA	rpsU	CDS	CDS	-11.52					0.5	1
+yigZ	ryhB	CDS	sRNA	-11.33					0.5	U
+flhE	arcZ	CDS	sRNA	-7.61					0.5	1
+cpxP	sdsR	CDS	sRNA	-3.3			0.5	2		
+yeeX	ryhB	CDS	sRNA	-8.26					0.5	3
+umpG	cyaR	CDS	sRNA	-8.47					0.5	U
+gltA	spf	CDS	sRNA	-10.83	0.2	U			0.5	1
+flhB	cyaR	CDS	sRNA	-10.04					0.5	U
+mltD	rprA	CDS	sRNA	-8.49			0.5	U		
+ecnB	cyaR	CDS	sRNA	-6.93			0.5	3		
+flgM	flhC	CDS	CDS	-11.73	0.5	U				
+hybO	mgrR	CDS	sRNA	-7.21	0.5	2				
+malG	ompC	CDS	CDS	-10.45	0.2	1			0.5	2
+skp	malG.3UTR	CDS	3UTR	-7.25					0.5	U
+sucB.sucC.IGT	gcvB	IGT	sRNA	-4.49	0.3	4	0.4	U	0.5	1
+nanA	spf	CDS	sRNA	-6.15	0.2	1			0.5	2
+aspA	arcZ	CDS	sRNA	-15.56	0.3	6	0.5	3	0.3	3
+luxS	arcZ	CDS	sRNA	-3.85					0.5	U
+grcA	sucD.EST3UTR	CDS	3UTR	-3.9			0.5	2		
+minD	arcZ	CDS	sRNA	-4.22			0.5	U	0.5	U
+aceA	sdsR	CDS	sRNA	-5.05			0.5	2		
+gatZ	arcZ	CDS	sRNA	-6.72			0.5	2	0.3	1
+dps	flgL.EST3UTR	CDS	3UTR	-3.87			0.5	1		
+pykA	arcZ	CDS	sRNA	-9.51			0.5	1	0.3	U
+gatA	micA	CDS	sRNA	-11.87			0.5	2		
+sucA	ryhB	CDS	sRNA	-5.41					0.5	U
+ompC	micA	CDS	sRNA	-4.01			0.5	2		
+ecnB	cpxP.3UTR	CDS	3UTR	-2.89			0.5	2		
+aceK	ydgA	CDS	CDS	-8.78			0.5	1		
+fecA	fecI	CDS	CDS	-9.37					0.5	3
+allR	cpxP	CDS	CDS	-10.58			0.5	U		
+yhfA	cyaR	CDS	sRNA	-7.53					0.5	U
+ecnB	micA	CDS	sRNA	-6.86			0.5	3		
+dcuA	ryjB.sgcQ.IGR	CDS	IGR	-4.69	0.2	U	0.5	2		
+osmY	arcZ	CDS	sRNA	-6.35			0.5	1		
+gatY	gcvB	CDS	sRNA	-7.92	0.2	6	0.2	3	0.5	3
+ryeA	arcZ	other-ncRNA	sRNA	-9.46			0.5	2	0.4	3
+aceB	mgrR	CDS	sRNA	-9.38			0.5	2		
+lspA	cyaR	CDS	sRNA	-5.13					0.5	1
+tdcC	cyaR	CDS	sRNA	-11.27					0.5	U
+adhE	mgrR	CDS	sRNA	-8.11	0.3	U			0.5	1
+fur	mcaS	CDS	sRNA	-6.94					0.5	2
+raiA	ydfK	CDS	CDS	-8.65			0.5	U		
+yjbR	mgrR	CDS	sRNA	-6.74			0.5	1		
+sraB	ryhB	other-ncRNA	sRNA	-9.02					0.5	U
+purA	ryhB	CDS	sRNA	-13.13					0.5	2
+agp	cpxP.3UTR	CDS	3UTR	-8.55			0.5	U		
+gdhA	lpp.EST3UTR	CDS	3UTR	-3.03					0.5	1
+ygfB	mgrR	CDS	sRNA	-9.37					0.5	U
+map	gcvB	CDS	sRNA	-10.7	0.4	U			0.3	1
+lpp	cyaR	CDS	sRNA	-8.45	0.1	6	0.4	3	0.2	3
+rpsF	arcZ	CDS	sRNA	-9.32					0.4	1
+ompC	glmZ.hemY.IGR	CDS	IGR	-9.79	0.1	U	0.4	1		
+galK	spf	CDS	sRNA	-10.74	0.4	U				
+bax	arcZ	CDS	sRNA	-2.03					0.4	U
+fliC	arcZ	CDS	sRNA	-5.53					0.4	2
+yhcB	arcZ	CDS	sRNA	-4.92			0.4	U		
+hpt	ryhB	CDS	sRNA	-9.22					0.4	1
+glpK	glpX.3UTR	CDS	3UTR	-8.26	0.4	U	0.4	U	0.4	1
+yoaB	gcvB	CDS	sRNA	-6.78					0.4	1
+malE	ryhB	CDS	sRNA	-7.99					0.4	1
+leuS	cyaR	CDS	sRNA	-11.3			0.4	U		
+ysaA	fnrS	CDS	sRNA	-11.62	0.4	U				
+ybeD	cyaR	CDS	sRNA	-17.18					0.4	1
+sucB.sucC.IGT	spf	IGT	sRNA	-13.31			0.4	1	0.3	1
+pntB	spf	CDS	sRNA	-11.01	0.4	U			0.2	1
+flgM	spf	CDS	sRNA	-6.87	0.4	3			0.3	1
+fepA	raiA	CDS	CDS	-5.12					0.4	2
+dksA	ryhB	CDS	sRNA	-7.09					0.4	2
+raiA	tdcA	CDS	CDS	-15.48	0.2	1			0.4	U
+gatZ	ryhB	CDS	sRNA	-8.17					0.4	3
+argX	mgrR	tRNA	sRNA	-5.33	0.2	4			0.4	3
+gadE.mdtE.IGT (gadF)	sodB	IGT	CDS	-2.43			0.4	U		
+ptsI	micA	CDS	sRNA	-14.11	0.1	U	0.4	U		
+ompX	gcvB	CDS	sRNA	-1.77					0.4	1
+rpsO	ryhB	CDS	sRNA	-4.66					0.4	3
+purA	arcZ	CDS	sRNA	-8.05			0.4	1	0.3	1
+ybfA	fnrS	CDS	sRNA	-5.78	0.4	U				
+glpF	gcvB	CDS	sRNA	-4.24					0.4	2
+ompF	omrB	CDS	sRNA	-12.5					0.4	U
+rmf	malG.3UTR	CDS	3UTR	-10.78			0.4	3		
+greA	cyaR	CDS	sRNA	-5.83			0.4	U		
+rpsT	gcvB	CDS	sRNA	-10.59	0.2	1			0.4	1
+gcvP	cyaR	CDS	sRNA	0.02			0.4	1		
+yrbN	sucD.EST3UTR	CDS	3UTR	-8.62			0.4	2	0.4	1
+malP	sstT	CDS	CDS	-4.81					0.4	1
+gadE.mdtE.IGT (gadF)	ompC	IGT	CDS	-10.97			0.4	1		
+fliC	uhpT	CDS	CDS	-6.87	0.2	1			0.4	2
+lexA	cpxP.3UTR	CDS	3UTR	-12.3			0.4	U		
+raiA	fliC.fliA.IGR	CDS	IGR	-11.53	0.2	4	0.4	U	0.2	1
+pheL	gcvB	CDS	sRNA	-4.13	0.4	U			0.4	1
+sufE	arcZ	CDS	sRNA	-4.29					0.4	U
+queE.ygcE.IGR	sdsR	IGR	sRNA	-9.96			0.4	U		
+minE	ryhB	CDS	sRNA	-7.65					0.4	2
+aceF.lpd.IGT	nanT.nanA.IGT	IGT	IGT	-8.2					0.4	1
+rpoB	arcZ	CDS	sRNA	-4.78			0.4	U		
+hisQ.hisJ.IGT	cyaR	IGT	sRNA	-4.39			0.4	U		
+rplN	dicF	CDS	sRNA	-4.62					0.4	1
+gadC.gadB.IGT	sdsR	IGT	sRNA	-9.45			0.4	U		
+flgD	dicF	CDS	sRNA	-7.85					0.4	1
+cysK.ptsH.IGR	sucD.EST3UTR	IGR	3UTR	-11.97			0.4	U		
+tnaC	arcZ	CDS	sRNA	-12.78	0.1	U			0.4	3
+gatB.gatA.IGT	ompC	IGT	CDS	-5.51			0.4	U		
+raiA	gcvB	CDS	sRNA	-11.72	0.4	6	0.1	1	0.3	3
+elaB	cpxP.3UTR	CDS	3UTR	-10.36			0.4	1		
+rcsB.EST3UTR	fnrS	3UTR	sRNA	-8.98	0.4	1				
+aceB	malG.3UTR	CDS	3UTR	-9.95			0.4	U		
+rplC	fliC.fliA.IGR	CDS	IGR	-7.46	0.4	3			0.3	3
+ftsQ	ryhB	CDS	sRNA	-11.96					0.4	U
+hybC	mgrR	CDS	sRNA	-12	0.4	U				
+ymdF	cyaR	CDS	sRNA	-8.15			0.4	1		
+galU	ryhB	CDS	sRNA	-12.19					0.4	U
+pnp	uhpT	CDS	CDS	-9.11	0.4	U				
+tusE	ryhB	CDS	sRNA	-10.18					0.4	U
+fliP	cyaR	CDS	sRNA	-4.9					0.4	1
+yfgD	ryhB	CDS	sRNA	-11.44					0.4	1
+glpB	cyaR	CDS	sRNA	-10.48	0.1	U			0.4	U
+dapD	uhpT.EST3UTR	CDS	3UTR	-5.94					0.4	U
+crl	cyaR	CDS	sRNA	-5.87			0.4	U		
+clpA	ryhB	CDS	sRNA	-8.9					0.4	U
+dctA	raiA	CDS	CDS	-5.98			0.4	U		
+damX.aroB.IGT	cyaR	IGT	sRNA	-4.23					0.4	U
+thrS	cyaR	CDS	sRNA	-6.47			0.4	2		
+flgM	motA	CDS	CDS	-10.34					0.4	U
+dbpA	ryfD	CDS	other-ncRNA	-2.79			0.4	U		
+yqjC.yqjD.IGT	sucD.EST3UTR	IGT	3UTR	-11.36			0.4	1		
+rplT	dicF	CDS	sRNA	-5.01					0.4	1
+csrA	uhpT.EST3UTR	CDS	3UTR	-6.1					0.4	1
+glnA.3UTR	yeeA.EST3UTR	3UTR	3UTR	-5.69	0.4	U				
+rpsQ	fliC.fliA.IGR	CDS	IGR	-11.63	0.4	6			0.2	3
+ccmC	cyaR	CDS	sRNA	-12.92	0.4	U				
+ompW	cyaR	CDS	sRNA	-9.34			0.4	2		
+ssb	cyaR	CDS	sRNA	-8.8	0.4	1			0.3	1
+ydfG	ryhB	CDS	sRNA	-10.06					0.4	1
+flhE.yecT.IGR	cyaR	IGR	sRNA	-13.08					0.4	U
+argQ.yqaB.IGR	arcZ	IGR	sRNA	-9.56	0.2	1			0.4	U
+aspA	sucD.EST3UTR	CDS	3UTR	-4.46			0.4	1		
+dps	cpxP.3UTR	CDS	3UTR	-10.31			0.4	1		
+rodZ	arcZ	CDS	sRNA	-9.27			0.4	U		
+alaV.rrlH.IGT	nanA	IGT	CDS	-6.48					0.4	1
+dppA	hdeA	CDS	CDS	-5.91			0.4	U		
+sthA	arcZ	CDS	sRNA	-5.76			0.3	U		
+slyA	ryhB	CDS	sRNA	-10.44					0.3	2
+fecA	ryhB	CDS	sRNA	-8.04					0.3	1
+trxA	arcZ	CDS	sRNA	-3.86			0.3	1		
+lysT	chiX	tRNA	sRNA	-5.26			0.3	2		
+clpP	arcZ	CDS	sRNA	-5.53					0.3	U
+tnaA.tnaB.IGT	spf	IGT	sRNA	-6.46			0.3	1	0.1	2
+fabI	fnrS	CDS	sRNA	-6.87	0.3	U				
+icd	micA	CDS	sRNA	-3.64			0.3	U		
+csgC.EST3UTR	spf	3UTR	sRNA	-10.62					0.3	U
+hflK	arcZ	CDS	sRNA	-4.96					0.3	1
+fumA	cyaR	CDS	sRNA	-12.28			0.3	1		
+hdhA	cyaR	CDS	sRNA	-5.69			0.3	U		
+uhpT	zipA	CDS	CDS	-7.63					0.3	U
+pfkA	cyaR	CDS	sRNA	-15.26	0.1	U			0.3	U
+dmsA	agrA	CDS	other-ncRNA	-6.39					0.3	U
+ppc	ryhB	CDS	sRNA	-7.36					0.3	U
+fliA	arcZ	CDS	sRNA	-8.55					0.3	U
+dps	arcZ	CDS	sRNA	-8.68			0.3	2		
+lipA	gcvB	CDS	sRNA	-6.97	0.3	U			0.3	1
+entD.fepA.IGT	fliC.fliA.IGR	IGT	IGR	-11.78					0.3	U
+mepS	ryhB	CDS	sRNA	-8.34					0.3	U
+trxA	sdsR	CDS	sRNA	-6.42			0.3	U		
+rpsG	dicF	CDS	sRNA	-3.98	0.3	U				
+nanK	gcvB	CDS	sRNA	-6.98	0.3	1				
+leuZ.yecA.IGR	clpB.rrsG.IGR	IGR	IGR	-2.49	0.3	U				
+flgN	uhpT	CDS	CDS	-7.63	0.3	U				
+osmC	arcZ	CDS	sRNA	-5.42			0.3	1		
+ompT	glnA.3UTR	CDS	3UTR	-6.67					0.3	1
+deoB	omrA	CDS	sRNA	-9.24					0.3	U
+clpB	cyaR	CDS	sRNA	-7.31			0.3	U		
+atpC	cpxP.3UTR	CDS	3UTR	-11.41			0.3	1		
+aceF.lpd.IGT	spf	IGT	sRNA	-8.35					0.3	1
+arcA	sdsR	CDS	sRNA	-10.29			0.3	U		
+yihX	fnrS	CDS	sRNA	-7.91	0.3	U				
+clpX	cpxP.3UTR	CDS	3UTR	-4.06			0.3	1		
+fliT.3UTR	spf	3UTR	sRNA	-12.78	0.3	1			0.3	1
+bfr	omrA	CDS	sRNA	-10.81			0.3	U		
+ygfZ	ryhB	CDS	sRNA	-9.27					0.3	U
+argQ.argZ.IGT	arcZ	IGT	sRNA	-8.61	0.2	2			0.3	1
+ybaB	ryhB	CDS	sRNA	-13.76					0.3	1
+yidF	gcvB	CDS	sRNA	-4.95	0.3	U				
+nanA	gcvB	CDS	sRNA	-5.89					0.3	1
+rseA.rpoE.IGT	micF	IGT	sRNA	-13.56			0.3	U		
+dnaK	cyaR	CDS	sRNA	-9.65			0.3	U		
+cheZ	mgrR	CDS	sRNA	-10.26					0.3	U
+glpX.glpK.IGT	glpX.3UTR	IGT	3UTR	-7.33			0.2	2	0.3	U
+flgN	gcvB	CDS	sRNA	-4.96	0.1	U			0.3	U
+fdnG	fnrS	CDS	sRNA	-8.06	0.3	2				
+rpsA	omrB	CDS	sRNA	-7.86			0.3	U	0.2	U
+nanA	cyaR	CDS	sRNA	-8.52					0.3	1
+lptC	spf	CDS	sRNA	-11.36					0.3	U
+flgC	uhpT	CDS	CDS	-3.86	0.3	U				
+yjbJ	hokE.ybdK.IGR	CDS	IGR	-4.51			0.3	3		
+malE	gcvB	CDS	sRNA	-14.99					0.3	2
+dadX	cpxP.3UTR	CDS	3UTR	-9.31			0.3	U		
+infC	glmZ.hemY.IGR	CDS	IGR	-11.71			0.3	U		
+ymcE	mgrR	CDS	sRNA	-7.08					0.3	1
+ygiW	arcZ	CDS	sRNA	-6.53			0.3	1		
+glpX	glpX.3UTR	CDS	3UTR	-2.89	0.3	U				
+rybA	micA	other-ncRNA	sRNA	-3.03			0.3	1		
+rmf	ybiJ.ybiC.IGR	CDS	IGR	-8.79			0.3	3		
+pmrD	gcvB	CDS	sRNA	-7.96					0.3	1
+lexA	mcaS	CDS	sRNA	-4.63					0.3	1
+rmf	ruvA	CDS	CDS	-9.7			0.3	1		
+fliC	ryhB	CDS	sRNA	-6.51					0.3	1
+gadC	cpxP.3UTR	CDS	3UTR	-9.99			0.3	2		
+dcyD	ompC	CDS	CDS	-10.97					0.3	U
+aceK	fur	CDS	CDS	-3.59			0.3	1		
+flgN	ryhB	CDS	sRNA	-11.72					0.3	2
+rplU	ryhB	CDS	sRNA	-6.08					0.3	3
+relB	cyaR	CDS	sRNA	-4.07			0.3	U		
+gatA	cpxP.3UTR	CDS	3UTR	-8.08					0.3	1
+ybaL	cyaR	CDS	sRNA	-8.08			0.3	U		
+ompF	mcaS	CDS	sRNA	-3.38	0.3	U				
+bamC	cyaR	CDS	sRNA	-10.92	0.2	U			0.3	U
+glpD	fnrS	CDS	sRNA	-5.79	0.3	1				
+mokB	cpxP.3UTR	CDS	3UTR	-5.9			0.3	U		
+fecA	gcvB	CDS	sRNA	-5.06					0.3	3
+yhiD	cpxP.3UTR	CDS	3UTR	-4.15			0.3	U		
+cydB	motA	CDS	CDS	-8.12					0.3	U
+glpX.glpK.IGT	uhpT	IGT	CDS	-13.04	0.1	U			0.3	2
+gpmM	cyaR	CDS	sRNA	-7	0.3	1				
+rpsQ	oxyS	CDS	sRNA	-4.48					0.3	1
+thrU	uhpT.EST3UTR	tRNA	3UTR	-14.57	0.3	6	0.0	1	0.1	3
+crr	sdsR	CDS	sRNA	-8.02			0.3	1		
+rpsP	fliC.fliA.IGR	CDS	IGR	-8.32	0.3	2				
+sucD	tolC	CDS	CDS	-7.01			0.3	U		
+ptsI	mgrR	CDS	sRNA	-7	0.3	1			0.2	1
+hupB	talB	CDS	CDS	-13.28	0.3	U			0.2	2
+yceD	omrB	CDS	sRNA	-8.18					0.3	1
+raiA	rhoL	CDS	CDS	-8.04	0.0	U	0.3	3	0.1	1
+hdeA	cyaR	CDS	sRNA	-8.8			0.3	U		
+flgM	uhpT.EST3UTR	CDS	3UTR	-8.55					0.3	U
+wzzB	spf	CDS	sRNA	-11.52	0.2	U			0.2	1
+znuC	cyaR	CDS	sRNA	-7.69			0.2	U		
+aceK	yccJ	CDS	CDS	-7.9			0.2	U		
+luxS	cyaR	CDS	sRNA	-7.84			0.2	U		
+amyA	fliD	CDS	CDS	-12.96					0.2	U
+lpp	mgrR	CDS	sRNA	-8.18			0.2	2	0.1	2
+dksA.sfsA.IGT	ryhB	IGT	sRNA	-5.1					0.2	U
+mnmA	sucD	CDS	CDS	-6.68			0.2	U		
+fusA.rpsG.IGT	uhpT.EST3UTR	IGT	3UTR	-8.85					0.2	U
+rpsK	cyaR	CDS	sRNA	-11.04	0.1	4	0.2	2	0.2	3
+rplY	uhpT	CDS	CDS	-6.03					0.2	U
+aceA.aceK.IGT	glgS	IGT	CDS	-7.2			0.2	U		
+tktA	spf	CDS	sRNA	-7.69					0.2	U
+rpoC	spf	CDS	sRNA	-5.95					0.2	1
+aceA	cpxP.3UTR	CDS	3UTR	-2.18			0.2	U		
+frdA	nrfA	CDS	CDS	-9.91	0.2	1				
+garD	gcvB	CDS	sRNA	-5.73	0.2	U				
+thrS	cpxP.3UTR	CDS	3UTR	-12.15			0.2	1		
+fdoG	sucD	CDS	CDS	-8.65			0.2	U		
+cysE	spf	CDS	sRNA	-10.95	0.2	U				
+uspA	spf	CDS	sRNA	-8.95	0.2	U			0.1	1
+fbaA.pgk.IGT	narK.narG.IGR	IGT	IGR	-18.6					0.2	2
+fliD	fliF	CDS	CDS	-15.23					0.2	U
+rpmG	uhpT.EST3UTR	CDS	3UTR	-5.7	0.1	U			0.2	2
+dps.EST3UTR	spf	3UTR	sRNA	-4.94			0.2	U		
+raiA	uhpT.EST3UTR	CDS	3UTR	-5.6	0.2	1				
+ompC	glmZ	CDS	sRNA	-13.58	0.2	U			0.2	1
+ompC	uhpT.EST3UTR	CDS	3UTR	-6.95					0.2	3
+argQ	chiX	tRNA	sRNA	-4.74			0.2	2		
+fecA	fecR	CDS	CDS	-8.54					0.2	U
+ppiD	mcaS	CDS	sRNA	-9.29	0.1	U			0.2	1
+fliC	cyaR	CDS	sRNA	-10.9	0.1	U	0.1	1	0.2	2
+frdD	cyaR	CDS	sRNA	-6.88	0.2	1	0.2	U		
+hdeA	sdsR	CDS	sRNA	-7.66			0.2	U		
+gcvB.ygdI.IGR	uhpT.EST3UTR	IGR	3UTR	-5.55	0.2	U				
+hybB	cyaR	CDS	sRNA	-5.51	0.2	U				
+cheY	ryhB	CDS	sRNA	-11.48					0.2	U
+glpQ	cpxP.3UTR	CDS	3UTR	-11.57			0.2	U		
+pepQ	gcvB	CDS	sRNA	-13.96					0.2	U
+ychH	cyaR	CDS	sRNA	-12.65			0.2	2	0.2	U
+rmf	uhpT	CDS	CDS	-7.78			0.2	U		
+pflB	omrB	CDS	sRNA	-8.28					0.2	3
+fliC	ykgH.EST3UTR	CDS	3UTR	-4.76	0.1	1			0.2	1
+ompA	arcZ	CDS	sRNA	-4.12			0.2	2		
+tnaC.tnaA.IGT	uhpT.EST3UTR	IGT	3UTR	-6.97	0.2	2				
+glpC	spf	CDS	sRNA	-11.13	0.2	U				
+ftsB	gcvB	CDS	sRNA	-11.33					0.2	U
+lpp	yicJ.selC.IGR	CDS	IGR	-8.54					0.2	U
+rmf	gcvB	CDS	sRNA	-7.45	0.2	1	0.1	3	0.2	1
+cyaA	spf	CDS	sRNA	-5.95					0.2	1
+gpmA	ryhB	CDS	sRNA	-5.46					0.2	U
+flgB	uhpT	CDS	CDS	-4.33					0.2	U
+mepS	rpmI.infC.IGT	CDS	IGT	-7.74					0.2	U
+ompC	ompF	CDS	CDS	-12.58	0.0	1			0.2	3
+rmf	dicF	CDS	sRNA	-6.35			0.2	2		
+cspE	sodB	CDS	CDS	-2.7	0.2	U				
+fliC	omrB	CDS	sRNA	-9.07					0.2	1
+fliC	ryjB	CDS	other-ncRNA	-3.96					0.2	U
+dps	raiA	CDS	CDS	-4.54			0.2	3		
+aceK	C0614.sseA.IGR	CDS	IGR	-8.85			0.2	U		
+soxS	gcvB	CDS	sRNA	-3.74					0.2	U
+cspG	fnrS	CDS	sRNA	-9.21					0.2	U
+rmf	arcZ	CDS	sRNA	-9.49			0.2	2		
+aceF.lpd.IGT	cyaR	IGT	sRNA	-9.63			0.2	2		
+grcA	spf	CDS	sRNA	-6.19	0.1	1			0.2	1
+aceK	clpB.rrsG.IGR	CDS	IGR	-9.67			0.2	1	0.1	1
+glpD.yzgL.IGR	sdsR	IGR	sRNA	-8.33			0.2	1		
+fliL	gcvB	CDS	sRNA	-8.5					0.2	1
+motA	rpsR	CDS	CDS	-10.44	0.2	U				
+malE	raiA	CDS	CDS	-12.44	0.2	U				
+aspA	narK.narG.IGR	CDS	IGR	-1.52	0.2	U				
+lpd	ryhB	CDS	sRNA	-9.13					0.2	1
+tnaC.tnaA.IGT	mgrR	IGT	sRNA	-8.24	0.2	U				
+fusA.rpsG.IGT	uhpT	IGT	CDS	-2.67	0.2	U				
+asnT	chiX	tRNA	sRNA	-9.5			0.1	2	0.2	2
+recA	gcvB	CDS	sRNA	-11.41			0.1	U	0.2	1
+cpxP	dps	CDS	CDS	-11.49			0.2	1		
+aceK	ryjB.sgcQ.IGR	CDS	IGR	-3.94			0.2	3		
+tdcC.tdcB.IGT	spf	IGT	sRNA	-8.59	0.2	U				
+hchA	raiA	CDS	CDS	-12.16			0.2	1		
+cdd	cyaR	CDS	sRNA	-4.06	0.2	U				
+tp2.aceE.IGR	sucD.EST3UTR	IGR	3UTR	-5.45			0.1	U		
+sroC	lpp.EST3UTR	other-ncRNA	3UTR	-9.54	0.1	2	0.1	3	0.1	3
+glpF	cyaR	CDS	sRNA	-9.61			0.1	1		
+raiA	cyaR	CDS	sRNA	-6.75			0.1	1		
+ompC	omrB	CDS	sRNA	-5.6					0.1	U
+ccmA	mgrR	CDS	sRNA	-6.21	0.1	U				
+flgJ	flgK	CDS	CDS	-9.38					0.1	U
+fhuF	spf	CDS	sRNA	-8.52					0.1	1
+rpmD	arcZ	CDS	sRNA	-4.77					0.1	2
+rpsU	cyaR	CDS	sRNA	-6.68					0.1	1
+gpmM	gcvB	CDS	sRNA	-5.06	0.1	U				
+aspA	mgrR	CDS	sRNA	-11.29	0.1	2	0.1	1	0.1	1
+tnaA	fnrS	CDS	sRNA	-10.84			0.1	U	0.1	1
+ompA	gcvB	CDS	sRNA	-6.48					0.1	1
+yceD	ryeA	CDS	other-ncRNA	-13.87			0.1	U		
+cspB	uhpT.EST3UTR	CDS	3UTR	-6.84					0.1	2
+talB	cyaR	CDS	sRNA	-9.51					0.1	1
+rpoH	micA	CDS	sRNA	-4.73			0.1	U		
+tpx	gcvB	CDS	sRNA	-4.91					0.1	1
+pflB	yncE	CDS	CDS	-12.91					0.1	U
+ompW	raiA	CDS	CDS	-11.62			0.1	U		
+adk	gcvB	CDS	sRNA	-8.02					0.1	1
+groS.groL.IGT	glnA.3UTR	IGT	3UTR	-5.46					0.1	1
+secG	cyaR	CDS	sRNA	-8.84	0.0	U	0.1	1	0.1	1
+thrU	uhpT	tRNA	CDS	-10.56	0.1	2				
+tnaA.tnaB.IGT	omrB	IGT	sRNA	-6.96					0.1	U
+lpp	rpoD.3UTR	CDS	3UTR	-5.88					0.1	U
+aceK	glpQ	CDS	CDS	-8.85			0.1	1		
+tp2.aceE.IGR	glnA.3UTR	IGR	3UTR	-6.52					0.1	2
+rraA	cyaR	CDS	sRNA	-5.05	0.1	U				
+hypA	fnrS	CDS	sRNA	-6.84	0.1	U				
+tpx	ryhB	CDS	sRNA	-6.48					0.1	1
+glpD.yzgL.IGR	arcZ	IGR	sRNA	-13.02					0.1	2
+rpsG	uhpT	CDS	CDS	-5.7	0.1	1				
+fusA	arcZ	CDS	sRNA	-5.65			0.1	2	0.1	2
+raiA	sucA	CDS	CDS	-7.22			0.1	U		
+rpoH	mgrR	CDS	sRNA	-10.2					0.1	U
+glpQ	ryhB	CDS	sRNA	-4.26					0.1	2
+lpxC	raiA	CDS	CDS	-10.78			0.1	2		
+rbsD	rpsB	CDS	CDS	-6.91					0.1	1
+rmf	cpxP.3UTR	CDS	3UTR	-14.48			0.1	3		
+cspF.cspB.IGR	fnrS	IGR	sRNA	-8.89	0.1	1				
+gadB	raiA	CDS	CDS	-9.05			0.1	1		
+aceK	gatY	CDS	CDS	-9.75			0.1	2		
+asnT	ptsG	tRNA	CDS	-4.85					0.1	1
+cheY	raiA	CDS	CDS	-11.36	0.0	U			0.1	2
+raiA	yibT	CDS	CDS	-9.16			0.1	1		
+tufB	micA	CDS	sRNA	-8.72					0.1	1
+ryeA.yebY.IGR	cyaR	IGR	sRNA	-5.84			0.1	U		
+srlA	tyrV	CDS	tRNA	-6.59	0.1	1				
+raiA	ryeA	CDS	other-ncRNA	-7.42			0.1	1		
+rmf	sdsR	CDS	sRNA	-8.24			0.1	3		
+cheB	raiA	CDS	CDS	-12.49	0.1	U				
+cspA	omrB	CDS	sRNA	-7.61					0.1	U
+allR	bssR	CDS	CDS	-9.65			0.1	2		
+aceB	glpF	CDS	CDS	-12.26			0.1	U		
+gapA.yeaD.IGT	spf	IGT	sRNA	-7.32					0.1	1
+rpmE	cyaR	CDS	sRNA	-9.62					0.1	1
+crr	raiA	CDS	CDS	-4.28			0.1	U		
+aceK	ryjB	CDS	other-ncRNA	-7.19			0.1	2		
+nlpI	cspA.3UTR	CDS	3UTR	-9.72					0.1	U
+ompF	tnaC.tnaA.IGT	CDS	IGT	-6.06	0.1	U				
+lpp	raiA	CDS	CDS	-7.16			0.1	1		
+bssR	rprA	CDS	sRNA	-8.56			0.1	U		
+malM	rmf	CDS	CDS	-12.78			0.1	2		
+glpD	glpD.yzgL.IGR	CDS	IGR	-8.54					0.1	1
+gatB.gatA.IGT	raiA	IGT	CDS	-16.68			0.0	U		
+kgtP	ryjB.sgcQ.IGR	CDS	IGR	-6.02			0.0	U		
+ileV	chiX	tRNA	sRNA	-5.65			0.0	2		
+lpp	ryhB	CDS	sRNA	-6.8					0.0	3
+rpsB	glnA.3UTR	CDS	3UTR	-4.78					0.0	U
+alaV.rrlH.IGT	btuB	IGT	CDS	-3.83					0.0	1
+tnaA	spf	CDS	sRNA	-8.72	0.0	U				
+dppA	rmf	CDS	CDS	-10.23			0.0	1		
+cspC	cyaR	CDS	sRNA	-3.38			0.0	1		
+rpoE	ymfL.AS	CDS	AS	-12			0.0	U		
+ompF	tnaC	CDS	CDS	-10.94					0.0	1
+tyrV.tyrT.IGT	omrB	IGT	sRNA	-8.37					0.0	1
+gmhB.rrsH.IGR	spf	IGR	sRNA	-6.06					0.0	1
+fliC	glpK	CDS	CDS	-15.58					0.0	1
+lpp	ryfD	CDS	other-ncRNA	-10.38			0.0	3	0.0	3
+acpP.fabF.IGT	ryhB	IGT	sRNA	-6.91					0.0	1
+cspE	ryjB	CDS	other-ncRNA	-6.76			0.0	2		
+aspU	chiX	tRNA	sRNA	-8.43			0.0	2		
+cspE	tyrU	CDS	tRNA	-9.24	0.0	2			0.0	3
+gltW	chiX	tRNA	sRNA	-13.31			0.0	2		
+alaX	mgrR	tRNA	sRNA	-9.14	0.0	2	0.0	3	0.0	3
+aceA	ymfL.AS	CDS	AS	-5.63			0.0	2		
+nanA	rrlD.alaU.IGT	CDS	IGT	-4.38					0.0	U
+cspE	ryjB.sgcQ.IGR	CDS	IGR	-10.23			0.0	1		
+metY	cyaR	tRNA	sRNA	-8.45			0.0	1		
+metU	chiX	tRNA	sRNA	-7.6			0.0	2		
+lysQ	chiX	tRNA	sRNA	-2.29			0.0	1		
+valW	chiX	tRNA	sRNA	-6.99			0.0	U		
+thrU	chiX	tRNA	sRNA	-4.26			0.0	2		
+alaX	sdsR	tRNA	sRNA	-7.91			0.0	1		
+valT	chiX	tRNA	sRNA	-4.27			0.0	1		
+rmf	ryjB	CDS	other-ncRNA	-8.94			0.0	U		
+leuZ	chiX	tRNA	sRNA	-3.73			0.0	2		
+rpsJ	rrfG.rrlG.IGT	CDS	IGT	-8.95					0.0	1
+leuT	chiX	tRNA	sRNA	-8.49			0.0	2		
+glyT	chiX	tRNA	sRNA	-8.82			0.0	U		
+thrV	chiX	tRNA	sRNA	-7.99			0.0	2		
+serT	chiX	tRNA	sRNA	-4.25			0.0	2		
+rpsJ	rrlH.rrfH.IGT	CDS	IGT	-4.98					0.0	1
+leuP	chiX	tRNA	sRNA	-4.42			0.0	2	0.0	2
+valU	chiX	tRNA	sRNA	-5.96			0.0	1		
+leuP	arcZ	tRNA	sRNA	-2.2			0.0	U		
+leuX	rrlH.rrfH.IGT	tRNA	IGT	-4.68					0.0	1
