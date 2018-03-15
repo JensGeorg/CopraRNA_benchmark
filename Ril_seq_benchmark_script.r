@@ -1,7 +1,7 @@
 
 
 # Benchmark Melamed et al. results
-benchfile<-"benchmark_updated.txt"
+benchfile<-"reference.txt"
 benchdat<-read.csv(benchfile, sep="\t")
 rildata<-read.csv("melamed_results.txt",sep="\t")
 nor<-cbind(rildata[,c(6,8,10)])
