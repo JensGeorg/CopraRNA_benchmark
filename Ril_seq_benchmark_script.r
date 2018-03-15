@@ -25,8 +25,9 @@ for(i in 1:length(srna)){
 	if(srna[i]=="Spot42"){
 		srna[i]<-"spf"
 	}
-	temp<-grep(srna[i],rildata[,1],ignore.case=T)
-	temp2<-grep(srna[i],rildata[,2],ignore.case=T)
+	h<-paste("^",srna[i],sep="")
+	temp<-grep(h,rildata[,1],ignore.case=T)
+	temp2<-grep(h,rildata[,2],ignore.case=T)
 	temp_table<-matrix(,length(temp)+length(temp2),4)
 	temp_table[,1]<-c(as.character(rildata[temp,1]),as.character(rildata[temp2,2]))
 	temp_table[,2]<-c(as.character(rildata[temp,2]),as.character(rildata[temp2,1]))
