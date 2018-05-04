@@ -35,4 +35,5 @@ for(i in 1:length(d)){
 	
 	
 }
-write.table(out,file="targetRNA2.txt", sep="\t")
+
+write.table(targetRNA2,file="targetRNA2.txt", sep="\t")
