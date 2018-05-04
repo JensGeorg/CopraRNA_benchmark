@@ -1,14 +1,14 @@
 
 wd<-getwd()
 d<-list.dirs( recursive=FALSE)
-ref<-read.csv("reference.txt" ,sep=";", header=T)
-a<-grep("copraRNA2_ooi_post_filtering.r", d)
-b<-grep("reference.txt", d)
-dd<-grep("\\.r", d)
+ref<-read.csv("reference_04_05_2018.txt" ,sep="\t", header=T)
+IntaRNA<-c()
+ooi_org<-"NC_000913"
 
-d<-d[-c(a,b,dd)]
-out<-matrix(,nrow(ref),9)
-colnames(out)<-c("c2_ooi","c2_ooi_cons","c2_ooi_ooicons","c2_bal","c2_bal_cons","ooi_p_filtered","ooi_p_cons_fltered","ooi_ooi_cons_p_filtered","ooi_cons_p_filtered")
+
+
+out<-matrix(,nrow(ref),10)
+colnames(out)<-c("c2_ooi","c2_ooi_cons","c2_ooi_ooicons","c2_bal","c2_bal_cons","ooi_filtered","ooi_ooi_cons_p_filtered","bal_filtered","bal_cons_filtered","IntaRNA")
 for(i in 1:length(d)){
 	print(i)
 	setwd(paste(wd,"/",d[i],sep=""))
@@ -20,14 +20,17 @@ for(i in 1:length(d)){
 	ooi_ooi_cons<-read.csv("CopraRNA2_final_ooi_ooiconsensus.csv")
 	bal<-read.csv("CopraRNA2_final_all_balanced.csv")
 	bal_cons<-read.csv("CopraRNA2_final_all_balanced_consensus.csv")
-	fil1<-read.csv("CopraRNA2_final_all_ooi_filtered1.csv")
-	fil2<-read.csv("CopraRNA2_final_all_ooi_filtered2.csv")
-	fil3<-read.csv("CopraRNA2_final_all_ooi_ooi_consensus_filtered.csv")
-	fil4<-read.csv("CopraRNA2_final_all_ooi_consensus_filtered.csv")
+	
+	fil1<-read.csv("ooi_filtered_filtered.csv")
+	fil2<-read.csv("ooi_cons_filtered_filtered.csv")
+	fil3<-read.csv("all_filtered_filtered.csv")
+	fil4<-read.csv("all_cons_filtered_filtered.csv")
+	fil<-paste(ooi_org, "_upfromstartpos_200_down_100.fa.intarna.sorted.csv",sep="")
+	datInt<-read.csv(fil)
 	e<-grep("Additional.homologs", colnames(fil1))
 	
 
-	temp<-which(ref[,1]==d[i])
+	temp<-which(ref[,1]==gsub("\\./","",d[i]))
 	
 	for(j in 1:length(temp)){
 		temp2<-grep(ref[temp[j],2],apply(ooi[,3:e], 1, paste, collapse=""))[1]
@@ -66,11 +69,18 @@ for(i in 1:length(d)){
 		if(length(temp2)>0){
 			out[temp[j],9]<-temp2
 		}
+		
+		temp2<-grep(ref[temp[j],2], apply(datInt, 1, paste, collapse=""))[1]
+		if(length(temp2)>0){
+			out[temp[j],10]<-temp2
+		}
+		
 	}
 	setwd(wd)
 
 }
 
-out<-cbind(ref[,1:4],out[,1:5],ref[,11:12],out[,6:9])
+out<-cbind(ref[,1:3],out[,1:10],ref[,"reference"])
 
 write.table(out, "benchmark_no_stm.csv", sep=";", quote=F,row.names=F)
+
