@@ -76,9 +76,9 @@ for(i in 1:length(srna)){
 }
 interactome_melamed<-positive_list
 
-benchdat<-cbind(benchdat,interactome_melamed)
+#benchdat<-cbind(benchdat,interactome_melamed)
 
-write.table(benchdat,file="benchmark_rilseq.csv",sep=";")
+#write.table(benchdat,file="benchmark_rilseq.csv",sep=";")
 
 
 ################
@@ -155,6 +155,6 @@ for(i in 1:length(srna)){
 }
 
 interactome_clash<-positive_list
-benchdat<-cbind(benchdat,interactome_clash)
+benchdat<-cbind(interactome_melamed,interactome_clash)
 
 write.table(benchdat,file="benchmark_rilseq_clash.csv",sep=";", quote=F, row.names=F)
