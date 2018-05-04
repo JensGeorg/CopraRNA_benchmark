@@ -1,6 +1,6 @@
 
 wd<-getwd()
-d<-dir()
+d<-list.dirs( recursive=FALSE)
 ref<-read.csv("reference.txt" ,sep=";", header=T)
 a<-grep("copraRNA2_ooi_post_filtering.r", d)
 b<-grep("reference.txt", d)
